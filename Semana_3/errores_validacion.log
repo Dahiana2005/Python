@@ -1,0 +1,367 @@
+2025-01-16 08:29:21,853 - ERROR - Línea 2 (Pandas index 0): 2 validation errors for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-242113196, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='anne85', input_type=str]
+2025-01-16 08:29:21,860 - ERROR - Línea 3 (Pandas index 1): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,861 - ERROR - Línea 6 (Pandas index 4): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,861 - ERROR - Línea 7 (Pandas index 5): 2 validation errors for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,863 - ERROR - Línea 18 (Pandas index 16): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='andrearay', input_type=str]
+2025-01-16 08:29:21,865 - ERROR - Línea 25 (Pandas index 23): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='morgan49', input_type=str]
+2025-01-16 08:29:21,869 - ERROR - Línea 42 (Pandas index 40): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-221146476, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,872 - ERROR - Línea 54 (Pandas index 52): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,876 - ERROR - Línea 74 (Pandas index 72): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,878 - ERROR - Línea 79 (Pandas index 77): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-142273652, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,882 - ERROR - Línea 102 (Pandas index 100): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,883 - ERROR - Línea 105 (Pandas index 103): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,884 - ERROR - Línea 107 (Pandas index 105): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='joshuataylo', input_type=str]
+2025-01-16 08:29:21,893 - ERROR - Línea 137 (Pandas index 135): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,894 - ERROR - Línea 138 (Pandas index 136): 2 validation errors for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-813131034, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='phillipjamesexample.org', input_type=str]
+2025-01-16 08:29:21,897 - ERROR - Línea 150 (Pandas index 148): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='654', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,911 - ERROR - Línea 218 (Pandas index 216): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='54', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,913 - ERROR - Línea 226 (Pandas index 224): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,914 - ERROR - Línea 233 (Pandas index 231): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='bakercarlos', input_type=str]
+2025-01-16 08:29:21,918 - ERROR - Línea 248 (Pandas index 246): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-364606463, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,918 - ERROR - Línea 251 (Pandas index 249): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='dawnmoore', input_type=str]
+2025-01-16 08:29:21,921 - ERROR - Línea 259 (Pandas index 257): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='6', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,928 - ERROR - Línea 292 (Pandas index 290): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,929 - ERROR - Línea 298 (Pandas index 296): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,931 - ERROR - Línea 307 (Pandas index 305): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,933 - ERROR - Línea 319 (Pandas index 317): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,936 - ERROR - Línea 331 (Pandas index 329): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-186766564, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,939 - ERROR - Línea 347 (Pandas index 345): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='joshuanicholson', input_type=str]
+2025-01-16 08:29:21,943 - ERROR - Línea 368 (Pandas index 366): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-870578372, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,944 - ERROR - Línea 370 (Pandas index 368): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='kwoods', input_type=str]
+2025-01-16 08:29:21,948 - ERROR - Línea 389 (Pandas index 387): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='31054', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,954 - ERROR - Línea 421 (Pandas index 419): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='welchsean', input_type=str]
+2025-01-16 08:29:21,954 - ERROR - Línea 422 (Pandas index 420): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='charleshunter', input_type=str]
+2025-01-16 08:29:21,956 - ERROR - Línea 431 (Pandas index 429): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='1', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,957 - ERROR - Línea 434 (Pandas index 432): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-852918708, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,960 - ERROR - Línea 451 (Pandas index 449): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-438844430, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,962 - ERROR - Línea 458 (Pandas index 456): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-494225394, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,962 - ERROR - Línea 460 (Pandas index 458): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,965 - ERROR - Línea 475 (Pandas index 473): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='sharongraves', input_type=str]
+2025-01-16 08:29:21,967 - ERROR - Línea 483 (Pandas index 481): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-525869882, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,972 - ERROR - Línea 504 (Pandas index 502): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='4', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,973 - ERROR - Línea 507 (Pandas index 505): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='3029', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,976 - ERROR - Línea 519 (Pandas index 517): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-812408769, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,980 - ERROR - Línea 536 (Pandas index 534): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='ethan96', input_type=str]
+2025-01-16 08:29:21,985 - ERROR - Línea 567 (Pandas index 565): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,988 - ERROR - Línea 580 (Pandas index 578): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-648580729, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,994 - ERROR - Línea 609 (Pandas index 607): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='wcraig', input_type=str]
+2025-01-16 08:29:21,994 - ERROR - Línea 611 (Pandas index 609): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,995 - ERROR - Línea 616 (Pandas index 614): 2 validation errors for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-176898181, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+Email
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,995 - ERROR - Línea 617 (Pandas index 615): 1 validation error for Definicion_datos
+Email
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,995 - ERROR - Línea 618 (Pandas index 616): 1 validation error for Definicion_datos
+Email
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,996 - ERROR - Línea 619 (Pandas index 617): 1 validation error for Definicion_datos
+Email
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,996 - ERROR - Línea 620 (Pandas index 618): 1 validation error for Definicion_datos
+Email
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:21,998 - ERROR - Línea 629 (Pandas index 627): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-596766889, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:21,998 - ERROR - Línea 632 (Pandas index 630): 1 validation error for Definicion_datos
+Prioridad
+  Value error, La prioridad debe ser una de las siguientes: {'Alta', 'Crítica', 'Media', 'Baja'} [type=value_error, input_value='3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,000 - ERROR - Línea 640 (Pandas index 638): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,001 - ERROR - Línea 643 (Pandas index 641): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,002 - ERROR - Línea 648 (Pandas index 646): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,002 - ERROR - Línea 651 (Pandas index 649): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,007 - ERROR - Línea 677 (Pandas index 675): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-289170300, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,008 - ERROR - Línea 682 (Pandas index 680): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='moyerpaige', input_type=str]
+2025-01-16 08:29:22,009 - ERROR - Línea 684 (Pandas index 682): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='30251', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,013 - ERROR - Línea 706 (Pandas index 704): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='carla97', input_type=str]
+2025-01-16 08:29:22,016 - ERROR - Línea 725 (Pandas index 723): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-111651837, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,021 - ERROR - Línea 749 (Pandas index 747): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='30', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,021 - ERROR - Línea 750 (Pandas index 748): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-200081908, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,022 - ERROR - Línea 753 (Pandas index 751): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,026 - ERROR - Línea 777 (Pandas index 775): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='zunigaisabella', input_type=str]
+2025-01-16 08:29:22,031 - ERROR - Línea 801 (Pandas index 799): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-126296269, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,035 - ERROR - Línea 823 (Pandas index 821): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-152920091, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,036 - ERROR - Línea 826 (Pandas index 824): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='3188', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,038 - ERROR - Línea 835 (Pandas index 833): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,039 - ERROR - Línea 839 (Pandas index 837): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,040 - ERROR - Línea 845 (Pandas index 843): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,044 - ERROR - Línea 867 (Pandas index 865): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='christina40', input_type=str]
+2025-01-16 08:29:22,044 - ERROR - Línea 868 (Pandas index 866): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-639475810, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,047 - ERROR - Línea 884 (Pandas index 882): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,049 - ERROR - Línea 892 (Pandas index 890): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: There must be something after the @-sign. [type=value_error, input_value='uwhite@', input_type=str]
+2025-01-16 08:29:22,051 - ERROR - Línea 903 (Pandas index 901): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='318', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,053 - ERROR - Línea 912 (Pandas index 910): 1 validation error for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-167247378, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,055 - ERROR - Línea 921 (Pandas index 919): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='ljackson', input_type=str]
+2025-01-16 08:29:22,058 - ERROR - Línea 938 (Pandas index 936): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,060 - ERROR - Línea 945 (Pandas index 943): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='jamessmith', input_type=str]
+2025-01-16 08:29:22,061 - ERROR - Línea 953 (Pandas index 951): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='3163', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,062 - ERROR - Línea 957 (Pandas index 955): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,063 - ERROR - Línea 961 (Pandas index 959): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,067 - ERROR - Línea 986 (Pandas index 984): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='omurray', input_type=str]
+2025-01-16 08:29:22,068 - ERROR - Línea 988 (Pandas index 986): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,068 - ERROR - Línea 989 (Pandas index 987): 1 validation error for Definicion_datos
+Id_Cliente
+  Input should be a valid string [type=string_type, input_value=nan, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 08:29:22,069 - ERROR - Línea 991 (Pandas index 989): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='12', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,069 - ERROR - Línea 993 (Pandas index 991): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='45', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,070 - ERROR - Línea 994 (Pandas index 992): 1 validation error for Definicion_datos
+Telefono
+  Value error, El número telefónico debe contener 10 caracteres numéricos [type=value_error, input_value='12345', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+2025-01-16 08:29:22,070 - ERROR - Línea 996 (Pandas index 994): 1 validation error for Definicion_datos
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='lawsonsusan', input_type=str]
+2025-01-16 08:29:22,071 - ERROR - Línea 998 (Pandas index 996): 2 validation errors for Definicion_datos
+Id_pedido
+  Value error, El id del pedido no puede ser negativo [type=value_error, input_value=-440898787, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/value_error
+Email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='rickythomas', input_type=str]

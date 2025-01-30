@@ -1,0 +1,1001 @@
+﻿Id_cliente;Zona;País;Tipo de producto;Canal de venta;Prioridad;Fecha_pedido;Id_pedido;Fecha envío;Telefono;Email;Unidades; Precio Unitario ; Coste unitario ; Importe venta total ; Importe Coste total 
+C2421;NA;United Kingdom;Snacks;Offline;Crítica;12/10/2020;-242113196;30/11/2020;3129421223;anne85;5530;152,58 €;97,44 €;843.767,40 €;538.843,20 €
+C1908;NA;Malta;Cárnicos;Online;Alta;26/01/2020;190800607;28/01/2020;;shelby79@example.net;994;421,89 €;364,69 €;419.358,66 €;362.501,86 €
+C7652;NA;Marshall Islands;Cereales;Online;Crítica;9/11/2020;765228068;21/11/2020;3124396798;jacobaguilar@example.com;6845;205,70 €;117,11 €;1.408.016,50 €;801.617,95 €
+C2326;NA;Iran;Frutas;Offline;Baja;21/08/2021;232631909;2/10/2021;3135755463;shaffervictor@example.org;9806;9,33 €;6,92 €;91.489,98 €;67.857,52 €
+C5305;NA;Guatemala;Alimento infantil;Offline;Media;30/09/2022;530560958;12/11/2022;;cmarks@example.org;3633;255,28 €;159,42 €;927.432,24 €;579.172,86 €
+;NA;Grenada;Bebida;Offline;4;21/01/2022;516876542;21/02/2022;3027709108;megan10@example.com;4110;47,45 €;31,79 €;195.019,50 €;130.656,90 €
+C9197;NA;Fiji;Snacks;Offline;Media;17/02/2022;919752490;27/02/2022;3109501958;hannahfisher@example.com;4056;152,58 €;97,44 €;618.864,48 €;395.216,64 €
+C2876;NA;Tunisia ;Cosméticos;Offline;Media;21/03/2020;287675130;7/05/2020;3186138477;perry79@example.com;8319;437,20 €;263,33 €;3.637.066,80 €;2.190.642,27 €
+C8394;NA;Grenada;Cuidado personal;Offline;Crítica;13/02/2021;839443290;1/04/2021;3139639127;lori88@example.com;8779;81,73 €;56,67 €;717.507,67 €;497.505,93 €
+C8141;NA;Australia;Material de oficina;Online;Media;15/06/2021;814168298;12/07/2021;3005327496;hporter@example.com;9347;651,21 €;524,96 €;6.086.859,87 €;4.906.801,12 €
+C3212;NA;Greenland;Cosméticos;Online;Alta;15/07/2022;321273982;30/08/2022;3176500211;matthewphillips@example.com;966;437,20 €;263,33 €;422.335,20 €;254.376,78 €
+C8904;NA;Angola;Snacks;Online;Crítica;13/05/2020;890496671;5/06/2020;3171734583;montgomeryronald@example.org;6609;152,58 €;97,44 €;1.008.401,22 €;643.980,96 €
+C5218;NA;Zambia;Bebida;Offline;Crítica;6/05/2021;521885192;22/05/2021;3173622960;wrojas@example.org;6281;47,45 €;31,79 €;298.033,45 €;199.672,99 €
+C4358;NA;Kenya;Verduras;Offline;Alta;7/11/2020;435800874;25/12/2020;3162911159;garciaallison@example.com;2018;154,06 €;90,93 €;310.893,08 €;183.496,74 €
+C1229;NA;Azerbaijan;Frutas;Offline;Crítica;20/10/2021;122917544;17/11/2021;3177225422;amber80@example.org;2888;9,33 €;6,92 €;26.945,04 €;19.984,96 €
+C4942;NA;Mozambique;Cuidado personal;Offline;Crítica;21/10/2021;494221532;18/11/2021;3146737198;ritaanderson@example.net;9989;81,73 €;56,67 €;816.400,97 €;566.076,63 €
+C7310;NA;Federated States of Micronesia;Cosméticos;Offline;Crítica;19/04/2020;731011664;30/04/2020;3118492773;andrearay;1451;437,20 €;263,33 €;634.377,20 €;382.091,83 €
+C5348;NA;Dominican Republic;Snacks;Offline;Crítica;3/11/2022;534899270;4/11/2022;3138528693;wdavis@example.com;7436;152,58 €;97,44 €;1.134.584,88 €;724.563,84 €
+C5778;NA;Libya;Material de oficina;Online;Alta;10/07/2022;577808177;22/07/2022;3114188519;johnsonmatthew@example.com;5135;651,21 €;524,96 €;3.343.963,35 €;2.695.669,60 €
+C2519;NA;Uzbekistan;Material de oficina;Online;Baja;1/06/2021;251974713;21/06/2021;3125236481;madison44@example.net;3772;651,21 €;524,96 €;2.456.364,12 €;1.980.149,12 €
+C8199;NA;Sri Lanka;Cuidado personal;Offline;Media;28/07/2020;819947707;5/09/2020;3054530645;bsullivan@example.net;9602;81,73 €;56,67 €;784.771,46 €;544.145,34 €
+C4645;NA;The Gambia;Cosméticos;Online;Crítica;8/06/2021;464588487;25/07/2021;3125241902;rileylinda@example.com;912;437,20 €;263,33 €;398.726,40 €;240.156,96 €
+C1390;NA;Myanmar;Snacks;Offline;Media;26/07/2021;139070880;4/08/2021;3025845548;rasmussenlarry@example.org;3019;152,58 €;97,44 €;460.639,02 €;294.171,36 €
+C4168;NA;Bhutan;Ropa;Online;Crítica;15/10/2021;416881215;21/10/2021;3124396173;morgan49;3270;109,28 €;35,84 €;357.345,60 €;117.196,80 €
+C1418;NA;Mali;Verduras;Online;Crítica;23/11/2021;141818320;29/11/2021;3127542054;markberry@example.org;6047;154,06 €;90,93 €;931.600,82 €;549.853,71 €
+C4779;NA;Burundi;Cuidado personal;Online;Alta;31/01/2022;477993524;12/03/2022;3151878323;douglascrawford@example.org;7761;81,73 €;56,67 €;634.306,53 €;439.815,87 €
+C8598;NA;Libya;Ropa;Offline;Alta;11/07/2021;859830653;5/08/2021;3048181961;aaronclayton@example.net;1852;109,28 €;35,84 €;202.386,56 €;66.375,68 €
+C3420;NA;Nigeria;Ropa;Offline;Crítica;26/08/2022;342066037;11/10/2022;3122666785;cpugh@example.org;3797;109,28 €;35,84 €;414.936,16 €;136.084,48 €
+C7497;NA;Norway;Doméstico;Online;Crítica;21/02/2021;749748504;16/03/2021;3155309036;rfisher@example.org;6098;668,27 €;502,54 €;4.075.110,46 €;3.064.488,92 €
+C8282;NA;Kenya;Cosméticos;Offline;Media;30/08/2021;828239381;8/10/2021;3139334614;santiagobrandon@example.org;3293;437,20 €;263,33 €;1.439.699,60 €;867.145,69 €
+C2932;NA;Papua New Guinea;Verduras;Online;Alta;19/02/2022;293212497;9/03/2022;3124820925;hubbardgregory@example.org;6948;154,06 €;90,93 €;1.070.408,88 €;631.781,64 €
+C2806;NA;North Korea;Cuidado personal;Offline;Baja;17/11/2020;280654180;2/01/2021;3142019323;callen@example.com;663;81,73 €;56,67 €;54.186,99 €;37.572,21 €
+C1968;NA;Montenegro;Ropa;Offline;Media;25/11/2020;196863257;9/01/2021;3154026384;mary71@example.com;5067;109,28 €;35,84 €;553.721,76 €;181.601,28 €
+C8684;NA;Norway;Frutas;Offline;Alta;6/10/2022;868451058;8/10/2022;3125393853;james76@example.org;2822;9,33 €;6,92 €;26.329,26 €;19.528,24 €
+C4923;NA;Lesotho;Ropa;Offline;Baja;7/04/2020;492341411;24/05/2020;3171113043;mooredebra@example.com;3619;109,28 €;35,84 €;395.484,32 €;129.704,96 €
+C4857;NA;Indonesia;Cárnicos;Online;Alta;2/12/2021;485770642;15/12/2021;3115407352;kevin74@example.com;9183;421,89 €;364,69 €;3.874.215,87 €;3.348.948,27 €
+C5362;NA;Iraq;Bebida;Online;Alta;28/11/2020;536287581;28/12/2020;3004620944;nlynn@example.net;8268;47,45 €;31,79 €;392.316,60 €;262.839,72 €
+C8517;NA;Singapore;Cereales;Online;Crítica;3/04/2022;851753556;12/05/2022;3187143599;renee51@example.net;1660;205,70 €;117,11 €;341.462,00 €;194.402,60 €
+C8103;NA;South Korea;Verduras;Online;Media;15/05/2021;810342395;31/05/2021;3186958327;whayes@example.net;7177;154,06 €;90,93 €;1.105.688,62 €;652.604,61 €
+C3105;NA;Lebanon;Doméstico;Online;Baja;26/08/2022;310540425;1/09/2022;3115778910;donnaschneider@example.org;4668;668,27 €;502,54 €;3.119.484,36 €;2.345.856,72 €
+C2211;NA;Myanmar;Frutas;Online;Alta;23/11/2020;-221146476;31/12/2020;3141541725;jacksonbrian@example.org;1011;9,33 €;6,92 €;9.432,63 €;6.996,12 €
+C1312;NA;Vietnam;Ropa;Online;Alta;23/09/2022;131271874;27/09/2022;3131091946;thartman@example.net;5120;109,28 €;35,84 €;559.513,60 €;183.500,80 €
+C6003;NA;Jordan;Frutas;Online;Baja;25/04/2022;600340449;2/06/2022;3171202027;uchavez@example.org;2935;9,33 €;6,92 €;27.383,55 €;20.310,20 €
+C9080;NA;Palau;Material de oficina;Offline;Baja;20/10/2022;908088529;22/11/2022;3109865474;jeffdodson@example.org;2430;651,21 €;524,96 €;1.582.440,30 €;1.275.652,80 €
+C4045;NA;Antigua and Barbuda ;Cereales;Offline;Crítica;4/08/2020;404564940;28/08/2020;3143481976;eric71@example.net;8611;205,70 €;117,11 €;1.771.282,70 €;1.008.434,21 €
+C7601;NA;Papua New Guinea;Cuidado personal;Offline;Baja;21/01/2021;760131013;28/01/2021;3109058011;nmassey@example.com;8513;81,73 €;56,67 €;695.767,49 €;482.431,71 €
+C1154;NA;El Salvador;Ropa;Offline;Media;2/11/2022;115460574;19/11/2022;3109340830;lucas37@example.org;6205;109,28 €;35,84 €;678.082,40 €;222.387,20 €
+C7315;NA;Republic of the Congo;Bebida;Offline;Baja;8/02/2022;731539952;9/02/2022;3155186185;molly38@example.com;7783;47,45 €;31,79 €;369.303,35 €;247.421,57 €
+C4396;NA;Vanuatu;Cárnicos;Online;Crítica;3/08/2022;439667975;21/09/2022;3108236655;banderson@example.net;6379;421,89 €;364,69 €;2.691.236,31 €;2.326.357,51 €
+C2914;NA;Bangladesh;Ropa;Offline;Baja;11/09/2022;291455972;16/09/2022;3181024450;coreywilkinson@example.com;7154;109,28 €;35,84 €;781.789,12 €;256.399,36 €
+C5088;NA;Burundi;Cereales;Offline;Baja;1/09/2022;508827769;13/09/2022;3139353221;nathan22@example.com;2299;205,70 €;117,11 €;472.904,30 €;269.235,89 €
+C9340;NA;South Sudan;Verduras;Online;Media;17/04/2020;934019696;7/05/2020;3184876327;wrodriguez@example.com;6039;154,06 €;90,93 €;930.368,34 €;549.126,27 €
+C5795;NA;Mozambique;Bebida;Online;4;25/11/2020;579580581;12/12/2020;3125318150;alicia81@example.net;9628;47,45 €;31,79 €;456.848,60 €;306.074,12 €
+C7783;NA;Saint Kitts and Nevis ;Cárnicos;Online;Crítica;27/08/2021;778371751;3/09/2021;3106477003;robertsonbrooke@example.com;6353;421,89 €;364,69 €;2.680.267,17 €;2.316.875,57 €
+C2335;NA;Rwanda;Verduras;Offline;Media;16/07/2021;233567035;17/08/2021;3186476985;laurawalker@example.com;6531;154,06 €;90,93 €;1.006.165,86 €;593.863,83 €
+C8686;NA;Rwanda;Bebida;Online;Alta;24/10/2022;868652760;8/12/2022;3043054946;zjones@example.net;2510;47,45 €;31,79 €;119.099,50 €;79.792,90 €
+C1774;NA;Moldova ;Verduras;Offline;Baja;23/12/2020;177427756;31/01/2021;3136156489;john29@example.com;3671;154,06 €;90,93 €;565.554,26 €;333.804,03 €
+C6740;NA;Austria;Cereales;Offline;Baja;10/07/2020;674003350;30/07/2020;3016603672;gambleapril@example.com;1424;205,70 €;117,11 €;292.916,80 €;166.764,64 €
+C4428;NA;Spain;Ropa;Offline;Baja;16/01/2022;442803370;18/02/2022;3148014655;wilsonjennifer@example.com;4212;109,28 €;35,84 €;460.287,36 €;150.958,08 €
+C7885;NA;China;Alimento infantil;Online;Crítica;27/10/2020;788564145;1/12/2020;3008271603;ahaynes@example.net;2509;255,28 €;159,42 €;640.497,52 €;399.984,78 €
+C3863;NA;Qatar;Cosméticos;Online;Media;21/07/2022;386334502;11/08/2022;3123591134;cynthiawoods@example.org;3819;437,20 €;263,33 €;1.669.666,80 €;1.005.657,27 €
+C2314;NA;Georgia;Cuidado personal;Online;Crítica;22/11/2021;231475770;23/11/2021;3177710458;sandralopez@example.net;7679;81,73 €;56,67 €;627.604,67 €;435.168,93 €
+C4896;NA;Kazakhstan;Doméstico;Online;Media;18/01/2021;489661777;11/02/2021;3022521229;brittneyjohnson@example.net;656;668,27 €;502,54 €;438.385,12 €;329.666,24 €
+C9468;NA;Namibia;Cuidado personal;Offline;Baja;18/08/2022;946878850;5/10/2022;3112786672;istephens@example.org;1348;81,73 €;56,67 €;110.172,04 €;76.391,16 €
+C5594;NA;Jamaica;Cárnicos;Offline;Baja;1/07/2022;559425818;23/07/2022;3028804419;qellis@example.org;5386;421,89 €;364,69 €;2.272.299,54 €;1.964.220,34 €
+C6039;NA;Syria;Verduras;Offline;Media;22/08/2022;603914010;1/09/2022;3186583642;yacosta@example.org;431;154,06 €;90,93 €;66.399,86 €;39.190,83 €
+C6272;NA;Tanzania;Frutas;Offline;Crítica;24/02/2021;627267253;8/03/2021;3012686181;hhayes@example.com;1174;9,33 €;6,92 €;10.953,42 €;8.124,08 €
+C6967;NA;Angola;Alimento infantil;Online;Alta;1/04/2022;696721875;12/05/2022;3025649910;lisa13@example.com;4340;255,28 €;159,42 €;1.107.915,20 €;691.882,80 €
+C9498;NA;China;Cuidado personal;Offline;Baja;18/07/2020;949826705;6/09/2020;3025310416;zcharles@example.org;3684;81,73 €;56,67 €;301.093,32 €;208.772,28 €
+C2444;NA;Hungary;Cuidado personal;Offline;Baja;30/06/2022;244443070;3/07/2022;3182919866;christopherpeterson@example.org;4991;81,73 €;56,67 €;407.914,43 €;282.839,97 €
+C2087;NA;Norway;Doméstico;Offline;Alta;29/01/2022;208744800;3/02/2022;3177337983;taylormarcus@example.net;1080;668,27 €;502,54 €;721.731,60 €;542.743,20 €
+C2912;NA;Australia;Cárnicos;Offline;Crítica;9/04/2022;291218221;2/05/2022;3181793335;henryfitzgerald@example.net;6798;421,89 €;364,69 €;2.868.008,22 €;2.479.162,62 €
+C9106;NA;Nigeria;Doméstico;Offline;Media;22/02/2022;910662162;5/03/2022;;ftaylor@example.com;4025;668,27 €;502,54 €;2.689.786,75 €;2.022.723,50 €
+C3061;NA;Thailand;Material de oficina;Online;Media;9/03/2021;306187951;17/04/2021;3028816350;sarah65@example.com;6674;651,21 €;524,96 €;4.346.175,54 €;3.503.583,04 €
+C3872;NA;Taiwan;Frutas;Offline;Alta;16/09/2020;387219417;27/09/2020;3108108272;ppatel@example.org;5685;9,33 €;6,92 €;53.041,05 €;39.340,20 €
+C8834;NA;India;Verduras;Online;Baja;5/06/2022;883492887;5/06/2022;3147877497;colleen76@example.org;4033;154,06 €;90,93 €;621.323,98 €;366.720,69 €
+C6950;NA;Romania;Bebida;Offline;Baja;24/04/2021;695057189;8/05/2021;3043992497;johnstone@example.org;1723;47,45 €;31,79 €;81.756,35 €;54.774,17 €
+C1422;NA;East Timor;Cosméticos;Online;Baja;23/04/2021;-142273652;16/05/2021;3023470941;meyersangela@example.net;790;437,20 €;263,33 €;345.388,00 €;208.030,70 €
+C5158;NA;Bosnia and Herzegovina;Cereales;Online;Baja;28/06/2022;515816104;6/08/2022;3158571130;srosario@example.org;303;205,70 €;117,11 €;62.327,10 €;35.484,33 €
+C9266;NA;Ireland;Cuidado personal;Offline;Baja;14/06/2022;926670873;17/07/2022;3135969809;tinaanthony@example.com;1359;81,73 €;56,67 €;111.071,07 €;77.014,53 €
+C5561;NA;Croatia;Doméstico;Online;Baja;19/08/2020;556136786;5/09/2020;3001559279;rodriguezjohn@example.net;2089;668,27 €;502,54 €;1.396.016,03 €;1.049.806,06 €
+C9058;NA;Iraq;Alimento infantil;Online;Baja;6/08/2022;905825173;22/08/2022;3135186931;mariomoses@example.org;2653;255,28 €;159,42 €;677.257,84 €;422.941,26 €
+C8476;NA;Malta;Material de oficina;Online;Crítica;7/06/2021;847659862;22/07/2021;3027171706;jgarcia@example.org;245;651,21 €;524,96 €;159.546,45 €;128.615,20 €
+C6738;NA;Ireland;Cárnicos;Offline;Baja;26/01/2022;673877179;21/02/2022;3053890282;robertlee@example.net;4087;421,89 €;364,69 €;1.724.264,43 €;1.490.488,03 €
+C7470;NA;Madagascar;Alimento infantil;Online;Baja;14/09/2022;747025954;12/10/2022;3126220870;cindyprice@example.com;435;255,28 €;159,42 €;111.046,80 €;69.347,70 €
+C1499;NA;Austria;Cosméticos;Online;Media;1/12/2021;149967515;27/12/2021;3028932662;jonathan27@example.net;7575;437,20 €;263,33 €;3.311.790,00 €;1.994.724,75 €
+C7358;NA;Sierra Leone;Cuidado personal;Offline;Crítica;17/02/2020;735875689;25/03/2020;3013574694;nflores@example.org;824;81,73 €;56,67 €;67.345,52 €;46.696,08 €
+C3782;NA;Netherlands;Material de oficina;Online;Crítica;9/01/2021;378236806;18/02/2021;3003778113;eric50@example.org;7531;651,21 €;524,96 €;4.904.262,51 €;3.953.473,76 €
+C6208;NA;Croatia;Cosméticos;Offline;Alta;15/07/2021;620849692;18/07/2021;3181426847;scottschwartz@example.net;2075;437,20 €;263,33 €;907.190,00 €;546.409,75 €
+C8278;NA;Trinidad and Tobago;Snacks;Offline;Baja;11/11/2021;827825677;19/11/2021;3028925827;rebeccajordan@example.net;869;152,58 €;97,44 €;132.592,02 €;84.675,36 €
+C4335;NA;South Korea;Doméstico;Offline;Crítica;5/03/2021;433588588;28/03/2021;3119379141;brian13@example.net;7353;668,27 €;502,54 €;4.913.789,31 €;3.695.176,62 €
+C2928;NA;Samoa ;Cárnicos;Offline;Alta;24/11/2021;292874753;25/12/2021;3003016534;felicia11@example.com;7003;421,89 €;364,69 €;2.954.495,67 €;2.553.924,07 €
+C4307;NA;Albania;Material de oficina;Offline;Baja;31/07/2022;430733001;2/08/2022;3057315582;millermichele@example.com;2322;651,21 €;524,96 €;1.512.109,62 €;1.218.957,12 €
+C4925;NA;Cape Verde;Frutas;Online;Media;3/03/2022;492524659;25/03/2022;3136458253;michellebeltran@example.com;7846;9,33 €;6,92 €;73.203,18 €;54.294,32 €
+C1939;NA;Italy;Bebida;Online;Baja;9/06/2021;193923556;20/06/2021;3129653904;clozano@example.org;5145;47,45 €;31,79 €;244.130,25 €;163.559,55 €
+C6709;NA;Hungary;Bebida;Offline;Baja;26/07/2021;670916020;2/08/2021;3101051497;louis10@example.net;7815;47,45 €;31,79 €;370.821,75 €;248.438,85 €
+C4298;NA;Maldives;Alimento infantil;Offline;Crítica;17/09/2022;429800879;19/10/2022;3124874828;clayton70@example.org;6486;255,28 €;159,42 €;1.655.746,08 €;1.033.998,12 €
+C2971;NA;Mali;Doméstico;Offline;Alta;25/07/2022;297189462;19/08/2022;3012110452;davissteven@example.com;3821;668,27 €;502,54 €;2.553.459,67 €;1.920.205,34 €
+C2700;NA;Yemen;Cuidado personal;Online;Media;26/08/2020;270005595;4/09/2020;3106997001;melissasmith@example.org;9511;81,73 €;56,67 €;777.334,03 €;538.988,37 €
+C8654;NA;North Korea;Snacks;Offline;Baja;15/08/2022;865485608;10/09/2022;3025544468;fwright@example.org;5279;152,58 €;97,44 €;805.469,82 €;514.385,76 €
+C8711;NA;Uzbekistan;Cereales;Offline;2;28/08/2021;871178328;28/08/2021;3172091492;redwards@example.com;9882;205,70 €;117,11 €;2.032.727,40 €;1.157.281,02 €
+C4949;NA;Latvia;Verduras;Online;Baja;12/10/2022;494945085;6/11/2022;3131802975;adam27@example.com;4104;154,06 €;90,93 €;632.262,24 €;373.176,72 €
+C9149;NA;Singapore;Snacks;Offline;Crítica;29/05/2021;914959704;24/06/2021;3126288756;yoderrichard@example.com;5764;152,58 €;97,44 €;879.471,12 €;561.644,16 €
+;NA;Lithuania;Doméstico;Online;Baja;7/12/2021;229708516;23/01/2022;3176561638;nmurray@example.net;4709;668,27 €;502,54 €;3.146.883,43 €;2.366.460,86 €
+C2079;NA;Senegal;Bebida;Offline;Alta;4/01/2022;207990348;20/01/2022;3003185832;brownmary@example.org;7821;47,45 €;31,79 €;371.106,45 €;248.629,59 €
+C4389;NA;South Sudan;Verduras;Offline;Crítica;20/07/2022;438916528;18/08/2022;3149912226;joshuataylo;4009;154,06 €;90,93 €;617.626,54 €;364.538,37 €
+C5819;NA;Bulgaria;Alimento infantil;Online;Alta;30/07/2020;581910884;16/08/2020;3043032633;hdaniels@example.org;9217;255,28 €;159,42 €;2.352.915,76 €;1.469.374,14 €
+C8167;NA;Seychelles ;Cárnicos;Offline;Alta;4/02/2022;816709744;1/03/2022;3001571189;zmorgan@example.net;1417;421,89 €;364,69 €;597.818,13 €;516.765,73 €
+C4933;NA;Saint Kitts and Nevis ;Doméstico;Online;Alta;24/08/2020;493361937;29/09/2020;3151374705;dana66@example.org;5616;668,27 €;502,54 €;3.753.004,32 €;2.822.264,64 €
+C3822;NA;Saint Vincent and the Grenadines;Alimento infantil;Offline;Alta;10/08/2021;382228791;26/09/2021;3004769990;gonzalezdaisy@example.org;8848;255,28 €;159,42 €;2.258.717,44 €;1.410.548,16 €
+C4239;NA;Andorra;Cosméticos;Offline;Baja;2/10/2020;423984134;14/11/2020;3179388176;paul55@example.net;5182;437,20 €;263,33 €;2.265.570,40 €;1.364.576,06 €
+C1796;NA;Mali;Cárnicos;Offline;Crítica;3/11/2022;179614293;23/11/2022;3105089221;yclayton@example.net;716;421,89 €;364,69 €;302.073,24 €;261.118,04 €
+C1804;NA;Togo;Cuidado personal;Offline;Media;26/02/2020;180418097;15/03/2020;3153702448;rnorton@example.org;8579;81,73 €;56,67 €;701.161,67 €;486.171,93 €
+C5780;NA;Thailand;Cárnicos;Offline;Alta;17/07/2022;578006875;21/08/2022;3008390221;alicia86@example.com;3934;421,89 €;364,69 €;1.659.715,26 €;1.434.690,46 €
+C6943;NA;Moldova ;Doméstico;Online;Alta;1/09/2021;694304454;9/09/2021;3187623752;waltonmonica@example.net;8972;668,27 €;502,54 €;5.995.718,44 €;4.508.788,88 €
+C3715;NA;Trinidad and Tobago;Alimento infantil;Online;Alta;14/01/2021;371547162;23/02/2021;3055223493;smartin@example.org;7917;255,28 €;159,42 €;2.021.051,76 €;1.262.128,14 €
+C4222;NA;Japan;Bebida;Online;Media;6/04/2020;422283828;26/04/2020;3186062893;lindsay51@example.org;2024;47,45 €;31,79 €;96.038,80 €;64.342,96 €
+C3793;NA;Central African Republic;Cereales;Offline;Crítica;23/03/2022;379375779;23/03/2022;3014607965;hortiz@example.net;4578;205,70 €;117,11 €;941.694,60 €;536.129,58 €
+C7459;NA;Azerbaijan;Cuidado personal;Online;Baja;11/03/2020;745996844;3/04/2020;3132710237;creilly@example.net;5899;81,73 €;56,67 €;482.125,27 €;334.296,33 €
+C7456;NA;Mauritania;Frutas;Offline;Baja;20/02/2022;745633351;3/04/2022;3102658890;lucasjack@example.org;8333;9,33 €;6,92 €;77.746,89 €;57.664,36 €
+C5720;NA;Portugal;Snacks;Offline;Media;16/09/2020;572084128;5/11/2020;3029760811;jarroyo@example.net;1261;152,58 €;97,44 €;192.403,38 €;122.871,84 €
+C9394;NA;Liberia;Bebida;Online;Baja;22/05/2020;939460504;24/05/2020;3169153033;gzimmerman@example.net;6095;47,45 €;31,79 €;289.207,75 €;193.760,05 €
+C8321;NA;South Sudan;Frutas;Online;Alta;12/10/2021;832186305;26/11/2021;3134830949;moorejennifer@example.com;1276;9,33 €;6,92 €;11.905,08 €;8.829,92 €
+C6549;NA;Cameroon;Frutas;Online;Baja;28/02/2020;654997861;2/04/2020;3133435193;amy82@example.net;7277;9,33 €;6,92 €;67.894,41 €;50.356,84 €
+C8829;NA;Cuba;Cárnicos;Online;Baja;23/03/2021;882943999;7/04/2021;3026095006;rvincent@example.net;1605;421,89 €;364,69 €;677.133,45 €;585.327,45 €
+C7113;NA;Malawi;Frutas;Online;Baja;27/06/2022;711386048;15/08/2022;3189849694;braymond@example.com;3795;9,33 €;6,92 €;35.407,35 €;26.261,40 €
+C3059;NA;Tuvalu;Bebida;Offline;Baja;9/06/2020;305997836;10/07/2020;3009885380;michealdelacruz@example.net;415;47,45 €;31,79 €;19.691,75 €;13.192,85 €
+C3527;NA;Burundi;Cárnicos;Offline;Alta;19/07/2020;352765691;11/08/2020;3109573179;westsarah@example.com;62;421,89 €;364,69 €;26.157,18 €;22.610,78 €
+C7079;NA;Liberia;Verduras;Online;Crítica;15/07/2021;707988440;8/08/2021;3178890406;burgessteresa@example.org;8367;154,06 €;90,93 €;1.289.020,02 €;760.811,31 €
+C8482;NA;Turkmenistan;Verduras;Offline;Media;13/07/2022;848277413;29/08/2022;3162529839;david95@example.org;2992;154,06 €;90,93 €;460.947,52 €;272.062,56 €
+C3205;NA;Uganda;Doméstico;Online;Media;16/08/2021;320556437;25/09/2021;3059001777;brianwheeler@example.com;8628;668,27 €;502,54 €;5.765.833,56 €;4.335.915,12 €
+C9920;NA;Lebanon;Alimento infantil;Online;Alta;6/03/2020;992061841;24/03/2020;3186663542;lvaldez@example.org;1999;255,28 €;159,42 €;510.304,72 €;318.680,58 €
+C3003;NA;Switzerland;Material de oficina;Online;Media;20/05/2021;300342452;24/06/2021;3052865965;alicia58@example.org;6861;651,21 €;524,96 €;4.467.951,81 €;3.601.750,56 €
+C7032;NA;Kuwait;Verduras;Online;Alta;2/04/2020;703259599;5/04/2020;3047983674;brendaatkins@example.net;8998;154,06 €;90,93 €;1.386.231,88 €;818.188,14 €
+C2289;NA;India;Ropa;Offline;Alta;17/03/2022;228987109;14/04/2022;3184606712;twalker@example.org;1229;109,28 €;35,84 €;134.305,12 €;44.047,36 €
+C1260;NA;Angola;Cereales;Online;2;22/08/2021;126011312;18/09/2021;3022296014;zachary20@example.com;8402;205,70 €;117,11 €;1.728.291,40 €;983.958,22 €
+C8131;NA;Uzbekistan;Bebida;Offline;Crítica;28/06/2020;-813131034;1/07/2020;3105294100;phillipjamesexample.org;2397;47,45 €;31,79 €;113.737,65 €;76.200,63 €
+C5294;NA;Latvia;Cuidado personal;Offline;Crítica;5/02/2021;529457604;5/03/2021;3055254708;kpennington@example.org;7126;81,73 €;56,67 €;582.407,98 €;403.830,42 €
+C2844;NA;Ghana;Cárnicos;Offline;Media;2/12/2021;284414851;7/12/2021;3012781588;brian67@example.net;3530;421,89 €;364,69 €;1.489.271,70 €;1.287.355,70 €
+C7077;NA;Poland;Bebida;Online;Crítica;22/10/2021;707739102;28/10/2021;3014010688;brentholmes@example.net;4583;47,45 €;31,79 €;217.463,35 €;145.693,57 €
+C6994;NA;Mongolia;Cosméticos;Online;Baja;15/06/2021;699479186;25/07/2021;3025086464;april85@example.com;290;437,20 €;263,33 €;126.788,00 €;76.365,70 €
+C5799;NA;Vietnam;Cereales;Online;Crítica;13/12/2021;579996430;9/01/2022;3168700863;jennifer84@example.net;2687;205,70 €;117,11 €;552.715,90 €;314.674,57 €
+C7399;NA;United Kingdom;Cereales;Online;Baja;29/06/2020;739964663;27/07/2020;3138665157;beckerrobert@example.net;842;205,70 €;117,11 €;173.199,40 €;98.606,62 €
+C2903;NA;Vanuatu;Ropa;Offline;Baja;31/05/2020;290370213;15/06/2020;3052369941;sarah07@example.com;5854;109,28 €;35,84 €;639.725,12 €;209.807,36 €
+C2125;NA;Ethiopia;Frutas;Online;Baja;22/02/2021;212511909;22/02/2021;3127600522;mariaabbott@example.org;5851;9,33 €;6,92 €;54.589,83 €;40.488,92 €
+C2080;NA;Niger;Frutas;Online;Crítica;13/07/2022;208001077;22/07/2022;3159994401;raymondthompson@example.net;996;9,33 €;6,92 €;9.292,68 €;6.892,32 €
+C9487;NA;Central African Republic;Cuidado personal;Offline;Alta;9/07/2020;948761546;13/07/2020;3174865147;zscott@example.net;8480;81,73 €;56,67 €;693.070,40 €;480.561,60 €
+C9270;NA;Cape Verde;Snacks;Offline;Crítica;18/01/2020;927029645;29/01/2020;3178877193;jonathan60@example.net;7527;152,58 €;97,44 €;1.148.469,66 €;733.430,88 €
+C5053;NA;United States of America;Cuidado personal;Offline;Crítica;26/02/2022;505354201;12/04/2022;654;gibsonpaul@example.org;4393;81,73 €;56,67 €;359.039,89 €;248.951,31 €
+C5665;NA;Sudan;Frutas;Offline;Crítica;30/07/2022;566596543;1/09/2022;3015608571;cruzlance@example.org;7363;9,33 €;6,92 €;68.696,79 €;50.951,96 €
+C2639;NA;Republic of the Congo;Material de oficina;Offline;Crítica;24/09/2021;263930499;5/11/2021;3103867549;pamelathomas@example.org;1755;651,21 €;524,96 €;1.142.873,55 €;921.304,80 €
+C1708;NA;Federated States of Micronesia;Frutas;Online;Crítica;10/06/2020;170842397;10/06/2020;3022489354;matthew65@example.net;4917;9,33 €;6,92 €;45.875,61 €;34.025,64 €
+C9311;NA;South Sudan;Frutas;Offline;Baja;10/05/2021;931131064;7/06/2021;3105152550;rickyrivers@example.com;1229;9,33 €;6,92 €;11.466,57 €;8.504,68 €
+C1089;NA;Cape Verde;Frutas;Online;Media;27/10/2021;108907830;31/10/2021;3181144069;ynelson@example.org;7102;9,33 €;6,92 €;66.261,66 €;49.145,84 €
+C7385;NA;Palau;Doméstico;Offline;Alta;31/12/2020;738596522;18/02/2021;3018836282;danamiller@example.org;5979;668,27 €;502,54 €;3.995.586,33 €;3.004.686,66 €
+C9749;NA;Bahrain;Material de oficina;Offline;Baja;29/04/2021;974933469;12/06/2021;3008828638;angela63@example.com;3333;651,21 €;524,96 €;2.170.482,93 €;1.749.691,68 €
+C8429;NA;Algeria;Material de oficina;Offline;Media;4/05/2021;842967498;14/05/2021;3131674435;walshashley@example.com;1670;651,21 €;524,96 €;1.087.520,70 €;876.683,20 €
+C8880;NA;Botswana;Cuidado personal;Online;Crítica;7/11/2022;888059937;10/12/2022;3129177211;justin08@example.com;5525;81,73 €;56,67 €;451.558,25 €;313.101,75 €
+C8258;NA;Seychelles ;Doméstico;Offline;Media;1/12/2020;825884616;3/01/2021;3141157826;pperry@example.org;6466;668,27 €;502,54 €;4.321.033,82 €;3.249.423,64 €
+C8924;NA;The Gambia;Material de oficina;Online;Alta;8/06/2022;892427861;25/07/2022;3183160125;alexander47@example.com;8091;651,21 €;524,96 €;5.268.940,11 €;4.247.451,36 €
+C4939;NA;Guinea-Bissau;Material de oficina;Online;Baja;2/11/2021;493988502;21/12/2021;3008256750;isaiahbennett@example.net;1030;651,21 €;524,96 €;670.746,30 €;540.708,80 €
+C4571;NA;Pakistan;Verduras;Offline;Baja;17/07/2022;457177865;11/08/2022;3016673728;lopezashley@example.org;7945;154,06 €;90,93 €;1.224.006,70 €;722.438,85 €
+C7789;NA;Mauritania;Cárnicos;Online;Media;19/03/2021;778919780;20/03/2021;3051778658;byrdrenee@example.com;8527;421,89 €;364,69 €;3.597.456,03 €;3.109.711,63 €
+C1764;NA;Thailand;Material de oficina;Online;Alta;22/08/2020;176450574;8/09/2020;3162605817;juliehobbs@example.org;4501;651,21 €;524,96 €;2.931.096,21 €;2.362.844,96 €
+C1373;NA;Afghanistan;Cárnicos;Offline;Media;1/08/2022;137319076;20/09/2022;3162952375;michelle03@example.org;4621;421,89 €;364,69 €;1.949.553,69 €;1.685.232,49 €
+C8693;NA;The Gambia;Ropa;Online;Baja;17/08/2020;869386613;25/09/2020;3135223344;morganfrancisco@example.net;9673;109,28 €;35,84 €;1.057.065,44 €;346.680,32 €
+C8508;NA;Oman;Cárnicos;Offline;Baja;16/08/2021;850827014;29/08/2021;3044439705;connie42@example.net;7476;421,89 €;364,69 €;3.154.049,64 €;2.726.422,44 €
+C8801;NA;Burkina Faso;Snacks;Offline;Alta;24/05/2021;880126607;7/06/2021;3017341895;dhull@example.com;7876;152,58 €;97,44 €;1.201.720,08 €;767.437,44 €
+C9260;NA;Cameroon;Ropa;Offline;Media;12/06/2020;926084220;5/07/2020;3059080170;lewisdavid@example.org;7755;109,28 €;35,84 €;847.466,40 €;277.939,20 €
+C5778;NA;Burkina Faso;Cereales;Online;Alta;21/07/2022;577811181;23/08/2022;3118607294;bethany99@example.org;6024;205,70 €;117,11 €;1.239.136,80 €;705.470,64 €
+C3947;NA;Serbia;Snacks;Online;Alta;17/11/2021;394731318;12/12/2021;3011879284;wsnyder@example.org;8624;152,58 €;97,44 €;1.315.849,92 €;840.322,56 €
+C5565;NA;Mauritius ;Doméstico;Offline;Crítica;26/07/2021;556580960;9/09/2021;3021205693;steven39@example.net;3529;668,27 €;502,54 €;2.358.324,83 €;1.773.463,66 €
+C4134;NA;Liberia;Material de oficina;Offline;Crítica;17/11/2020;413408935;13/12/2020;3188532135;barnettkathleen@example.net;5745;651,21 €;524,96 €;3.741.201,45 €;3.015.895,20 €
+C7355;NA;Latvia;Cuidado personal;Offline;Crítica;3/05/2022;735576570;17/05/2022;3138164342;allenroger@example.org;2308;81,73 €;56,67 €;188.632,84 €;130.794,36 €
+C5637;NA;China;Ropa;Offline;Media;16/09/2021;563757693;1/11/2021;3162275159;catherinebass@example.org;7284;109,28 €;35,84 €;795.995,52 €;261.058,56 €
+C3589;NA;New Zealand;Verduras;Online;Baja;22/11/2020;358938634;9/12/2020;3159296136;jonesjeffrey@example.com;6773;154,06 €;90,93 €;1.043.448,38 €;615.868,89 €
+C6524;NA;Sierra Leone;Snacks;Online;Crítica;3/10/2020;652418220;19/10/2020;3115571104;shannongarrett@example.net;3904;152,58 €;97,44 €;595.672,32 €;380.405,76 €
+C6958;NA;Bulgaria;Material de oficina;Online;Crítica;26/07/2022;695807778;6/09/2022;3142968102;jennifermiller@example.com;3839;651,21 €;524,96 €;2.499.995,19 €;2.015.321,44 €
+C7110;NA;Somalia;Material de oficina;Offline;Crítica;5/11/2020;711031138;7/12/2020;3129210349;anthonydavis@example.net;8769;651,21 €;524,96 €;5.710.460,49 €;4.603.374,24 €
+C5403;NA;Spain;Bebida;Offline;Alta;17/12/2021;540324628;25/01/2022;3044469609;anthonyharris@example.org;2919;47,45 €;31,79 €;138.506,55 €;92.795,01 €
+C9962;NA;Cyprus;Cereales;Offline;Media;31/08/2022;996237075;31/08/2022;3028156621;nelsonpeter@example.com;7544;205,70 €;117,11 €;1.551.800,80 €;883.477,84 €
+C7116;NA;Namibia;Ropa;Online;Media;12/02/2020;711629807;5/03/2020;3144821411;arodriguez@example.org;5929;109,28 €;35,84 €;647.921,12 €;212.495,36 €
+C1896;NA;Greenland;Cereales;Offline;Alta;19/11/2021;189676654;1/01/2022;3127581087;travisbishop@example.net;8392;205,70 €;117,11 €;1.726.234,40 €;982.787,12 €
+C4538;NA;Rwanda;Doméstico;Online;Baja;23/08/2021;453863942;9/09/2021;3027291223;williamserin@example.com;7281;668,27 €;502,54 €;4.865.673,87 €;3.658.993,74 €
+C7979;NA;The Bahamas;Material de oficina;Offline;Baja;14/08/2020;797990500;22/09/2020;3135763650;wtran@example.net;1977;651,21 €;524,96 €;1.287.442,17 €;1.037.845,92 €
+C1361;NA;Germany;Bebida;Online;Alta;8/06/2020;136167657;21/06/2020;3175430925;jeromegilbert@example.com;3890;47,45 €;31,79 €;184.580,50 €;123.663,10 €
+C1528;NA;Cyprus;Bebida;Online;Crítica;11/09/2021;152819240;16/10/2021;3177398833;scottmatthews@example.com;1464;47,45 €;31,79 €;69.466,80 €;46.540,56 €
+C3526;NA;Luxembourg;Snacks;Online;Crítica;15/07/2022;352681577;25/07/2022;3164307059;whart@example.com;5171;152,58 €;97,44 €;788.991,18 €;503.862,24 €
+C3108;NA;Tuvalu;Cereales;Online;Alta;27/01/2020;310803496;4/03/2020;3043030841;pameladavis@example.org;2516;205,70 €;117,11 €;517.541,20 €;294.648,76 €
+C1225;NA;Bulgaria;Cosméticos;Offline;Baja;26/05/2020;122546327;18/06/2020;3024403687;hhill@example.org;3036;437,20 €;263,33 €;1.327.339,20 €;799.469,88 €
+C8535;NA;Bangladesh;Frutas;Offline;Alta;4/01/2020;853583896;20/01/2020;3164270863;danielle57@example.com;3298;9,33 €;6,92 €;30.770,34 €;22.822,16 €
+C4899;NA;El Salvador;Cuidado personal;Offline;Alta;4/07/2021;489902532;31/07/2021;3045599930;fhernandez@example.org;1901;81,73 €;56,67 €;155.368,73 €;107.729,67 €
+C6878;NA;China;Verduras;Online;Media;2/10/2020;687801063;6/10/2020;3171077500;gloriathompson@example.net;4474;154,06 €;90,93 €;689.264,44 €;406.820,82 €
+C9238;NA;Mongolia;Cárnicos;Online;Media;7/08/2022;923890817;17/08/2022;3117139848;ryanjennifer@example.net;8678;421,89 €;364,69 €;3.661.161,42 €;3.164.779,82 €
+C7450;NA;Solomon Islands;Frutas;Offline;Alta;11/04/2022;745095622;27/05/2022;3011014666;petersonheather@example.org;9207;9,33 €;6,92 €;85.901,31 €;63.712,44 €
+C2186;NA;Mauritania;Cosméticos;Offline;Baja;23/02/2021;218651807;19/03/2021;3017612259;ljones@example.org;2783;437,20 €;263,33 €;1.216.727,60 €;732.847,39 €
+C3821;NA;South Korea;Verduras;Online;Media;26/05/2022;382108199;13/07/2022;3143564598;nsingh@example.net;3162;154,06 €;90,93 €;487.137,72 €;287.520,66 €
+C9933;NA;Myanmar;Material de oficina;Online;Baja;17/01/2021;993326127;18/02/2021;3101121631;flemingryan@example.net;6130;651,21 €;524,96 €;3.991.917,30 €;3.218.004,80 €
+C9804;NA;Botswana;Cereales;Offline;Baja;7/07/2022;980479419;6/08/2022;3053761984;zachary96@example.com;4503;205,70 €;117,11 €;926.267,10 €;527.346,33 €
+C6920;NA;Portugal;Snacks;Offline;Crítica;11/03/2021;692054402;20/03/2021;3172989672;jennifer59@example.com;3131;152,58 €;97,44 €;477.727,98 €;305.084,64 €
+C5468;NA;Spain;Verduras;Offline;Crítica;16/11/2021;546849906;11/12/2021;3126711280;jennifer14@example.org;3894;154,06 €;90,93 €;599.909,64 €;354.081,42 €
+C5839;NA;Cote d'Ivoire;Bebida;Offline;Baja;11/03/2021;583977258;25/04/2021;3187190017;amartinez@example.com;703;47,45 €;31,79 €;33.357,35 €;22.348,37 €
+C9128;NA;Russia;Alimento infantil;Online;Crítica;13/06/2020;912860286;10/07/2020;3057525255;richard48@example.org;4499;255,28 €;159,42 €;1.148.504,72 €;717.230,58 €
+C3632;NA;Federated States of Micronesia;Ropa;Offline;Media;15/05/2021;363235318;25/06/2021;3134491420;dbrown@example.com;8257;109,28 €;35,84 €;902.324,96 €;295.930,88 €
+C5351;NA;The Gambia;Cárnicos;Offline;Alta;11/10/2021;535151183;24/11/2021;3123364278;melody66@example.org;1982;421,89 €;364,69 €;836.185,98 €;722.815,58 €
+C8489;NA;Luxembourg;Frutas;Offline;Alta;7/10/2022;848969209;15/10/2022;3041653611;thomasrobert@example.net;7710;9,33 €;6,92 €;71.934,30 €;53.353,20 €
+C7953;NA;Liberia;Frutas;Offline;Crítica;15/07/2021;795363223;30/08/2021;3008678653;jroberts@example.org;4507;9,33 €;6,92 €;42.050,31 €;31.188,44 €
+C3853;NA;Burundi;Cosméticos;Offline;Crítica;1/06/2021;385319554;27/06/2021;3174963405;newtonbrittany@example.net;3474;437,20 €;263,33 €;1.518.832,80 €;914.808,42 €
+C6001;NA;Syria;Cereales;Offline;Alta;2/11/2021;600137031;15/11/2021;3122018825;melissa75@example.com;2739;205,70 €;117,11 €;563.412,30 €;320.764,29 €
+C2414;NA;United States of America;Ropa;Offline;Alta;24/08/2022;241426980;24/09/2022;3131273648;justinsantiago@example.net;2463;109,28 €;35,84 €;269.156,64 €;88.273,92 €
+C8811;NA;Japan;Alimento infantil;Offline;Baja;24/08/2022;881113231;5/10/2022;3177461976;mpitts@example.net;9840;255,28 €;159,42 €;2.511.955,20 €;1.568.692,80 €
+C1114;NA;Laos;Frutas;Offline;Baja;22/01/2021;111432111;14/02/2021;3114486388;robert00@example.com;4093;9,33 €;6,92 €;38.187,69 €;28.323,56 €
+C9949;NA;Germany;Verduras;Online;Crítica;14/10/2021;994932448;23/11/2021;3015985258;lauragutierrez@example.org;1476;154,06 €;90,93 €;227.392,56 €;134.212,68 €
+C8144;NA;Greenland;Cuidado personal;Online;Crítica;23/07/2020;814475572;10/08/2020;3104035066;shawnhoover@example.com;276;81,73 €;56,67 €;22.557,48 €;15.640,92 €
+C5232;NA;Jamaica;Cárnicos;Offline;Alta;26/08/2020;523235309;20/09/2020;3113320816;conleybrittany@example.com;5810;421,89 €;364,69 €;2.451.180,90 €;2.118.848,90 €
+C6946;NA;Switzerland;Verduras;Online;Media;13/01/2020;694697988;23/02/2020;3044020982;dustinlynch@example.net;5427;154,06 €;90,93 €;836.083,62 €;493.477,11 €
+C1726;NA;Sweden;Material de oficina;Online;Media;10/05/2021;172662436;10/06/2021;54;jamiecombs@example.com;3507;651,21 €;524,96 €;2.283.793,47 €;1.841.034,72 €
+C1212;NA;Liberia;Bebida;Online;Media;15/12/2021;121239984;13/01/2022;3009284025;qgutierrez@example.org;6460;47,45 €;31,79 €;306.527,00 €;205.363,40 €
+C8748;NA;Kiribati;Alimento infantil;Offline;Media;2/01/2021;874854457;4/01/2021;3176418912;douglas92@example.com;7730;255,28 €;159,42 €;1.973.314,40 €;1.232.316,60 €
+C5882;NA;Malta;Cárnicos;Online;Media;6/12/2020;588242185;10/01/2021;3011424346;stacey97@example.net;2789;421,89 €;364,69 €;1.176.651,21 €;1.017.120,41 €
+C1864;NA;Philippines;Cuidado personal;Online;Baja;12/04/2020;186451995;29/05/2020;3108476124;david89@example.org;4144;81,73 €;56,67 €;338.689,12 €;234.840,48 €
+C2148;NA;Comoros;Alimento infantil;Offline;Baja;8/11/2020;214845216;29/11/2020;3149349355;fturner@example.com;6329;255,28 €;159,42 €;1.615.667,12 €;1.008.969,18 €
+C3890;NA;Liechtenstein;Doméstico;Offline;Baja;29/07/2020;389095675;30/08/2020;3115091573;cruzcynthia@example.com;912;668,27 €;502,54 €;609.462,24 €;458.316,48 €
+C9451;NA;Lebanon;Cereales;Online;Baja;15/08/2020;945189702;29/08/2020;3117052651;uwolfe@example.net;1492;205,70 €;117,11 €;306.904,40 €;174.728,12 €
+C3894;NA;Greenland;Cereales;Offline;2;22/02/2021;389426124;5/04/2021;3128499604;marquezchad@example.net;8699;205,70 €;117,11 €;1.789.384,30 €;1.018.739,89 €
+C4484;NA;Chad;Cereales;Online;Media;13/09/2022;448416268;15/09/2022;3045064805;gibsonchristopher@example.net;5193;205,70 €;117,11 €;1.068.200,10 €;608.152,23 €
+C2190;NA;Macedonia;Doméstico;Offline;Baja;15/12/2021;219083964;5/01/2022;3122601378;harrisjonathan@example.org;668;668,27 €;502,54 €;446.404,36 €;335.696,72 €
+C2186;NA;United Arab Emirates;Cosméticos;Offline;Alta;12/09/2021;218665540;19/10/2021;3005846468;kcampbell@example.net;6847;437,20 €;263,33 €;2.993.508,40 €;1.803.020,51 €
+C1347;NA;Qatar;Cereales;Offline;Alta;29/10/2020;134709823;25/11/2020;3109924415;charlessilva@example.org;2485;205,70 €;117,11 €;511.164,50 €;291.018,35 €
+C1750;NA;Iraq;Verduras;Online;Alta;5/07/2021;175078141;5/08/2021;3123645387;michael21@example.org;8367;154,06 €;90,93 €;1.289.020,02 €;760.811,31 €
+C6179;NA;Kosovo;Material de oficina;Online;Baja;7/01/2022;617944324;4/02/2022;3045269355;kingtravis@example.org;2312;651,21 €;524,96 €;1.505.597,52 €;1.213.707,52 €
+C4617;NA;Bhutan;Cosméticos;Offline;Crítica;12/01/2021;461794698;22/01/2021;3043738231;bakercarlos;4168;437,20 €;263,33 €;1.822.249,60 €;1.097.559,44 €
+C5754;NA;Cuba;Ropa;Offline;Alta;2/12/2021;575428092;10/12/2021;3008442993;mooreheather@example.net;815;109,28 €;35,84 €;89.063,20 €;29.209,60 €
+C5479;NA;Mexico;Alimento infantil;Online;Media;25/09/2022;547955834;9/10/2022;3173666297;edward20@example.org;1163;255,28 €;159,42 €;296.890,64 €;185.405,46 €
+C9388;NA;Cote d'Ivoire;Bebida;Online;Media;1/07/2020;938801753;12/07/2020;3158464470;bortiz@example.com;1156;47,45 €;31,79 €;54.852,20 €;36.749,24 €
+C1277;NA;Nigeria;Cereales;Offline;Alta;20/03/2021;127702176;2/05/2021;3101097999;simonthomas@example.com;8767;205,70 €;117,11 €;1.803.371,90 €;1.026.703,37 €
+C1647;NA;Vanuatu;Material de oficina;Offline;Alta;17/04/2021;164705932;31/05/2021;3046174427;frederickjones@example.net;9000;651,21 €;524,96 €;5.860.890,00 €;4.724.640,00 €
+C9201;NA;Kuwait;Verduras;Offline;Baja;20/05/2020;920174348;30/05/2020;3044947034;heidimiller@example.org;8893;154,06 €;90,93 €;1.370.055,58 €;808.640,49 €
+C5347;NA;Namibia;Cárnicos;Offline;Media;3/11/2022;534781253;30/11/2022;3019676107;troyhill@example.net;2512;421,89 €;364,69 €;1.059.787,68 €;916.101,28 €
+C3695;NA;Egypt;Verduras;Online;Baja;25/12/2021;369512975;5/02/2022;3134493970;maria12@example.net;5955;154,06 €;90,93 €;917.427,30 €;541.488,15 €
+C9556;NA;Swaziland;Frutas;Offline;Crítica;15/07/2021;955668342;26/08/2021;3144916044;ahickman@example.com;2354;9,33 €;6,92 €;21.962,82 €;16.289,68 €
+C6448;NA;Antigua and Barbuda ;Cárnicos;Offline;Crítica;8/10/2022;644858682;4/11/2022;3043838712;ltodd@example.org;6869;421,89 €;364,69 €;2.897.962,41 €;2.505.055,61 €
+C5590;NA;Sri Lanka;Verduras;Offline;Alta;15/03/2020;559007823;18/04/2020;3055867766;jerry77@example.org;1692;154,06 €;90,93 €;260.669,52 €;153.853,56 €
+C5403;NA;Liechtenstein;Bebida;Offline;Media;15/03/2020;540352094;30/03/2020;3055676288;aaron77@example.com;1047;47,45 €;31,79 €;49.680,15 €;33.284,13 €
+C5014;NA;Angola;Material de oficina;Online;Crítica;20/05/2022;501440322;30/05/2022;3161961404;ibender@example.net;6189;651,21 €;524,96 €;4.030.338,69 €;3.248.977,44 €
+C8751;NA;Brunei;Doméstico;Offline;Crítica;16/01/2021;875133836;6/02/2021;3122195809;anna91@example.net;404;668,27 €;502,54 €;269.981,08 €;203.026,16 €
+C3646;NA;Samoa ;Ropa;Offline;Crítica;23/11/2020;-364606463;2/01/2021;3017622423;uwilliams@example.org;4010;109,28 €;35,84 €;438.212,80 €;143.718,40 €
+C8933;NA;Marshall Islands;Frutas;Online;Baja;30/04/2021;893344533;20/05/2021;3019764953;uwilson@example.org;9354;9,33 €;6,92 €;87.272,82 €;64.729,68 €
+C8551;NA;Democratic Republic of the Congo;Frutas;Online;Crítica;15/09/2020;855146872;20/09/2020;3024753884;hmorton@example.net;5818;9,33 €;6,92 €;54.281,94 €;40.260,56 €
+C9641;NA;Tonga;Cosméticos;Online;Crítica;30/08/2020;964124810;31/08/2020;3176522222;dawnmoore;4811;437,20 €;263,33 €;2.103.369,20 €;1.266.880,63 €
+C2047;NA;Mozambique;Snacks;Offline;Crítica;15/10/2021;204702174;17/10/2021;3047212979;bergerraymond@example.org;4777;152,58 €;97,44 €;728.874,66 €;465.470,88 €
+C7816;NA;Kuwait;Cárnicos;Online;Media;25/03/2022;781615293;10/04/2022;3053501144;cjones@example.net;6189;421,89 €;364,69 €;2.611.077,21 €;2.257.066,41 €
+C4699;NA;Romania;Bebida;Offline;Alta;16/12/2021;469912993;22/01/2022;3054190056;rebeccaenglish@example.org;6552;47,45 €;31,79 €;310.892,40 €;208.288,08 €
+C2649;NA;South Sudan;Cosméticos;Online;Crítica;9/05/2021;264956605;4/06/2021;3154554463;hhughes@example.org;5402;437,20 €;263,33 €;2.361.754,40 €;1.422.508,66 €
+C3324;NA;Malaysia;Snacks;Offline;Crítica;13/08/2022;332419955;12/09/2022;3142133925;daviskathy@example.org;9307;152,58 €;97,44 €;1.420.062,06 €;906.874,08 €
+C4582;NA;Costa Rica;Snacks;Offline;Media;22/08/2022;458289372;30/08/2022;3114708322;kaitlinprice@example.net;6864;152,58 €;97,44 €;1.047.309,12 €;668.828,16 €
+C4988;NA;Croatia;Cuidado personal;Online;Alta;25/02/2020;498863685;8/03/2020;3182018753;kellyford@example.org;3705;81,73 €;56,67 €;302.809,65 €;209.962,35 €
+C8307;NA;Nepal;Bebida;Offline;Baja;5/11/2022;830754220;7/11/2022;6;brandipatterson@example.net;7490;47,45 €;31,79 €;355.400,50 €;238.107,10 €
+C1008;NA;Tajikistan;Alimento infantil;Online;Alta;1/04/2020;100884807;30/04/2020;3152768146;david90@example.org;2911;255,28 €;159,42 €;743.120,08 €;464.071,62 €
+C1764;NA;Serbia;Cárnicos;Offline;Alta;17/04/2022;176491773;24/04/2022;3022191202;jeff01@example.net;6692;421,89 €;364,69 €;2.823.287,88 €;2.440.505,48 €
+C2951;NA;Angola;Cárnicos;Offline;Baja;25/09/2020;295123946;3/11/2020;3023523078;cgomez@example.com;2589;421,89 €;364,69 €;1.092.273,21 €;944.182,41 €
+C2146;NA;Japan;Cuidado personal;Online;Baja;7/01/2022;214642655;14/02/2022;3014104129;christopherbrady@example.com;6386;81,73 €;56,67 €;521.927,78 €;361.894,62 €
+C6632;NA;Iceland;Cárnicos;Online;Media;21/02/2020;663221728;1/03/2020;3119816756;jacksonsharon@example.net;903;421,89 €;364,69 €;380.966,67 €;329.315,07 €
+C1893;NA;Cyprus;Ropa;Offline;Media;2/12/2020;189347493;21/12/2020;3176593902;marygriffin@example.org;986;109,28 €;35,84 €;107.750,08 €;35.338,24 €
+C1118;NA;East Timor;Bebida;Offline;Alta;30/07/2020;111818778;23/08/2020;3123993936;thomasdavis@example.org;8516;47,45 €;31,79 €;404.084,20 €;270.723,64 €
+C4697;NA;Tajikistan;Material de oficina;Online;Baja;17/06/2021;469746911;28/07/2021;3123917724;wwatson@example.com;7405;651,21 €;524,96 €;4.822.210,05 €;3.887.328,80 €
+C4725;NA;Somalia;Doméstico;Online;Crítica;7/01/2022;472555720;3/02/2022;3177776623;josephmartinez@example.com;8594;668,27 €;502,54 €;5.743.112,38 €;4.318.828,76 €
+C7499;NA;Spain;Ropa;Offline;Alta;9/02/2021;749981534;11/02/2021;3162758147;tbryant@example.com;5057;109,28 €;35,84 €;552.628,96 €;181.242,88 €
+C2020;NA;Sweden;Cereales;Online;Crítica;12/04/2022;202073180;8/05/2022;3058796507;wagnermichelle@example.net;6799;205,70 €;117,11 €;1.398.554,30 €;796.230,89 €
+C9491;NA;Ethiopia;Doméstico;Offline;Baja;26/11/2020;949191987;15/12/2020;3177221783;chrisjohnson@example.com;5857;668,27 €;502,54 €;3.914.057,39 €;2.943.376,78 €
+C6820;NA;Turkmenistan;Cuidado personal;Offline;Baja;4/10/2022;682011783;14/11/2022;3134531487;alexanderalyssa@example.com;1297;81,73 €;56,67 €;106.003,81 €;73.500,99 €
+C3115;NA;Malta;Ropa;Online;Baja;6/08/2022;311518895;21/08/2022;3004580213;kmoore@example.org;4219;109,28 €;35,84 €;461.052,32 €;151.208,96 €
+C8190;NA;Malawi;Cosméticos;Offline;Baja;16/09/2022;819012153;18/09/2022;3009278363;patrick25@example.net;2751;437,20 €;263,33 €;1.202.737,20 €;724.420,83 €
+C1061;NA;Czech Republic;Material de oficina;Offline;Crítica;29/01/2020;106102883;28/02/2020;3126538804;jesusrogers@example.org;7056;651,21 €;524,96 €;4.594.937,76 €;3.704.117,76 €
+C6447;NA;Netherlands;Cárnicos;Offline;Media;3/02/2022;644714915;10/02/2022;3016857206;masseyshelby@example.com;4325;421,89 €;364,69 €;1.824.674,25 €;1.577.284,25 €
+C9270;NA;Sweden;Bebida;Offline;Baja;2/04/2022;927084577;16/04/2022;3166163922;martinrandall@example.net;3783;47,45 €;31,79 €;179.503,35 €;120.261,57 €
+C4157;NA;Saudi Arabia;Verduras;Online;Crítica;6/08/2021;415760695;18/08/2021;3043651622;garciasherry@example.com;1684;154,06 €;90,93 €;259.437,04 €;153.126,12 €
+C8936;NA;Turkey;Cereales;Online;Media;29/07/2021;893604600;29/08/2021;3119810240;paulmoore@example.com;6314;205,70 €;117,11 €;1.298.789,80 €;739.432,54 €
+C6137;NA;Dominican Republic;Ropa;Offline;Baja;12/08/2022;613790118;18/09/2022;3186050237;briancruz@example.org;2991;109,28 €;35,84 €;326.856,48 €;107.197,44 €
+C1498;NA;Uzbekistan;Cuidado personal;Offline;Alta;31/08/2022;149803578;7/09/2022;3164727893;marshalltodd@example.net;9063;81,73 €;56,67 €;740.718,99 €;513.600,21 €
+C1454;NA;Kuwait;Snacks;Offline;Media;14/07/2021;145443809;26/07/2021;3188652771;eparker@example.net;8910;152,58 €;97,44 €;1.359.487,80 €;868.190,40 €
+C8648;NA;Federated States of Micronesia;Ropa;Offline;Crítica;9/04/2022;864822137;11/05/2022;3175382473;lisa09@example.net;8943;109,28 €;35,84 €;977.291,04 €;320.517,12 €
+C8423;NA;Samoa ;Material de oficina;Online;Alta;10/03/2021;842362391;14/04/2021;3025907304;mrodriguez@example.org;2606;651,21 €;524,96 €;1.697.053,26 €;1.368.045,76 €
+C9328;NA;Eritrea;Snacks;Online;Baja;18/09/2020;932800900;21/09/2020;3014374781;brockdavid@example.com;5370;152,58 €;97,44 €;819.354,60 €;523.252,80 €
+C2611;NA;Singapore;Alimento infantil;Online;Alta;3/04/2022;261186492;13/04/2022;3026459526;ebarber@example.org;9742;255,28 €;159,42 €;2.486.937,76 €;1.553.069,64 €
+C2728;NA;Mauritania;Doméstico;Offline;Media;23/11/2021;272880494;31/12/2021;3025153072;john24@example.org;257;668,27 €;502,54 €;171.745,39 €;129.152,78 €
+C6835;NA;Bhutan;Ropa;Online;Alta;30/05/2020;683556735;8/06/2020;3023333516;victoriasimmons@example.com;8483;109,28 €;35,84 €;927.022,24 €;304.030,72 €
+C8292;NA;Republic of the Congo;Bebida;Online;Baja;5/11/2021;829201543;15/11/2021;3001208962;graydarren@example.com;8018;47,45 €;31,79 €;380.454,10 €;254.892,22 €
+C1161;NA;Germany;Bebida;Online;Media;18/08/2020;116113746;1/09/2020;3019895345;jessicamoss@example.org;9493;47,45 €;31,79 €;450.442,85 €;301.782,47 €
+C2709;NA;Tunisia ;Cereales;Offline;Media;6/03/2020;270904672;14/03/2020;3059725646;daniel32@example.com;5567;205,70 €;117,11 €;1.145.131,90 €;651.951,37 €
+;NA;Myanmar;Cereales;Offline;Media;7/01/2020;390498149;26/01/2020;3188313625;guzmanrebecca@example.com;5935;205,70 €;117,11 €;1.220.829,50 €;695.047,85 €
+C9921;NA;Romania;Cosméticos;Offline;Media;28/01/2020;992130506;3/03/2020;3028167303;samuelhoward@example.com;2319;437,20 €;263,33 €;1.013.866,80 €;610.662,27 €
+C8633;NA;Greece;Snacks;Offline;Crítica;10/02/2022;863350570;14/03/2022;3052315759;rhill@example.net;3474;152,58 €;97,44 €;530.062,92 €;338.506,56 €
+C2120;NA;Benin;Cosméticos;Offline;Baja;28/07/2022;212019670;29/07/2022;3145516691;theresa13@example.org;187;437,20 €;263,33 €;81.756,40 €;49.242,71 €
+C2163;NA;Jamaica;Material de oficina;Online;Crítica;5/08/2022;216311633;27/08/2022;3026162542;cindygibbs@example.net;274;651,21 €;524,96 €;178.431,54 €;143.839,04 €
+C7747;NA;Liechtenstein;Doméstico;Online;Alta;6/11/2020;774712789;11/12/2020;3117449284;melissa99@example.net;3585;668,27 €;502,54 €;2.395.747,95 €;1.801.605,90 €
+;NA;Greenland;Alimento infantil;Online;Crítica;17/09/2020;956021964;8/10/2020;3054370417;cowancody@example.com;6999;255,28 €;159,42 €;1.786.704,72 €;1.115.780,58 €
+C3493;NA;Romania;Cosméticos;Online;Alta;26/03/2020;349350488;19/04/2020;3056880911;sandersjennifer@example.net;9428;437,20 €;263,33 €;4.121.921,60 €;2.482.675,24 €
+C4141;NA;China;Cosméticos;Online;Alta;26/02/2022;414122188;23/03/2022;3121473297;ggallegos@example.net;6813;437,20 €;263,33 €;2.978.643,60 €;1.794.067,29 €
+C4300;NA;East Timor;Doméstico;Offline;Baja;17/01/2021;430073392;5/02/2021;3127516753;dsoto@example.org;7129;668,27 €;502,54 €;4.764.096,83 €;3.582.607,66 €
+C6472;NA;Albania;Cuidado personal;Online;Media;18/11/2021;647252929;28/12/2021;3024576110;ucochran@example.net;5380;81,73 €;56,67 €;439.707,40 €;304.884,60 €
+C9360;NA;Laos;Frutas;Offline;Alta;20/06/2021;936022126;24/07/2021;3041450171;bartonjonathan@example.com;8602;9,33 €;6,92 €;80.256,66 €;59.525,84 €
+C3370;NA;Central African Republic;Material de oficina;Offline;Baja;17/04/2021;337054812;24/05/2021;3109472710;lmartin@example.org;864;651,21 €;524,96 €;562.645,44 €;453.565,44 €
+C2113;NA;Netherlands;Cárnicos;Offline;Crítica;24/05/2020;211337316;8/07/2020;3016768261;richard88@example.org;8263;421,89 €;364,69 €;3.486.077,07 €;3.013.433,47 €
+C1901;NA;Solomon Islands;Snacks;Offline;Media;30/06/2022;190168464;15/08/2022;3108019732;vmurphy@example.org;3929;152,58 €;97,44 €;599.486,82 €;382.841,76 €
+;NA;Seychelles ;Ropa;Offline;Media;16/04/2020;425159585;26/05/2020;3159082353;xsmith@example.com;3024;109,28 €;35,84 €;330.462,72 €;108.380,16 €
+C2382;NA;Kazakhstan;Cárnicos;Online;Baja;7/08/2022;238234508;21/08/2022;3115145391;rogermueller@example.com;7740;421,89 €;364,69 €;3.265.428,60 €;2.822.700,60 €
+C3716;NA;Hungary;Cosméticos;Offline;Alta;26/06/2021;371629559;16/07/2021;3113470948;larsenjames@example.net;2300;437,20 €;263,33 €;1.005.560,00 €;605.659,00 €
+C7378;NA;Laos;Alimento infantil;Offline;Baja;13/04/2022;737893569;30/05/2022;3131108902;dramirez@example.net;7960;255,28 €;159,42 €;2.032.028,80 €;1.268.983,20 €
+C8698;NA;Yemen;Ropa;Online;Crítica;25/02/2022;869887864;15/04/2022;3025894687;richard36@example.net;8005;109,28 €;35,84 €;874.786,40 €;286.899,20 €
+C3707;NA;Russia;Cuidado personal;Offline;Alta;1/02/2020;370786273;16/02/2020;3131834445;ravenmiller@example.org;2753;81,73 €;56,67 €;225.002,69 €;156.012,51 €
+C2640;NA;Philippines;Cereales;Offline;Alta;10/03/2021;264075124;11/03/2021;3158133052;mmckinney@example.org;4552;205,70 €;117,11 €;936.346,40 €;533.084,72 €
+C7435;NA;Marshall Islands;Frutas;Online;Baja;22/12/2020;743553245;22/12/2020;3167051314;sarazimmerman@example.net;2783;9,33 €;6,92 €;25.965,39 €;19.258,36 €
+C7233;NA;Burkina Faso;Cuidado personal;Online;Crítica;24/01/2021;723331964;11/02/2021;3008376217;jeremy90@example.com;8857;81,73 €;56,67 €;723.882,61 €;501.926,19 €
+C9878;NA;Kosovo;Snacks;Offline;Media;23/01/2022;987835109;13/03/2022;3168322995;michaeljackson@example.net;1215;152,58 €;97,44 €;185.384,70 €;118.389,60 €
+C1417;NA;North Korea;Material de oficina;Offline;Alta;7/02/2022;141799008;28/03/2022;3145242455;bryan98@example.com;333;651,21 €;524,96 €;216.852,93 €;174.811,68 €
+C4602;NA;Bhutan;Snacks;Online;Alta;1/03/2021;460272490;16/03/2021;3187224327;julia61@example.net;3713;152,58 €;97,44 €;566.529,54 €;361.794,72 €
+C2386;NA;Switzerland;Material de oficina;Offline;2;25/06/2022;238616883;2/07/2022;3018892350;mayersusan@example.com;893;651,21 €;524,96 €;581.530,53 €;468.789,28 €
+C5425;NA;Libya;Cuidado personal;Offline;Alta;17/07/2022;542506015;7/08/2022;3159188892;richard18@example.net;8440;81,73 €;56,67 €;689.801,20 €;478.294,80 €
+C2579;NA;Honduras;Verduras;Online;Alta;4/02/2021;257926213;23/02/2021;3131149986;vicki46@example.net;4953;154,06 €;90,93 €;763.059,18 €;450.376,29 €
+C1411;NA;Benin;Alimento infantil;Online;Media;2/08/2022;141176307;20/09/2022;3048690406;sarahgarcia@example.net;6061;255,28 €;159,42 €;1.547.252,08 €;966.244,62 €
+C5688;NA;Egypt;Cárnicos;Online;Media;31/05/2020;568867623;22/06/2020;3127052545;brendasosa@example.net;9426;421,89 €;364,69 €;3.976.735,14 €;3.437.567,94 €
+C1879;NA;Cyprus;Bebida;Online;Media;5/04/2021;187923991;17/05/2021;3154842621;sheryl07@example.org;9740;47,45 €;31,79 €;462.163,00 €;309.634,60 €
+C8655;NA;Morocco;Cereales;Online;Alta;4/10/2020;865581738;23/10/2020;3025183815;fulleramanda@example.org;3726;205,70 €;117,11 €;766.438,20 €;436.351,86 €
+C9393;NA;Estonia;Bebida;Offline;Alta;8/02/2022;939389693;15/02/2022;3182456508;nealkenneth@example.org;5140;47,45 €;31,79 €;243.893,00 €;163.400,60 €
+C1672;NA;South Korea;Alimento infantil;Online;Crítica;24/04/2020;167209184;16/05/2020;3014621414;ktaylor@example.org;9768;255,28 €;159,42 €;2.493.575,04 €;1.557.214,56 €
+C1772;NA;Vietnam;Cosméticos;Online;Media;20/10/2020;177214038;6/11/2020;3156669966;ycooper@example.net;427;437,20 €;263,33 €;186.684,40 €;112.441,91 €
+C4178;NA;Syria;Snacks;Offline;Alta;29/10/2020;417890584;6/11/2020;3172203438;brittney70@example.net;1965;152,58 €;97,44 €;299.819,70 €;191.469,60 €
+C4080;NA;Luxembourg;Ropa;Online;Baja;27/04/2022;408037650;27/04/2022;3104061343;kathygraves@example.net;6263;109,28 €;35,84 €;684.420,64 €;224.465,92 €
+C1867;NA;Cuba;Cosméticos;Online;Alta;28/11/2021;-186766564;12/12/2021;3108077738;robert63@example.com;7232;437,20 €;263,33 €;3.161.830,40 €;1.904.402,56 €
+C7635;NA;Maldives;Cárnicos;Offline;Alta;27/11/2020;763501155;2/12/2020;3054727478;williamrandall@example.net;5813;421,89 €;364,69 €;2.452.446,57 €;2.119.942,97 €
+C9679;NA;Taiwan;Bebida;Online;Media;10/01/2021;967977750;22/02/2021;3183502642;carriepeterson@example.com;4982;47,45 €;31,79 €;236.395,90 €;158.377,78 €
+C6002;NA;Bosnia and Herzegovina;Snacks;Offline;Crítica;7/02/2020;600245177;14/03/2020;3131176556;jenniferscott@example.org;4742;152,58 €;97,44 €;723.534,36 €;462.060,48 €
+C8806;NA;Afghanistan;Cosméticos;Offline;Baja;28/01/2022;880664765;3/02/2022;3012146621;xtravis@example.net;7129;437,20 €;263,33 €;3.116.798,80 €;1.877.279,57 €
+C3999;NA;Canada;Cereales;Online;Media;20/04/2021;399910342;4/05/2021;3152533777;john90@example.com;1212;205,70 €;117,11 €;249.308,40 €;141.937,32 €
+C9689;NA;Qatar;Cárnicos;Offline;Media;4/02/2021;968968236;8/03/2021;3042247556;ruben64@example.com;8088;421,89 €;364,69 €;3.412.246,32 €;2.949.612,72 €
+C8691;NA;Malta;Verduras;Offline;Baja;24/11/2020;869137275;15/12/2020;3006555934;lisa26@example.org;5889;154,06 €;90,93 €;907.259,34 €;535.486,77 €
+C7020;NA;Bahrain;Verduras;Online;Crítica;19/07/2020;702028787;25/07/2020;3051068040;jasminejoseph@example.org;4773;154,06 €;90,93 €;735.328,38 €;434.008,89 €
+C2395;NA;Zambia;Frutas;Offline;Baja;19/09/2021;239566600;20/09/2021;3123394660;opoole@example.com;1935;9,33 €;6,92 €;18.053,55 €;13.390,20 €
+C6739;NA;Bangladesh;Ropa;Online;Crítica;5/10/2020;673987042;7/11/2020;3122534185;reneelee@example.net;6598;109,28 €;35,84 €;721.029,44 €;236.472,32 €
+C5678;NA;Egypt;Cárnicos;Offline;Media;1/08/2021;567838943;14/08/2021;3013577501;westalyssa@example.com;5017;421,89 €;364,69 €;2.116.622,13 €;1.829.649,73 €
+C8039;NA;Japan;Ropa;Online;Crítica;9/10/2022;803983628;1/11/2022;3121630850;amiller@example.net;5477;109,28 €;35,84 €;598.526,56 €;196.295,68 €
+C5355;NA;Jamaica;Cosméticos;Offline;Media;21/11/2021;535594928;17/12/2021;3048247081;ruthhernandez@example.org;3296;437,20 €;263,33 €;1.441.011,20 €;867.935,68 €
+C3361;NA;Namibia;Alimento infantil;Online;Media;14/08/2022;336159169;17/08/2022;3058754550;michael16@example.net;5823;255,28 €;159,42 €;1.486.495,44 €;928.302,66 €
+C8494;NA;Federated States of Micronesia;Cárnicos;Offline;Crítica;21/11/2021;849475181;12/12/2021;3113928621;josephkirby@example.net;7438;421,89 €;364,69 €;3.138.017,82 €;2.712.564,22 €
+C5396;NA;Iran;Ropa;Offline;Media;6/10/2022;539654290;18/10/2022;3128883932;joshuanicholson;4552;109,28 €;35,84 €;497.442,56 €;163.143,68 €
+C6411;NA;Malaysia;Cereales;Online;Alta;20/07/2021;641120326;3/09/2021;3152629927;howard69@example.com;606;205,70 €;117,11 €;124.654,20 €;70.968,66 €
+C2086;NA;Tajikistan;Verduras;Offline;Crítica;4/09/2020;208609616;5/09/2020;3157779034;dsimmons@example.net;1076;154,06 €;90,93 €;165.768,56 €;97.840,68 €
+C1671;NA;Iran;Cárnicos;Offline;Alta;20/07/2021;167170989;22/07/2021;3011590818;walter83@example.org;8465;421,89 €;364,69 €;3.571.298,85 €;3.087.100,85 €
+C1621;NA;Samoa ;Cárnicos;Online;Crítica;3/04/2020;162165772;6/05/2020;3181399911;whitevalerie@example.com;7311;421,89 €;364,69 €;3.084.437,79 €;2.666.248,59 €
+C8092;NA;Botswana;Cosméticos;Online;Crítica;5/06/2020;809267795;20/06/2020;3007011192;jessica44@example.net;9179;437,20 €;263,33 €;4.013.058,80 €;2.417.106,07 €
+C5444;NA;Austria;Alimento infantil;Online;Crítica;22/05/2020;544463384;25/06/2020;3177904479;jamesmartin@example.com;7669;255,28 €;159,42 €;1.957.742,32 €;1.222.591,98 €
+C5740;NA;Syria;Bebida;Online;Alta;17/04/2020;574051368;1/05/2020;3043998008;rmiller@example.com;3411;47,45 €;31,79 €;161.851,95 €;108.435,69 €
+C8246;NA;Senegal;Frutas;Online;Crítica;10/09/2020;824643075;23/10/2020;3014319190;davidcarlson@example.org;9066;9,33 €;6,92 €;84.585,78 €;62.736,72 €
+C3931;NA;Mauritius ;Cuidado personal;Offline;Media;11/02/2021;393162333;29/03/2021;3161794008;mcleananita@example.org;4326;81,73 €;56,67 €;353.563,98 €;245.154,42 €
+C6968;NA;Cote d'Ivoire;Frutas;Online;Alta;28/06/2021;696845471;8/07/2021;3166523621;wattsvicki@example.net;915;9,33 €;6,92 €;8.536,95 €;6.331,80 €
+C5232;NA;Belize;Ropa;Offline;Alta;18/09/2020;523241317;3/10/2020;3106993891;bstewart@example.org;7588;109,28 €;35,84 €;829.216,64 €;271.953,92 €
+C9802;NA;Morocco;Cereales;Offline;Baja;15/12/2020;980211198;15/12/2020;3118672363;matthewramos@example.net;5131;205,70 €;117,11 €;1.055.446,70 €;600.891,41 €
+C5459;NA;Australia;Doméstico;Online;Baja;27/06/2020;545928943;10/08/2020;3029248955;tara60@example.com;1361;668,27 €;502,54 €;909.515,47 €;683.956,94 €
+C9188;NA;Senegal;Verduras;Online;Baja;5/11/2020;918880879;13/12/2020;3167927985;kelsey94@example.net;6127;154,06 €;90,93 €;943.925,62 €;557.128,11 €
+C2678;NA;Antigua and Barbuda ;Verduras;Offline;Alta;18/07/2022;267865836;30/07/2022;3024583891;david42@example.org;6308;154,06 €;90,93 €;971.810,48 €;573.586,44 €
+C8819;NA;Poland;Material de oficina;Online;Alta;8/10/2020;881995141;20/10/2020;3153687804;butlerchristina@example.org;817;651,21 €;524,96 €;532.038,57 €;428.892,32 €
+C6206;NA;Kosovo;Cuidado personal;Online;Crítica;17/02/2021;620692622;6/03/2021;3007422767;williamsjames@example.net;5595;81,73 €;56,67 €;457.279,35 €;317.068,65 €
+C5636;NA;Malaysia;Cárnicos;Online;Media;19/01/2021;563694608;11/02/2021;3008702509;brussell@example.com;8616;421,89 €;364,69 €;3.635.004,24 €;3.142.169,04 €
+C9610;NA;Guatemala;Bebida;Online;Alta;26/08/2022;961049926;9/09/2022;3019609000;xperkins@example.com;4885;47,45 €;31,79 €;231.793,25 €;155.294,15 €
+C7831;NA;Vanuatu;Material de oficina;Online;Baja;24/09/2022;783119904;30/10/2022;3004362744;tdrake@example.org;1437;651,21 €;524,96 €;935.788,77 €;754.367,52 €
+C8705;NA;Nicaragua;Cuidado personal;Online;Alta;13/10/2022;-870578372;6/11/2022;3187702998;cprince@example.net;2341;81,73 €;56,67 €;191.329,93 €;132.664,47 €
+C7844;NA;Lesotho;Snacks;Offline;Media;3/11/2021;784411656;29/11/2021;3046991397;taylor82@example.com;3695;152,58 €;97,44 €;563.783,10 €;360.040,80 €
+C1559;NA;Turkmenistan;Doméstico;Offline;Crítica;10/10/2020;155918586;7/11/2020;3177885968;kwoods;8629;668,27 €;502,54 €;5.766.501,83 €;4.336.417,66 €
+C9367;NA;Saudi Arabia;Cosméticos;Offline;Crítica;7/11/2020;936710488;8/12/2020;3144923958;ericbell@example.net;2304;437,20 €;263,33 €;1.007.308,80 €;606.712,32 €
+C6487;NA;Japan;Snacks;Online;Media;24/04/2022;648711192;16/05/2022;3013692187;lyonsdanielle@example.com;6912;152,58 €;97,44 €;1.054.632,96 €;673.505,28 €
+C9341;NA;Latvia;Doméstico;Online;Crítica;1/02/2020;934157025;3/02/2020;3143551686;pennywashington@example.org;6678;668,27 €;502,54 €;4.462.707,06 €;3.355.962,12 €
+C8055;NA;Greenland;Ropa;Online;Crítica;11/05/2022;805596816;23/05/2022;3023420853;wesleyfrancis@example.net;2855;109,28 €;35,84 €;311.994,40 €;102.323,20 €
+C6958;NA;Costa Rica;Cereales;Online;Alta;30/07/2020;695891892;3/08/2020;3141801330;qkelly@example.com;8730;205,70 €;117,11 €;1.795.761,00 €;1.022.370,30 €
+C2082;NA;Japan;Cuidado personal;Offline;Baja;24/04/2022;208216083;13/05/2022;3112034360;robert35@example.net;4621;81,73 €;56,67 €;377.674,33 €;261.872,07 €
+C3660;NA;Cyprus;Cereales;Offline;Crítica;25/03/2021;366055715;5/04/2021;3055032169;heatherwhite@example.com;2875;205,70 €;117,11 €;591.387,50 €;336.691,25 €
+C4632;NA;Pakistan;Cárnicos;Online;Baja;3/06/2021;463209617;27/06/2021;3125358726;obriggs@example.net;2874;421,89 €;364,69 €;1.212.511,86 €;1.048.119,06 €
+C3137;NA;Monaco;Cosméticos;Online;Media;25/08/2021;313789117;7/09/2021;3187754291;richardjones@example.net;6028;437,20 €;263,33 €;2.635.441,60 €;1.587.353,24 €
+C7022;NA;China;Cereales;Offline;Crítica;6/07/2022;702218043;29/07/2022;3154477837;cassandra02@example.org;779;205,70 €;117,11 €;160.240,30 €;91.228,69 €
+C2332;NA;New Zealand;Cárnicos;Online;Alta;26/02/2022;233232724;8/03/2022;3013150653;lboyer@example.com;7601;421,89 €;364,69 €;3.206.785,89 €;2.772.008,69 €
+C2818;NA;Guatemala;Alimento infantil;Offline;Baja;20/07/2020;281881988;11/08/2020;3161299214;evan79@example.com;3999;255,28 €;159,42 €;1.020.864,72 €;637.520,58 €
+C9435;NA;Libya;Snacks;Online;Media;6/12/2020;943527162;22/12/2020;3103398941;sarahallen@example.net;9509;152,58 €;97,44 €;1.450.883,22 €;926.556,96 €
+C5838;NA;Liechtenstein;Cárnicos;Offline;Media;24/08/2022;583842074;4/10/2022;3184718233;campbellconnor@example.org;699;421,89 €;364,69 €;294.901,11 €;254.918,31 €
+C7888;NA;Democratic Republic of the Congo;Alimento infantil;Online;Alta;3/08/2022;788813054;9/08/2022;3111698404;wesleycameron@example.net;6167;255,28 €;159,42 €;1.574.311,76 €;983.143,14 €
+C5147;NA;Mongolia;Cuidado personal;Online;Crítica;4/05/2022;514738929;16/05/2022;3044700935;trevorvillarreal@example.org;1543;81,73 €;56,67 €;126.109,39 €;87.441,81 €
+C1382;NA;Bosnia and Herzegovina;Frutas;Offline;Media;7/01/2021;138231027;28/01/2021;3153508463;eparker@example.com;4487;9,33 €;6,92 €;41.863,71 €;31.050,04 €
+C1062;NA;Cuba;Cereales;Online;Crítica;13/06/2022;106213176;15/07/2022;3165701787;gary99@example.org;9694;205,70 €;117,11 €;1.994.055,80 €;1.135.264,34 €
+C4859;NA;Bhutan;Snacks;Offline;Media;6/04/2022;485921704;15/04/2022;31054;josephmeyers@example.com;3885;152,58 €;97,44 €;592.773,30 €;378.554,40 €
+C5149;NA;Laos;Material de oficina;Online;Alta;18/10/2020;514905440;22/10/2020;3118673749;ljohnson@example.net;817;651,21 €;524,96 €;532.038,57 €;428.892,32 €
+C8510;NA;Turkmenistan;Cuidado personal;Online;Baja;23/08/2021;851025712;27/09/2021;3181477380;charlesho@example.org;6275;81,73 €;56,67 €;512.855,75 €;355.604,25 €
+C4224;NA;Papua New Guinea;Alimento infantil;Offline;Baja;24/08/2021;422456347;26/08/2021;3161069308;brookescott@example.org;3076;255,28 €;159,42 €;785.241,28 €;490.375,92 €
+C4776;NA;Qatar;Cosméticos;Offline;Alta;29/11/2020;477683675;23/12/2020;3051377980;castillocharlene@example.net;6069;437,20 €;263,33 €;2.653.366,80 €;1.598.149,77 €
+C5355;NA;Palau;Ropa;Online;Baja;19/05/2021;535506522;25/05/2021;3057880514;adamsjason@example.org;7135;109,28 €;35,84 €;779.712,80 €;255.718,40 €
+C6350;NA;Philippines;Cereales;Online;Baja;15/07/2022;635036218;31/07/2022;3133937065;john45@example.com;184;205,70 €;117,11 €;37.848,80 €;21.548,24 €
+C8856;NA;Papua New Guinea;Cárnicos;Offline;Baja;31/10/2022;885696589;11/11/2022;3145002448;lynchbryan@example.org;6158;421,89 €;364,69 €;2.597.998,62 €;2.245.761,02 €
+C1172;NA;Liberia;Verduras;Offline;Baja;14/02/2021;117223966;25/02/2021;3123150015;patrick03@example.org;8031;154,06 €;90,93 €;1.237.255,86 €;730.258,83 €
+C8296;NA;Iran;Ropa;Offline;Alta;16/12/2020;829667174;9/01/2021;3015127094;rhouston@example.com;5809;109,28 €;35,84 €;634.807,52 €;208.194,56 €
+C6433;NA;Guatemala;Bebida;Offline;Crítica;28/07/2020;643387544;20/08/2020;3044022606;bryan29@example.com;1527;47,45 €;31,79 €;72.456,15 €;48.543,33 €
+C8490;NA;Tuvalu;Snacks;Offline;Baja;9/01/2020;849058902;25/01/2020;3103106815;edonaldson@example.org;4252;152,58 €;97,44 €;648.770,16 €;414.314,88 €
+C5576;NA;Philippines;Material de oficina;Offline;Baja;19/08/2022;557667577;15/09/2022;3114046244;fparrish@example.net;5083;651,21 €;524,96 €;3.310.100,43 €;2.668.371,68 €
+C7505;NA;Singapore;Ropa;Offline;Crítica;15/02/2022;750512397;4/03/2022;3021381176;jennifer13@example.org;2151;109,28 €;35,84 €;235.061,28 €;77.091,84 €
+C2292;NA;Laos;Verduras;Online;Media;13/03/2021;229204690;25/03/2021;3119260461;russellmolina@example.org;5616;154,06 €;90,93 €;865.200,96 €;510.662,88 €
+C5656;NA;Montenegro;Frutas;Offline;Alta;10/07/2021;565668284;3/08/2021;3171377109;anna63@example.net;2671;9,33 €;6,92 €;24.920,43 €;18.483,32 €
+C2521;NA;Barbados;Snacks;Offline;Media;23/04/2022;252139508;23/05/2022;3166585197;wrightcraig@example.com;2538;152,58 €;97,44 €;387.248,04 €;247.302,72 €
+C5511;NA;Egypt;Snacks;Offline;Alta;1/10/2021;551167190;13/11/2021;3107426526;woodchristopher@example.net;1474;152,58 €;97,44 €;224.902,92 €;143.626,56 €
+C5456;NA;Sudan;Doméstico;Offline;Crítica;16/04/2021;545612657;29/05/2021;3126249979;manuel80@example.com;7765;668,27 €;502,54 €;5.189.116,55 €;3.902.223,10 €
+C2886;NA;Democratic Republic of the Congo;Snacks;Offline;Baja;7/05/2021;288649737;20/06/2021;3117806931;qcuevas@example.net;6727;152,58 €;97,44 €;1.026.405,66 €;655.478,88 €
+C3537;NA;Cuba;Cuidado personal;Online;Baja;30/09/2022;353764760;27/10/2022;3175334581;hutchinsonjesse@example.org;5709;81,73 €;56,67 €;466.596,57 €;323.529,03 €
+C4847;NA;Ghana;Frutas;Offline;Media;5/06/2022;484756553;14/06/2022;3042246706;olsonsamantha@example.com;9091;9,33 €;6,92 €;84.819,03 €;62.909,72 €
+C9457;NA;Poland;Bebida;Online;Media;30/07/2020;945736443;20/08/2020;3128587348;vdavis@example.com;3285;47,45 €;31,79 €;155.873,25 €;104.430,15 €
+C2711;NA;Saudi Arabia;Bebida;Offline;Baja;2/02/2022;271128261;7/03/2022;3059915279;rickpeterson@example.org;1732;47,45 €;31,79 €;82.183,40 €;55.060,28 €
+C2156;NA;Barbados;Alimento infantil;Offline;Baja;26/10/2020;215668332;21/11/2020;3103743084;stephanie51@example.com;9907;255,28 €;159,42 €;2.529.058,96 €;1.579.373,94 €
+C8044;NA;Bosnia and Herzegovina;Frutas;Online;Alta;9/01/2021;804405486;1/02/2021;3143659475;banksgabriel@example.org;314;9,33 €;6,92 €;2.929,62 €;2.172,88 €
+C7827;NA;Lebanon;Cárnicos;Online;Media;26/08/2021;782701051;1/09/2021;3045889751;ecobb@example.net;7489;421,89 €;364,69 €;3.159.534,21 €;2.731.163,41 €
+C7662;NA;Latvia;Doméstico;Offline;Crítica;15/08/2020;766228854;3/10/2020;3171885100;moorebrianna@example.com;3000;668,27 €;502,54 €;2.004.810,00 €;1.507.620,00 €
+C9909;NA;Australia;Frutas;Online;Media;21/12/2021;990975224;27/01/2022;3152579530;basskathryn@example.com;445;9,33 €;6,92 €;4.151,85 €;3.079,40 €
+C8632;NA;Jordan;Cereales;Online;Media;20/02/2020;863238990;3/04/2020;3156915966;jennifer78@example.org;455;205,70 €;117,11 €;93.593,50 €;53.285,05 €
+C3096;NA;United Kingdom;Cuidado personal;Offline;Media;22/05/2021;309631478;27/05/2021;3114094420;monique40@example.com;5690;81,73 €;56,67 €;465.043,70 €;322.452,30 €
+C2270;NA;Haiti;Verduras;Offline;Baja;24/05/2022;227076518;13/07/2022;3106806760;kperez@example.net;5843;154,06 €;90,93 €;900.172,58 €;531.303,99 €
+C2328;NA;South Korea;Cuidado personal;Online;Crítica;23/03/2020;232810437;6/04/2020;3011702723;welchsean;2637;81,73 €;56,67 €;215.522,01 €;149.438,79 €
+C9143;NA;Niger;Bebida;Online;Crítica;10/05/2022;914382064;6/06/2022;3155011223;charleshunter;4827;47,45 €;31,79 €;229.041,15 €;153.450,33 €
+C6796;NA;Mozambique;Verduras;Online;Crítica;17/05/2022;679652726;13/06/2022;3157364820;griffinsamantha@example.org;3200;154,06 €;90,93 €;492.992,00 €;290.976,00 €
+C7067;NA;Armenia;Cereales;Online;Baja;2/06/2021;706796252;16/07/2021;3123311285;lauren57@example.net;5572;205,70 €;117,11 €;1.146.160,40 €;652.536,92 €
+C8942;NA;Iceland;Frutas;Online;Media;8/01/2021;894298970;26/01/2021;3025935766;ayersalbert@example.com;1793;9,33 €;6,92 €;16.728,69 €;12.407,56 €
+C3109;NA;Panama;Bebida;Online;Baja;10/09/2021;310959708;12/10/2021;3059291489;deniseknapp@example.net;8743;47,45 €;31,79 €;414.855,35 €;277.939,97 €
+C3458;NA;Switzerland;Bebida;Offline;Baja;27/06/2021;345889794;25/07/2021;3121114048;alexismorales@example.net;5331;47,45 €;31,79 €;252.955,95 €;169.472,49 €
+C6585;NA;Mauritius ;Frutas;Online;Alta;15/04/2020;658513057;23/05/2020;3011087816;nicholaswatts@example.org;7502;9,33 €;6,92 €;69.993,66 €;51.913,84 €
+C5285;NA;Andorra;Material de oficina;Online;Media;28/03/2021;528565824;3/04/2021;3163557567;williamslauren@example.net;3228;651,21 €;524,96 €;2.102.105,88 €;1.694.570,88 €
+C2060;NA;Bangladesh;Material de oficina;Online;Alta;28/09/2020;206096923;15/10/2020;3024888808;goldenanthony@example.org;7514;651,21 €;524,96 €;4.893.191,94 €;3.944.549,44 €
+C4614;NA;Tonga;Ropa;Online;1;25/04/2021;461467683;11/05/2021;3016785746;sophia60@example.net;7397;109,28 €;35,84 €;808.344,16 €;265.108,48 €
+C3353;NA;Jamaica;Bebida;Online;Alta;4/08/2021;335351932;13/09/2021;3044147578;matthew97@example.org;6944;47,45 €;31,79 €;329.492,80 €;220.749,76 €
+C2887;NA;Israel;Verduras;Online;Media;10/08/2020;288735997;14/09/2020;3116089618;xhenry@example.org;2253;154,06 €;90,93 €;347.097,18 €;204.865,29 €
+C8529;NA;France;Cuidado personal;Offline;Crítica;3/02/2022;-852918708;14/03/2022;3011601670;nramirez@example.com;6454;81,73 €;56,67 €;527.485,42 €;365.748,18 €
+C3795;NA;Benin;Snacks;Offline;Crítica;3/08/2021;379511392;3/08/2021;3048666583;edward21@example.com;4709;152,58 €;97,44 €;718.499,22 €;458.844,96 €
+C8904;NA;Philippines;Verduras;Offline;Media;16/03/2022;890437877;24/03/2022;3117395571;kbarry@example.com;9210;154,06 €;90,93 €;1.418.892,60 €;837.465,30 €
+C4279;NA;Slovakia;Frutas;Offline;Alta;21/09/2021;427934491;4/10/2021;3052600158;williambryant@example.org;4180;9,33 €;6,92 €;38.999,40 €;28.925,60 €
+C7045;NA;Laos;Doméstico;Offline;Alta;13/08/2022;704550063;18/08/2022;3041363209;zdavidson@example.org;875;668,27 €;502,54 €;584.736,25 €;439.722,50 €
+C3531;NA;Nauru;Cárnicos;Online;Crítica;16/01/2022;353145921;23/02/2022;3172946252;powelljacqueline@example.org;2580;421,89 €;364,69 €;1.088.476,20 €;940.900,20 €
+C7768;NA;Benin;Snacks;Online;Media;9/11/2021;776895892;9/11/2021;3022331968;romerokatelyn@example.org;9614;152,58 €;97,44 €;1.466.904,12 €;936.788,16 €
+C2992;NA;Guatemala;Verduras;Online;Crítica;14/06/2021;299286305;3/08/2021;3004569519;thomas29@example.org;4323;154,06 €;90,93 €;666.001,38 €;393.090,39 €
+C9141;NA;Belize;Snacks;Online;Alta;17/01/2022;914115989;12/02/2022;3108883357;belljason@example.com;6090;152,58 €;97,44 €;929.212,20 €;593.409,60 €
+C6354;NA;Tunisia ;Alimento infantil;Offline;Crítica;30/05/2022;635496270;5/07/2022;3054428671;thomasmary@example.net;6323;255,28 €;159,42 €;1.614.135,44 €;1.008.012,66 €
+C2478;NA;Republic of the Congo;Cárnicos;Offline;Alta;13/04/2020;247850978;8/05/2020;3029687453;derek97@example.net;3467;421,89 €;364,69 €;1.462.692,63 €;1.264.380,23 €
+C1559;NA;Kiribati;Ropa;Offline;Baja;21/05/2022;155916440;10/07/2022;3004713843;anthony54@example.com;7994;109,28 €;35,84 €;873.584,32 €;286.504,96 €
+C8347;NA;Albania;Verduras;Offline;Baja;11/02/2020;834741485;17/02/2020;3137119630;aliciasmith@example.net;7410;154,06 €;90,93 €;1.141.584,60 €;673.791,30 €
+C5796;NA;Palau;Cárnicos;Online;Baja;2/06/2022;579687440;5/06/2022;3183153284;stevenscott@example.com;1250;421,89 €;364,69 €;527.362,50 €;455.862,50 €
+C4564;NA;Angola;Cuidado personal;Online;Alta;27/01/2020;456428134;6/03/2020;3147175268;nhaley@example.net;6083;81,73 €;56,67 €;497.163,59 €;344.723,61 €
+C2509;NA;Swaziland;Snacks;Offline;Media;27/05/2021;250949895;19/06/2021;3136910395;anthonynguyen@example.org;505;152,58 €;97,44 €;77.052,90 €;49.207,20 €
+C7195;NA;Barbados;Verduras;Online;Baja;9/04/2022;719551551;14/04/2022;3168631535;nicolebryan@example.org;149;154,06 €;90,93 €;22.954,94 €;13.548,57 €
+C4388;NA;Sweden;Cosméticos;Online;Crítica;20/10/2021;-438844430;7/12/2021;3154133805;eric50@example.org;2674;437,20 €;263,33 €;1.169.072,80 €;704.144,42 €
+C7557;NA;Zambia;Verduras;Online;Crítica;15/12/2020;755752360;3/02/2021;3178604514;crawfordmichael@example.org;2773;154,06 €;90,93 €;427.208,38 €;252.148,89 €
+C8375;NA;Sierra Leone;Ropa;Online;Crítica;1/02/2021;837511670;28/02/2021;3048820166;xlarsen@example.org;7169;109,28 €;35,84 €;783.428,32 €;256.936,96 €
+C8216;NA;Sierra Leone;Cosméticos;Offline;Media;12/07/2022;821671187;11/08/2022;3049596424;uacosta@example.org;9619;437,20 €;263,33 €;4.205.426,80 €;2.532.971,27 €
+C4660;NA;Andorra;Verduras;Online;Media;17/04/2020;466092240;13/05/2020;3053058234;dakotaeaton@example.org;5906;154,06 €;90,93 €;909.878,36 €;537.032,58 €
+C4989;NA;Seychelles ;Alimento infantil;Offline;Media;31/08/2022;498948657;16/09/2022;3057786639;cmerritt@example.net;8850;255,28 €;159,42 €;2.259.228,00 €;1.410.867,00 €
+C3687;NA;Andorra;Doméstico;Online;Baja;5/03/2021;368726766;24/03/2021;3029862170;amber14@example.com;3299;668,27 €;502,54 €;2.204.622,73 €;1.657.879,46 €
+C4942;NA;Costa Rica;Bebida;Offline;Baja;15/08/2020;-494225394;24/09/2020;3157549914;jasonnelson@example.com;1132;47,45 €;31,79 €;53.713,40 €;35.986,28 €
+C9145;NA;Burundi;Cosméticos;Offline;Baja;25/06/2020;914555871;11/08/2020;3127562358;jason20@example.com;6261;437,20 €;263,33 €;2.737.309,20 €;1.648.709,13 €
+;NA;Fiji;Ropa;Online;Media;28/01/2022;839142024;15/03/2022;3169986342;fhale@example.com;9627;109,28 €;35,84 €;1.052.038,56 €;345.031,68 €
+C8977;NA;Canada;Bebida;Online;Media;26/05/2021;897720181;2/06/2021;3133119188;qrobinson@example.org;4206;47,45 €;31,79 €;199.574,70 €;133.708,74 €
+C8903;NA;Philippines;Bebida;Offline;Crítica;30/12/2021;890339171;9/02/2022;3157674616;peter68@example.net;1;47,45 €;31,79 €;47,45 €;31,79 €
+C2373;NA;Turkmenistan;Snacks;Offline;Baja;7/02/2022;237360322;24/02/2022;3057623933;harrismario@example.net;9049;152,58 €;97,44 €;1.380.696,42 €;881.734,56 €
+C2294;NA;Ukraine;Ropa;Online;Alta;11/10/2021;229457461;26/11/2021;3041100187;kerrihall@example.net;417;109,28 €;35,84 €;45.569,76 €;14.945,28 €
+C8776;NA;Indonesia;Cuidado personal;Online;Media;28/06/2021;877616918;28/06/2021;3148152267;dawnhowell@example.org;5203;81,73 €;56,67 €;425.241,19 €;294.854,01 €
+C4631;NA;Sao Tome and Principe;Verduras;Offline;Baja;2/09/2020;463137519;14/10/2020;3114387889;phall@example.org;1539;154,06 €;90,93 €;237.098,34 €;139.941,27 €
+C4876;NA;Indonesia;Cuidado personal;Online;Crítica;10/01/2022;487630593;25/02/2022;3103641573;julianpowers@example.net;9584;81,73 €;56,67 €;783.300,32 €;543.125,28 €
+C7230;NA;India;Verduras;Online;Crítica;3/07/2021;723019969;27/07/2021;3004717037;katherinemartin@example.org;6531;154,06 €;90,93 €;1.006.165,86 €;593.863,83 €
+C5615;NA;Israel;Alimento infantil;Online;Media;6/03/2021;561541974;10/03/2021;3042756735;barbara47@example.org;1604;255,28 €;159,42 €;409.469,12 €;255.709,68 €
+C3657;NA;Qatar;Verduras;Online;Alta;4/02/2022;365745437;4/02/2022;3182216147;bergalison@example.com;1057;154,06 €;90,93 €;162.841,42 €;96.113,01 €
+C1184;NA;Liberia;Doméstico;Offline;Alta;4/11/2022;118491685;14/12/2022;3184789149;williamskim@example.net;3178;668,27 €;502,54 €;2.123.762,06 €;1.597.072,12 €
+C7729;NA;South Sudan;Doméstico;Online;Alta;25/12/2020;772954547;3/02/2021;3122251755;wtaylor@example.com;3282;668,27 €;502,54 €;2.193.262,14 €;1.649.336,28 €
+C2026;NA;Latvia;Verduras;Online;Media;13/03/2020;202620351;11/04/2020;3109823820;cheyenne45@example.net;8719;154,06 €;90,93 €;1.343.249,14 €;792.818,67 €
+C8512;NA;Saint Lucia;Frutas;Offline;Baja;12/04/2020;851287925;6/05/2020;3134756536;murraymichelle@example.org;3869;9,33 €;6,92 €;36.097,77 €;26.773,48 €
+C2830;NA;Mali;Verduras;Offline;Crítica;5/06/2021;283068597;13/06/2021;3111066915;sharongraves;5143;154,06 €;90,93 €;792.330,58 €;467.652,99 €
+C6323;NA;Portugal;Bebida;Offline;Media;23/10/2022;632386195;12/12/2022;3142028553;fryefrederick@example.com;5983;47,45 €;31,79 €;283.893,35 €;190.199,57 €
+C9539;NA;Malaysia;Snacks;Online;Crítica;20/02/2021;953977048;22/03/2021;3128033248;jessicaramirez@example.com;1863;152,58 €;97,44 €;284.256,54 €;181.530,72 €
+C3728;NA;Spain;Cosméticos;Online;Baja;4/09/2020;372889983;25/09/2020;3101090396;nsmith@example.net;5287;437,20 €;263,33 €;2.311.476,40 €;1.392.225,71 €
+C3344;NA;Slovenia;Ropa;Offline;Media;15/05/2020;334486329;22/05/2020;3184506135;ingramkarina@example.com;793;109,28 €;35,84 €;86.659,04 €;28.421,12 €
+C5544;NA;Jordan;Verduras;Offline;Media;29/12/2020;554439914;8/01/2021;3131032370;irush@example.net;9946;154,06 €;90,93 €;1.532.280,76 €;904.389,78 €
+C3687;NA;Honduras;Doméstico;Online;Media;15/11/2020;368737065;1/12/2020;3155103043;yarellano@example.org;6347;668,27 €;502,54 €;4.241.509,69 €;3.189.621,38 €
+C9836;NA;Lebanon;Material de oficina;Online;Baja;28/02/2020;983676612;18/04/2020;3001734419;tiffanyhenson@example.net;624;651,21 €;524,96 €;406.355,04 €;327.575,04 €
+C5258;NA;Tunisia ;Cereales;Online;Media;6/04/2022;-525869882;22/05/2022;3109648564;francocraig@example.com;5439;205,70 €;117,11 €;1.118.802,30 €;636.961,29 €
+C7922;NA;Romania;Frutas;Offline;Alta;28/12/2020;792240703;29/01/2021;3059561652;turnerdawn@example.net;484;9,33 €;6,92 €;4.515,72 €;3.349,28 €
+C5000;NA;Netherlands;Cereales;Offline;Alta;30/12/2021;500025403;15/02/2022;3178622394;fguerrero@example.com;7483;205,70 €;117,11 €;1.539.253,10 €;876.334,13 €
+C2367;NA;Azerbaijan;Frutas;Online;Baja;25/04/2021;236772811;11/05/2021;3029861513;elliottrodney@example.net;5191;9,33 €;6,92 €;48.432,03 €;35.921,72 €
+C2103;NA;Slovenia;Doméstico;Online;Media;11/02/2021;210344254;15/03/2021;3163106176;timothybrooks@example.com;4394;668,27 €;502,54 €;2.936.378,38 €;2.208.160,76 €
+C6989;NA;Chad;Ropa;Online;Crítica;12/07/2022;698913562;2/08/2022;3173816914;edwardsbilly@example.com;2909;109,28 €;35,84 €;317.895,52 €;104.258,56 €
+C7009;NA;Nauru;Verduras;Online;Media;17/05/2021;700967061;13/06/2021;3054959401;dnewton@example.net;585;154,06 €;90,93 €;90.125,10 €;53.194,05 €
+C1853;NA;Kenya;Ropa;Offline;Baja;8/01/2021;185303580;7/02/2021;3041324740;kristi66@example.org;4302;109,28 €;35,84 €;470.122,56 €;154.183,68 €
+C5410;NA;Jamaica;Cuidado personal;Online;Alta;20/05/2022;541034448;11/06/2022;3108144236;travis84@example.net;2971;81,73 €;56,67 €;242.819,83 €;168.366,57 €
+C5275;NA;Bosnia and Herzegovina;Alimento infantil;Offline;Baja;25/06/2022;527583491;31/07/2022;3107739611;justinthomas@example.org;2534;255,28 €;159,42 €;646.879,52 €;403.970,28 €
+C3246;NA;Antigua and Barbuda ;Cuidado personal;Offline;Crítica;9/08/2021;324687039;25/08/2021;3111116445;stephanie22@example.net;965;81,73 €;56,67 €;78.869,45 €;54.686,55 €
+C1823;NA;Romania;Cosméticos;Online;Media;13/11/2021;182393920;31/12/2021;3155176542;lwaters@example.com;3269;437,20 €;263,33 €;1.429.206,80 €;860.825,77 €
+C8710;NA;Kazakhstan;Frutas;Offline;Crítica;29/01/2020;871065461;23/02/2020;3156923630;zsmith@example.net;6482;9,33 €;6,92 €;60.477,06 €;44.855,44 €
+C5313;NA;Burkina Faso;Material de oficina;Offline;Alta;31/07/2020;531375491;3/09/2020;3115058614;edward54@example.org;4671;651,21 €;524,96 €;3.041.801,91 €;2.452.088,16 €
+C5243;NA;Saint Lucia;Cereales;Offline;Baja;1/06/2022;524310338;23/06/2022;3015020042;brad43@example.org;3935;205,70 €;117,11 €;809.429,50 €;460.827,85 €
+C4811;NA;Jamaica;Snacks;Offline;Alta;23/09/2020;481168830;20/10/2020;3117484015;ehaynes@example.com;7404;152,58 €;97,44 €;1.129.702,32 €;721.445,76 €
+C5535;NA;Bahrain;Doméstico;Online;Media;5/07/2022;553562295;22/08/2022;3174256836;qrogers@example.net;239;668,27 €;502,54 €;159.716,53 €;120.107,06 €
+C9634;NA;Pakistan;Cereales;Offline;Crítica;11/04/2022;963414561;4/05/2022;3102392882;jerry55@example.com;4633;205,70 €;117,11 €;953.008,10 €;542.570,63 €
+C6529;NA;Saint Lucia;Cereales;Online;Baja;5/09/2020;652961957;7/09/2020;3128979808;alexander46@example.com;4808;205,70 €;117,11 €;989.005,60 €;563.064,88 €
+C4347;NA;Angola;Snacks;Online;Crítica;11/03/2020;434753310;7/04/2020;3015811041;acollins@example.net;2021;152,58 €;97,44 €;308.364,18 €;196.926,24 €
+C7416;NA;Kosovo;Cosméticos;Online;Baja;29/10/2020;741649949;18/12/2020;3117776368;cameron08@example.net;9556;437,20 €;263,33 €;4.177.883,20 €;2.516.381,48 €
+C2768;NA;Georgia;Frutas;Offline;4;1/08/2021;276825702;11/08/2021;3022591338;smithjulia@example.com;7732;9,33 €;6,92 €;72.139,56 €;53.505,44 €
+C9637;NA;Nauru;Doméstico;Online;Media;6/11/2021;963766896;21/11/2021;3103430334;oliverkim@example.com;8896;668,27 €;502,54 €;5.944.929,92 €;4.470.595,84 €
+C2962;NA;Solomon Islands;Material de oficina;Online;Baja;6/11/2022;296272361;11/11/2022;3149795450;aliciamiller@example.org;2430;651,21 €;524,96 €;1.582.440,30 €;1.275.652,80 €
+C7884;NA;Thailand;Alimento infantil;Offline;Crítica;28/06/2020;788453423;4/08/2020;3029;nguyenbenjamin@example.net;9744;255,28 €;159,42 €;2.487.448,32 €;1.553.388,48 €
+C5247;NA;Russia;Cereales;Offline;Media;3/02/2021;524733912;8/02/2021;3054732484;debra84@example.net;9280;205,70 €;117,11 €;1.908.896,00 €;1.086.780,80 €
+C8098;NA;Samoa ;Frutas;Online;Media;18/10/2022;809850156;4/11/2022;3164965256;gary45@example.net;1513;9,33 €;6,92 €;14.116,29 €;10.469,96 €
+C3188;NA;Vanuatu;Snacks;Offline;Baja;18/09/2022;318850982;6/10/2022;3006327696;doyleryan@example.net;3946;152,58 €;97,44 €;602.080,68 €;384.498,24 €
+C9470;NA;Lesotho;Frutas;Offline;Alta;23/03/2021;947097718;10/04/2021;3118198837;stephendaniel@example.net;6116;9,33 €;6,92 €;57.062,28 €;42.322,72 €
+C1602;NA;Solomon Islands;Bebida;Online;Alta;14/07/2020;160264194;28/07/2020;3189651097;acostarachel@example.com;4591;47,45 €;31,79 €;217.842,95 €;145.947,89 €
+C4443;NA;Taiwan;Snacks;Offline;Crítica;23/05/2020;444336736;9/06/2020;3024446951;christopher83@example.org;7969;152,58 €;97,44 €;1.215.910,02 €;776.499,36 €
+C7556;NA;Singapore;Verduras;Online;Baja;19/05/2022;755614173;14/06/2022;3182856849;charlottejones@example.org;1880;154,06 €;90,93 €;289.632,80 €;170.948,40 €
+C5707;NA;Ghana;Verduras;Offline;Media;6/10/2022;570707833;7/10/2022;3028177395;kmorrow@example.org;3985;154,06 €;90,93 €;613.929,10 €;362.356,05 €
+C3365;NA;Belarus;Bebida;Offline;Alta;2/07/2022;336541545;18/08/2022;3179813151;stevensjohn@example.org;8977;47,45 €;31,79 €;425.958,65 €;285.378,83 €
+C1203;NA;Lesotho;Snacks;Offline;Crítica;3/02/2020;120351636;26/02/2020;3153472146;parrishkevin@example.net;3578;152,58 €;97,44 €;545.931,24 €;348.640,32 €
+C9596;NA;Democratic Republic of the Congo;Cereales;Online;Crítica;30/07/2021;959686934;2/09/2021;3145402754;gutierrezbrandon@example.com;1545;205,70 €;117,11 €;317.806,50 €;180.934,95 €
+C8124;NA;San Marino;Frutas;Online;Baja;25/12/2021;-812408769;8/02/2022;3018197235;tfitzgerald@example.com;8663;9,33 €;6,92 €;80.825,79 €;59.947,96 €
+C4066;NA;Mauritius ;Frutas;Online;Media;3/01/2021;406690967;11/01/2021;3141525665;ctate@example.net;7749;9,33 €;6,92 €;72.298,17 €;53.623,08 €
+C9910;NA;Kosovo;Verduras;Online;Media;14/08/2021;991019856;25/09/2021;3029684145;michaeljackson@example.net;3653;154,06 €;90,93 €;562.781,18 €;332.167,29 €
+C2841;NA;Tunisia ;Verduras;Offline;Alta;15/01/2020;284194266;16/01/2020;3058222089;bennettmichael@example.com;8254;154,06 €;90,93 €;1.271.611,24 €;750.536,22 €
+C1253;NA;Czech Republic;Material de oficina;Online;Alta;20/06/2021;125325524;24/06/2021;3164047453;twilliams@example.net;5463;651,21 €;524,96 €;3.557.560,23 €;2.867.856,48 €
+C6238;NA;Federated States of Micronesia;Cosméticos;Offline;Baja;2/07/2021;623837459;10/07/2021;3148123932;margaretjackson@example.com;6222;437,20 €;263,33 €;2.720.258,40 €;1.638.439,26 €
+C6094;NA;Estonia;Doméstico;Offline;Media;8/11/2021;609466397;10/12/2021;3116038407;ilee@example.org;3506;668,27 €;502,54 €;2.342.954,62 €;1.761.905,24 €
+C7822;NA;Nepal;Frutas;Offline;Baja;10/05/2020;782261168;15/06/2020;3059877648;cherylmoran@example.net;7318;9,33 €;6,92 €;68.276,94 €;50.640,56 €
+C5625;NA;Democratic Republic of the Congo;Bebida;Offline;Media;15/12/2020;562583100;24/01/2021;3007797699;ibuchanan@example.org;9696;47,45 €;31,79 €;460.075,20 €;308.235,84 €
+C3411;NA;Singapore;Snacks;Offline;Alta;9/11/2020;341106021;12/11/2020;3025192832;james04@example.com;9707;152,58 €;97,44 €;1.481.094,06 €;945.850,08 €
+C1288;NA;India;Bebida;Online;Alta;11/07/2020;128816258;12/07/2020;3171615113;amanda93@example.com;8448;47,45 €;31,79 €;400.857,60 €;268.561,92 €
+C9070;NA;Angola;Cereales;Offline;Media;4/04/2022;907012641;19/05/2022;3145599251;crawfordlori@example.org;4051;205,70 €;117,11 €;833.290,70 €;474.412,61 €
+C5773;NA;Kyrgyzstan;Alimento infantil;Online;Crítica;5/03/2020;577306497;12/03/2020;3106783064;jesus82@example.net;6676;255,28 €;159,42 €;1.704.249,28 €;1.064.287,92 €
+C7116;NA;Burundi;Doméstico;Offline;Crítica;31/08/2021;711621654;2/09/2021;3144645865;scottarmstrong@example.org;3516;668,27 €;502,54 €;2.349.637,32 €;1.766.930,64 €
+C7021;NA;South Africa;Material de oficina;Online;Media;23/03/2020;702194440;30/03/2020;3177736823;simpsonsteven@example.com;3794;651,21 €;524,96 €;2.470.690,74 €;1.991.698,24 €
+C9115;NA;Georgia;Cereales;Offline;Baja;14/08/2022;911573684;19/09/2022;3161105807;umurray@example.com;3765;205,70 €;117,11 €;774.460,50 €;440.919,15 €
+C4226;NA;The Gambia;Bebida;Offline;Baja;19/09/2021;422620713;5/10/2021;3055989187;bridgetjackson@example.com;1715;47,45 €;31,79 €;81.376,75 €;54.519,85 €
+C1885;NA;Nepal;Doméstico;Online;Crítica;18/10/2020;188509356;31/10/2020;3103066796;ethan96;2963;668,27 €;502,54 €;1.980.084,01 €;1.489.026,02 €
+C7827;NA;Albania;Verduras;Online;Media;7/09/2020;782725942;15/09/2020;3105606521;duartealex@example.com;4855;154,06 €;90,93 €;747.961,30 €;441.465,15 €
+C1490;NA;Dominica;Material de oficina;Online;Crítica;4/03/2021;149069297;22/03/2021;3132489569;christopher79@example.com;1772;651,21 €;524,96 €;1.153.944,12 €;930.229,12 €
+C3516;NA;Oman;Bebida;Online;Media;16/06/2022;351650750;9/07/2022;3177875507;jerryking@example.com;126;47,45 €;31,79 €;5.978,70 €;4.005,54 €
+C8248;NA;Ethiopia;Cereales;Online;Media;6/11/2020;824894130;20/12/2020;3174737122;tiffanywilson@example.net;3359;205,70 €;117,11 €;690.946,30 €;393.372,49 €
+C6235;NA;Saint Kitts and Nevis ;Bebida;Online;Alta;21/08/2021;623535764;1/09/2021;3047726830;nathanharrison@example.com;6944;47,45 €;31,79 €;329.492,80 €;220.749,76 €
+C6726;NA;The Gambia;Verduras;Online;Media;5/07/2020;672624480;22/08/2020;3028190209;whitakerbrandon@example.net;3386;154,06 €;90,93 €;521.647,16 €;307.888,98 €
+C6175;NA;Rwanda;Cosméticos;Online;Media;15/02/2022;617521607;24/03/2022;3121552404;javierkelly@example.net;7221;437,20 €;263,33 €;3.157.021,20 €;1.901.505,93 €
+C1739;NA;Japan;Frutas;Offline;Crítica;19/07/2021;173900973;19/07/2021;3104379588;esalinas@example.net;17;9,33 €;6,92 €;158,61 €;117,64 €
+C4777;NA;Ireland;Verduras;Online;Baja;24/10/2022;477748906;18/11/2022;3183647822;gramirez@example.org;5373;154,06 €;90,93 €;827.764,38 €;488.566,89 €
+C9353;NA;Andorra;Alimento infantil;Offline;Media;11/05/2020;935364234;14/06/2020;3041016872;justin15@example.com;3918;255,28 €;159,42 €;1.000.187,04 €;624.607,56 €
+C5733;NA;Kazakhstan;Snacks;Online;Crítica;15/06/2020;573358285;29/06/2020;3108153856;gmiller@example.org;8313;152,58 €;97,44 €;1.268.397,54 €;810.018,72 €
+C2886;NA;Italy;Verduras;Offline;Alta;17/08/2022;288654887;29/09/2022;3106018233;kelly52@example.net;8251;154,06 €;90,93 €;1.271.149,06 €;750.263,43 €
+C5984;NA;Tanzania;Snacks;Offline;Baja;1/02/2021;598490369;7/02/2021;3005324008;ifranklin@example.net;5455;152,58 €;97,44 €;832.323,90 €;531.535,20 €
+C2904;NA;Antigua and Barbuda ;Ropa;Offline;Crítica;15/06/2020;290413558;19/07/2020;3001680320;crystalcummings@example.net;8680;109,28 €;35,84 €;948.550,40 €;311.091,20 €
+C4722;NA;Qatar;Cosméticos;Online;Media;13/01/2020;472285783;27/01/2020;3004945406;zellis@example.com;8713;437,20 €;263,33 €;3.809.323,60 €;2.294.394,29 €
+C5222;NA;Jordan;Cárnicos;Offline;Media;16/12/2020;522280871;12/01/2021;3009945795;nvasquez@example.org;3371;421,89 €;364,69 €;1.422.191,19 €;1.229.369,99 €
+C3388;NA;El Salvador;Doméstico;Online;Baja;27/11/2021;338885152;11/12/2021;3102299846;kayla24@example.net;2502;668,27 €;502,54 €;1.672.011,54 €;1.257.355,08 €
+C7908;NA;Tonga;Doméstico;Offline;Baja;12/07/2020;790897452;17/07/2020;3021488101;joshua44@example.net;2986;668,27 €;502,54 €;1.995.454,22 €;1.500.584,44 €
+C5674;NA;Madagascar;Cárnicos;Offline;Alta;6/08/2020;567429101;19/09/2020;3152347052;xortiz@example.org;3735;421,89 €;364,69 €;1.575.759,15 €;1.362.117,15 €
+C2279;NA;Seychelles ;Alimento infantil;Offline;Media;29/12/2021;227903926;10/01/2022;3155189127;sotomatthew@example.org;691;255,28 €;159,42 €;176.398,48 €;110.159,22 €
+C8520;NA;Swaziland;Bebida;Offline;Media;23/02/2022;852058255;28/02/2022;3132928605;richard44@example.com;1827;47,45 €;31,79 €;86.691,15 €;58.080,33 €
+C8899;NA;Tonga;Cereales;Online;Crítica;25/04/2020;889940917;30/04/2020;3045848995;amandagonzalez@example.org;2149;205,70 €;117,11 €;442.049,30 €;251.669,39 €
+C2119;NA;Azerbaijan;Bebida;Offline;Media;16/11/2021;211913239;27/11/2021;3049717730;crawfordnatalie@example.com;8692;47,45 €;31,79 €;412.435,40 €;276.318,68 €
+C5586;NA;Madagascar;Cereales;Offline;Crítica;10/08/2022;558649051;15/08/2022;3005924305;graytammy@example.net;5523;205,70 €;117,11 €;1.136.081,10 €;646.798,53 €
+C5911;NA;Iran;Alimento infantil;Online;Alta;16/07/2021;591134679;23/08/2021;3108717342;qduarte@example.net;8743;255,28 €;159,42 €;2.231.913,04 €;1.393.809,06 €
+C8406;NA;New Zealand;Cosméticos;Offline;Baja;27/05/2022;840668952;10/07/2022;3029900282;mirandamichael@example.org;1479;437,20 €;263,33 €;646.618,80 €;389.465,07 €
+C5588;NA;Democratic Republic of the Congo;Doméstico;Online;Crítica;29/09/2020;558863198;23/10/2020;3114392375;thorntonnancy@example.com;8894;668,27 €;502,54 €;5.943.593,38 €;4.469.590,76 €
+C8676;NA;Lithuania;Alimento infantil;Offline;Baja;12/07/2022;867641246;27/07/2022;3147966981;darrell36@example.com;3180;255,28 €;159,42 €;811.790,40 €;506.955,60 €
+C7092;NA;Seychelles ;Cereales;Online;Baja;4/09/2022;709239423;24/09/2022;3024383076;daniel75@example.net;8561;205,70 €;117,11 €;1.760.997,70 €;1.002.578,71 €
+C8962;NA;Croatia;Cereales;Online;Crítica;20/10/2020;896206557;16/11/2020;3182842324;tiffany24@example.org;6291;205,70 €;117,11 €;1.294.058,70 €;736.739,01 €
+C9614;NA;Swaziland;Alimento infantil;Online;Crítica;26/08/2022;961403977;5/10/2022;3;restrada@example.org;9656;255,28 €;159,42 €;2.464.983,68 €;1.539.359,52 €
+C5080;NA;Singapore;Snacks;Online;Alta;27/06/2021;508005511;15/08/2021;3023983208;rachel04@example.org;8975;152,58 €;97,44 €;1.369.405,50 €;874.524,00 €
+C5594;NA;Germany;Frutas;Online;Crítica;5/06/2022;559497487;14/06/2022;3052838146;montoyagarrett@example.com;6595;9,33 €;6,92 €;61.531,35 €;45.637,40 €
+C4096;NA;Norway;Cosméticos;Online;Baja;20/12/2020;409678733;2/01/2021;3114229987;jennifergarcia@example.net;1896;437,20 €;263,33 €;828.931,20 €;499.273,68 €
+C7726;NA;Malaysia;Cosméticos;Online;Media;10/08/2021;772660577;26/08/2021;3134724273;linda86@example.net;6290;437,20 €;263,33 €;2.749.988,00 €;1.656.345,70 €
+C6328;NA;Austria;Bebida;Online;Crítica;29/01/2022;632866847;12/02/2022;3186027773;triddle@example.com;8219;47,45 €;31,79 €;389.991,55 €;261.282,01 €
+C3950;NA;Malaysia;Snacks;Online;Media;10/07/2020;395033872;23/07/2020;3189180074;brittany31@example.org;8156;152,58 €;97,44 €;1.244.442,48 €;794.720,64 €
+C5342;NA;Lesotho;Cuidado personal;Offline;Alta;20/08/2022;534210479;29/08/2022;3132279110;elizabethewing@example.org;3607;81,73 €;56,67 €;294.800,11 €;204.408,69 €
+C2457;NA;Benin;Frutas;Offline;Alta;18/03/2020;245757997;30/03/2020;3129425653;kimberlysanchez@example.org;4107;9,33 €;6,92 €;38.318,31 €;28.420,44 €
+C5953;NA;Greece;Material de oficina;Offline;Baja;5/03/2021;595350253;24/03/2021;3183677210;fvilla@example.org;6225;651,21 €;524,96 €;4.053.782,25 €;3.267.876,00 €
+C4689;NA;Lithuania;Cereales;Offline;Baja;3/06/2022;468973577;13/07/2022;3028621974;karen44@example.net;8558;205,70 €;117,11 €;1.760.380,60 €;1.002.227,38 €
+C6229;NA;Comoros;Cárnicos;Offline;Alta;2/09/2022;622926795;26/09/2022;3105965461;jacqueline16@example.com;6736;421,89 €;364,69 €;2.841.851,04 €;2.456.551,84 €
+C5338;NA;Myanmar;Doméstico;Offline;Media;17/01/2021;533821237;21/02/2021;3159980733;bailey76@example.org;8421;668,27 €;502,54 €;5.627.501,67 €;4.231.889,34 €
+C6485;NA;Ethiopia;Cuidado personal;Online;Baja;14/05/2021;-648580729;4/06/2021;3119900330;simpsonkathleen@example.org;8306;81,73 €;56,67 €;678.849,38 €;470.701,02 €
+C1344;NA;Guinea;Cereales;Offline;Crítica;16/02/2022;134441602;5/04/2022;3123651385;vscott@example.org;3112;205,70 €;117,11 €;640.138,40 €;364.446,32 €
+C9289;NA;Saint Lucia;Cosméticos;Offline;Baja;21/10/2020;928952682;5/11/2020;3029020467;rsmith@example.com;6597;437,20 €;263,33 €;2.884.208,40 €;1.737.188,01 €
+C9899;NA;Eritrea;Material de oficina;Offline;Media;27/12/2020;989975297;7/02/2021;3048261644;mmoran@example.com;4545;651,21 €;524,96 €;2.959.749,45 €;2.385.943,20 €
+C1456;NA;Niger;Cuidado personal;Offline;Baja;21/05/2022;145683276;18/06/2022;3059155561;adam52@example.net;9774;81,73 €;56,67 €;798.829,02 €;553.892,58 €
+C5445;NA;Barbados;Cosméticos;Online;Media;29/03/2022;544562947;11/05/2022;3023729952;stonekaren@example.net;7132;437,20 €;263,33 €;3.118.110,40 €;1.878.069,56 €
+C8054;NA;Tonga;Snacks;Offline;Crítica;30/06/2022;805413138;10/08/2022;3124099583;bullockmary@example.org;8501;152,58 €;97,44 €;1.297.082,58 €;828.337,44 €
+C9673;NA;Indonesia;Bebida;Offline;Baja;19/08/2022;967345178;29/09/2022;3009240974;danielbowen@example.org;7789;47,45 €;31,79 €;369.588,05 €;247.612,31 €
+C2397;NA;Indonesia;Ropa;Online;Alta;7/02/2021;239782893;28/03/2021;3008049547;schmidtjeffery@example.org;5941;109,28 €;35,84 €;649.232,48 €;212.925,44 €
+C1524;NA;Lebanon;Cuidado personal;Offline;Crítica;27/06/2022;152462613;1/08/2022;3042672865;elizabeth68@example.net;5930;81,73 €;56,67 €;484.658,90 €;336.053,10 €
+C5054;NA;Afghanistan;Ropa;Online;Crítica;1/10/2021;505433166;9/10/2021;3043231786;henryrebecca@example.org;7760;109,28 €;35,84 €;848.012,80 €;278.118,40 €
+C7190;NA;Hungary;Frutas;Offline;Baja;4/11/2022;719055879;14/12/2022;3173508682;donaldreeves@example.com;3468;9,33 €;6,92 €;32.356,44 €;23.998,56 €
+C2840;NA;Gabon;Cosméticos;Offline;Media;11/02/2020;284004580;22/03/2020;3169863598;amanda87@example.com;2121;437,20 €;263,33 €;927.301,20 €;558.522,93 €
+C1112;NA;Mongolia;Material de oficina;Offline;Media;7/08/2022;111265599;7/09/2022;3107180018;cholloway@example.net;4818;651,21 €;524,96 €;3.137.529,78 €;2.529.257,28 €
+C2821;NA;Canada;Alimento infantil;Offline;Baja;28/02/2021;282137763;25/03/2021;3102705874;tmedina@example.org;9689;255,28 €;159,42 €;2.473.407,92 €;1.544.620,38 €
+C4982;NA;Afghanistan;Doméstico;Online;Alta;11/05/2021;498232400;27/06/2021;3045466712;michaelrobinson@example.org;6894;668,27 €;502,54 €;4.607.053,38 €;3.464.510,76 €
+C5314;NA;Liechtenstein;Cereales;Offline;Media;2/01/2022;531473338;11/01/2022;3169670357;lovejohnathan@example.com;3626;205,70 €;117,11 €;745.868,20 €;424.640,86 €
+C6740;NA;Honduras;Alimento infantil;Online;Crítica;23/04/2022;674096906;1/06/2022;3132804635;bondalexandra@example.org;9109;255,28 €;159,42 €;2.325.345,52 €;1.452.156,78 €
+C3886;NA;Mexico;Alimento infantil;Online;Alta;18/06/2020;388651931;7/08/2020;3014706442;melissaortiz@example.org;9598;255,28 €;159,42 €;2.450.177,44 €;1.530.113,16 €
+C5579;NA;Liberia;Material de oficina;Online;Media;8/10/2020;557999742;28/10/2020;3005615385;rowlandelizabeth@example.net;3378;651,21 €;524,96 €;2.199.787,38 €;1.773.314,88 €
+C3353;NA;Ireland;Snacks;Offline;Alta;16/10/2020;335314166;1/11/2020;3174700824;andrewsmith@example.org;5768;152,58 €;97,44 €;880.081,44 €;562.033,92 €
+C2940;NA;Morocco;Cárnicos;Offline;Crítica;8/05/2021;294081532;24/05/2021;3134143152;wilsonana@example.net;4115;421,89 €;364,69 €;1.736.077,35 €;1.500.699,35 €
+C1781;NA;Dominica;Ropa;Offline;Media;30/03/2022;178100669;9/05/2022;3104776312;ihamilton@example.org;2801;109,28 €;35,84 €;306.093,28 €;100.387,84 €
+C2514;NA;Cameroon;Doméstico;Offline;Media;21/10/2020;251482903;6/11/2020;3163925885;mendezjames@example.com;8234;668,27 €;502,54 €;5.502.535,18 €;4.137.914,36 €
+C8486;NA;Nepal;Cárnicos;Offline;Baja;4/12/2021;848652064;20/12/2021;3156035885;woodgregory@example.com;3860;421,89 €;364,69 €;1.628.495,40 €;1.407.703,40 €
+C1243;NA;Albania;Cereales;Online;Crítica;25/04/2022;124344480;16/05/2022;3124397187;hilldavid@example.com;5150;205,70 €;117,11 €;1.059.355,00 €;603.116,50 €
+C8036;NA;Maldives;Cuidado personal;Online;Baja;8/07/2020;803608977;10/07/2020;3148551179;mikeshaffer@example.com;4609;81,73 €;56,67 €;376.693,57 €;261.192,03 €
+C7318;NA;Turkey;Ropa;Offline;Alta;14/03/2021;731806886;28/04/2021;3047332668;patrickcampbell@example.net;6775;109,28 €;35,84 €;740.372,00 €;242.816,00 €
+C5246;NA;New Zealand;Verduras;Offline;Crítica;12/04/2022;524612033;1/05/2022;3149216254;brooksphilip@example.org;3213;154,06 €;90,93 €;494.994,78 €;292.158,09 €
+C4180;NA;Lebanon;Cereales;Offline;Alta;27/01/2022;418010747;7/02/2022;3171309331;wcraig;7524;205,70 €;117,11 €;1.547.686,80 €;881.135,64 €
+C7183;NA;Luxembourg;Ropa;Online;Baja;26/09/2020;718301856;12/11/2020;3048919828;sabrinareeves@example.org;336;109,28 €;35,84 €;36.718,08 €;12.042,24 €
+C4520;NA;Togo;Ropa;Online;Media;7/09/2021;452096688;18/09/2021;;matthewbarnes@example.net;4311;109,28 €;35,84 €;471.106,08 €;154.506,24 €
+C5163;NA;Hungary;Cuidado personal;Offline;Alta;31/07/2021;516319072;31/08/2021;3164730476;allisonjackson@example.net;9142;81,73 €;56,67 €;747.175,66 €;518.077,14 €
+C5282;NA;Lithuania;Doméstico;Online;Baja;10/05/2020;528205335;24/06/2020;3051137241;andrew60@example.com;6551;668,27 €;502,54 €;4.377.836,77 €;3.292.139,54 €
+C1753;NA;Bangladesh;Material de oficina;Offline;Media;19/08/2022;175304305;18/09/2022;3018910149;smckee@example.com;5294;651,21 €;524,96 €;3.447.505,74 €;2.779.138,24 €
+C5654;NA;China;Bebida;Online;Baja;28/12/2021;565477311;22/01/2022;3176727503;walkercynthia@example.org;6157;47,45 €;31,79 €;292.149,65 €;195.731,03 €
+C1768;NA;Equatorial Guinea;Cárnicos;Offline;Media;5/06/2022;-176898181;16/06/2022;3165701287;;6958;421,89 €;364,69 €;2.935.510,62 €;2.537.513,02 €
+C7080;NA;Belgium;Cereales;Offline;Media;14/08/2022;708053243;12/09/2022;3111207237;;7544;205,70 €;117,11 €;1.551.800,80 €;883.477,84 €
+C3277;NA;Turkey;Snacks;Online;Alta;20/03/2020;327741324;29/03/2020;3185479590;;4796;152,58 €;97,44 €;731.773,68 €;467.322,24 €
+C4250;NA;Indonesia;Cuidado personal;Offline;Media;7/11/2021;425073754;22/12/2021;3189727524;;7625;81,73 €;56,67 €;623.191,25 €;432.108,75 €
+C6594;NA;Russia;Frutas;Online;Baja;8/09/2021;659474360;25/09/2021;3024554561;;1973;9,33 €;6,92 €;18.408,09 €;13.653,16 €
+C3106;NA;Armenia;Cárnicos;Online;Media;5/01/2020;310679471;27/01/2020;3189574031;michellecox@example.com;5814;421,89 €;364,69 €;2.452.868,46 €;2.120.307,66 €
+C5287;NA;Belize;Cosméticos;Online;Crítica;19/10/2021;528737914;1/12/2021;3052700070;dking@example.net;4153;437,20 €;263,33 €;1.815.691,60 €;1.093.609,49 €
+C2840;NA;Finland;Snacks;Offline;Alta;30/12/2020;284011018;25/01/2021;3181193039;heather21@example.org;4026;152,58 €;97,44 €;614.287,08 €;392.293,44 €
+C4171;NA;Samoa ;Alimento infantil;Offline;Baja;14/12/2021;417172610;19/12/2021;3138114193;iewing@example.com;9501;255,28 €;159,42 €;2.425.415,28 €;1.514.649,42 €
+C4892;NA;The Gambia;Cosméticos;Offline;Crítica;4/11/2020;489209020;5/12/2020;3101828177;cindy89@example.net;6675;437,20 €;263,33 €;2.918.310,00 €;1.757.727,75 €
+C1314;NA;Greece;Doméstico;Online;Baja;25/05/2021;131419074;3/07/2021;3001279869;michaelparker@example.org;8679;668,27 €;502,54 €;5.799.915,33 €;4.361.544,66 €
+C3954;NA;Finland;Bebida;Online;Crítica;7/01/2022;395414102;4/02/2022;3018652383;ibrewer@example.org;674;47,45 €;31,79 €;31.981,30 €;21.426,46 €
+C6031;NA;Trinidad and Tobago;Cereales;Offline;Baja;5/02/2020;603117930;12/03/2020;3136092612;yorkdeborah@example.net;4853;205,70 €;117,11 €;998.262,10 €;568.334,83 €
+C5967;NA;Vietnam;Frutas;Online;Baja;27/12/2021;-596766889;11/01/2022;3046355127;randyrivers@example.org;5439;9,33 €;6,92 €;50.745,87 €;37.637,88 €
+C2889;NA;Indonesia;Cuidado personal;Offline;Media;6/08/2021;288909804;10/08/2021;3043240214;ronaldbrooks@example.com;3686;81,73 €;56,67 €;301.256,78 €;208.885,62 €
+C1124;NA;Norway;Cereales;Online;Media;16/10/2021;112408006;23/10/2021;3029904603;bakerelizabeth@example.com;2882;205,70 €;117,11 €;592.827,40 €;337.511,02 €
+C5704;NA;Zimbabwe;Cuidado personal;Offline;3;27/07/2021;570435321;11/08/2021;3126632112;adambaker@example.net;3343;81,73 €;56,67 €;273.223,39 €;189.447,81 €
+C8864;NA;Namibia;Alimento infantil;Online;Crítica;28/04/2020;886478078;29/05/2020;3041198650;deanna35@example.com;7418;255,28 €;159,42 €;1.893.667,04 €;1.182.577,56 €
+C3543;NA;Tonga;Cereales;Online;Alta;17/02/2022;354335105;7/04/2022;3045882056;ncox@example.org;4487;205,70 €;117,11 €;922.975,90 €;525.472,57 €
+C5881;NA;Malaysia;Cárnicos;Online;Crítica;18/01/2020;588117730;11/02/2020;3178057568;wjohnson@example.net;5960;421,89 €;364,69 €;2.514.464,40 €;2.173.552,40 €
+C5722;NA;Egypt;Bebida;Online;Crítica;21/05/2020;572249782;21/05/2020;3017713059;kylebenson@example.com;282;47,45 €;31,79 €;13.380,90 €;8.964,78 €
+C7114;NA;Saudi Arabia;Doméstico;Offline;Baja;16/04/2021;711467587;23/05/2021;3137011763;leematthew@example.com;7924;668,27 €;502,54 €;5.295.371,48 €;3.982.126,96 €
+C5808;NA;Panama;Material de oficina;Online;Crítica;26/09/2022;580819976;24/10/2022;3057407593;pamela13@example.org;6393;651,21 €;524,96 €;4.163.185,53 €;3.356.069,28 €
+C2756;NA;Haiti;Material de oficina;Online;Media;27/03/2022;275668275;30/04/2022;3003005948;warnershannon@example.org;5223;651,21 €;524,96 €;3.401.269,83 €;2.741.866,08 €
+C8616;NA;Mauritania;Cereales;Offline;Alta;30/12/2021;861686313;30/12/2021;;fweber@example.org;983;205,70 €;117,11 €;202.203,10 €;115.119,13 €
+C3248;NA;The Gambia;Cárnicos;Offline;Crítica;8/10/2021;324860417;18/11/2021;3017970976;lucasamanda@example.org;2271;421,89 €;364,69 €;958.112,19 €;828.210,99 €
+C3214;NA;Ireland;Snacks;Offline;Crítica;12/04/2020;321489417;13/04/2020;3178219238;david94@example.com;4718;152,58 €;97,44 €;719.872,44 €;459.721,92 €
+C3281;NA;San Marino;Cosméticos;Online;Baja;14/05/2022;328184640;29/06/2022;;cynthiagordon@example.net;5983;437,20 €;263,33 €;2.615.767,60 €;1.575.503,39 €
+C7918;NA;United Arab Emirates;Material de oficina;Offline;Baja;30/05/2020;791869914;22/06/2020;3184456270;hrodriguez@example.net;760;651,21 €;524,96 €;494.919,60 €;398.969,60 €
+C8797;NA;Mauritania;Cuidado personal;Online;Media;28/06/2021;879781568;17/08/2021;3105562559;aprilwerner@example.com;5771;81,73 €;56,67 €;471.663,83 €;327.042,57 €
+C7294;NA;Nicaragua;Cárnicos;Offline;Crítica;19/03/2020;729468429;13/04/2020;3007350714;bsmith@example.com;4773;421,89 €;364,69 €;2.013.680,97 €;1.740.665,37 €
+C9987;NA;Malaysia;Ropa;Offline;Alta;5/03/2020;998791825;21/03/2020;3169321655;williamsreginald@example.net;3551;109,28 €;35,84 €;388.053,28 €;127.267,84 €
+C6159;NA;Zambia;Cosméticos;Online;Alta;30/01/2021;615925586;25/02/2021;;vegaamy@example.org;4923;437,20 €;263,33 €;2.152.335,60 €;1.296.373,59 €
+C8293;NA;Malawi;Frutas;Online;Baja;7/03/2020;829356038;29/03/2020;3145659935;jennifercarter@example.net;3737;9,33 €;6,92 €;34.866,21 €;25.860,04 €
+C2578;NA;Lesotho;Cuidado personal;Offline;Alta;9/04/2022;257882010;17/04/2022;3155390233;josephklein@example.org;1872;81,73 €;56,67 €;152.998,56 €;106.086,24 €
+;NA;Malawi;Cárnicos;Offline;Baja;11/02/2021;740614831;15/02/2021;3112550561;singletoncandice@example.com;3241;421,89 €;364,69 €;1.367.345,49 €;1.181.960,29 €
+C5869;NA;Iraq;Cárnicos;Offline;Crítica;19/11/2020;586978328;6/12/2020;3135242110;davidkerr@example.net;8786;421,89 €;364,69 €;3.706.725,54 €;3.204.166,34 €
+C4267;NA;Turkmenistan;Doméstico;Offline;Media;9/06/2020;426708829;25/06/2020;3142198674;sarah37@example.net;1480;668,27 €;502,54 €;989.039,60 €;743.759,20 €
+C9598;NA;United Arab Emirates;Material de oficina;Offline;Baja;19/06/2020;959855163;28/06/2020;3051562551;ushepherd@example.org;1328;651,21 €;524,96 €;864.806,88 €;697.146,88 €
+C7067;NA;Maldives;Doméstico;Online;Alta;20/01/2022;706778657;7/02/2022;3041668448;nathanchan@example.com;366;668,27 €;502,54 €;244.586,82 €;183.929,64 €
+C9581;NA;Romania;Doméstico;Online;Crítica;29/05/2022;958153140;1/06/2022;3172640656;destinyking@example.net;7661;668,27 €;502,54 €;5.119.616,47 €;3.849.958,94 €
+C8249;NA;Lebanon;Cosméticos;Offline;Crítica;28/12/2021;824964940;5/02/2022;3107912439;jallen@example.net;4313;437,20 €;263,33 €;1.885.643,60 €;1.135.742,29 €
+C3885;NA;Portugal;Cosméticos;Online;Alta;30/03/2020;388512885;3/05/2020;3118319094;deanarnold@example.com;8451;437,20 €;263,33 €;3.694.777,20 €;2.225.401,83 €
+C2504;NA;Bosnia and Herzegovina;Material de oficina;Offline;Crítica;22/09/2022;250408303;7/10/2022;3176890936;tmoore@example.com;236;651,21 €;524,96 €;153.685,56 €;123.890,56 €
+C1825;NA;Iraq;Snacks;Offline;Crítica;10/07/2022;182575023;24/08/2022;3029476456;morrowwilliam@example.net;6861;152,58 €;97,44 €;1.046.851,38 €;668.535,84 €
+C4772;NA;Moldova ;Ropa;Offline;Crítica;18/09/2021;477249372;6/11/2021;3117452630;vegajulie@example.net;7549;109,28 €;35,84 €;824.954,72 €;270.556,16 €
+C5969;NA;Liberia;Cereales;Offline;Alta;6/05/2021;596980178;17/06/2021;3103734016;markskenneth@example.net;8556;205,70 €;117,11 €;1.759.969,20 €;1.001.993,16 €
+C5246;NA;Sudan;Alimento infantil;Online;Baja;1/01/2020;524628770;3/01/2020;3018851860;todd21@example.org;8166;255,28 €;159,42 €;2.084.616,48 €;1.301.823,72 €
+C3133;NA;Democratic Republic of the Congo;Cosméticos;Online;Media;18/12/2020;313368976;2/02/2021;3165167562;petersondavid@example.com;1698;437,20 €;263,33 €;742.365,60 €;447.134,34 €
+C5366;NA;Morocco;Snacks;Offline;Media;13/03/2022;536687123;15/03/2022;3137338644;jmcdonald@example.net;6501;152,58 €;97,44 €;991.922,58 €;633.457,44 €
+C9383;NA;Saint Vincent and the Grenadines;Frutas;Online;Media;20/08/2020;938382041;29/09/2020;3022602762;nduncan@example.com;6954;9,33 €;6,92 €;64.880,82 €;48.121,68 €
+C8825;NA;Pakistan;Doméstico;Offline;Baja;12/03/2022;882565057;19/04/2022;3156673311;sanchezjeremiah@example.net;9468;668,27 €;502,54 €;6.327.180,36 €;4.758.048,72 €
+C7036;NA;Sweden;Cereales;Online;Alta;27/04/2020;703659999;14/05/2020;3183874684;riddlecrystal@example.org;7485;205,70 €;117,11 €;1.539.664,50 €;876.568,35 €
+C3564;NA;Palau;Cuidado personal;Online;Crítica;24/04/2020;356403195;3/05/2020;3167830816;kkelley@example.org;6480;81,73 €;56,67 €;529.610,40 €;367.221,60 €
+C7658;NA;Poland;Cereales;Offline;Crítica;15/09/2020;765843474;21/10/2020;3016298679;hunter89@example.org;8958;205,70 €;117,11 €;1.842.660,60 €;1.049.071,38 €
+C6773;NA;Equatorial Guinea;Cárnicos;Online;Crítica;15/06/2020;677342164;15/07/2020;3177668641;lcalderon@example.net;9453;421,89 €;364,69 €;3.988.126,17 €;3.447.414,57 €
+C7065;NA;Kiribati;Doméstico;Offline;Media;30/04/2020;706573092;15/05/2020;3186771744;andrew35@example.net;9535;668,27 €;502,54 €;6.371.954,45 €;4.791.718,90 €
+C1895;NA;Myanmar;Cereales;Offline;Crítica;6/07/2021;189522588;1/08/2021;3162056042;brianbenson@example.net;2800;205,70 €;117,11 €;575.960,00 €;327.908,00 €
+C3324;NA;Haiti;Doméstico;Online;Crítica;18/04/2021;332489478;26/05/2021;3138037170;weberbrittany@example.net;9880;668,27 €;502,54 €;6.602.507,60 €;4.965.095,20 €
+C1620;NA;Mauritius ;Snacks;Online;Media;26/03/2020;162085092;2/05/2020;3159286538;perrysheri@example.org;3435;152,58 €;97,44 €;524.112,30 €;334.706,40 €
+C5752;NA;Luxembourg;Cereales;Online;Crítica;18/09/2020;575233256;5/11/2020;3027880313;pstewart@example.net;3158;205,70 €;117,11 €;649.600,60 €;369.833,38 €
+C2891;NA;Tonga;Ropa;Offline;Baja;31/08/2022;-289170300;11/09/2022;3134880747;jasonbrown@example.com;773;109,28 €;35,84 €;84.473,44 €;27.704,32 €
+C7914;NA;Ukraine;Verduras;Offline;Alta;16/02/2022;791445052;19/02/2022;3029870807;onewton@example.net;5033;154,06 €;90,93 €;775.383,98 €;457.650,69 €
+C4899;NA;Sudan;Snacks;Online;Alta;7/04/2021;489918839;21/04/2021;3111892416;ladams@example.org;6727;152,58 €;97,44 €;1.026.405,66 €;655.478,88 €
+C5627;NA;France;Doméstico;Online;Baja;19/03/2021;562765491;11/04/2021;3008810342;joseph15@example.net;3669;668,27 €;502,54 €;2.451.882,63 €;1.843.819,26 €
+C9084;NA;Laos;Ropa;Offline;Media;25/08/2020;908471333;16/09/2020;3101317727;bli@example.org;5711;109,28 €;35,84 €;624.098,08 €;204.682,24 €
+C5958;NA;Dominica;Cosméticos;Online;Crítica;31/01/2020;595835196;12/03/2020;3119790263;moyerpaige;9730;437,20 €;263,33 €;4.253.956,00 €;2.562.200,90 €
+C1139;NA;Estonia;Snacks;Offline;Alta;3/06/2020;113968408;26/06/2020;3029204419;butlerchristine@example.net;4639;152,58 €;97,44 €;707.818,62 €;452.024,16 €
+C9222;NA;Afghanistan;Cuidado personal;Offline;Crítica;23/07/2021;922294795;11/09/2021;30251;uburgess@example.net;6380;81,73 €;56,67 €;521.437,40 €;361.554,60 €
+C5005;NA;Eritrea;Frutas;Online;Crítica;29/11/2020;500550687;16/12/2020;3047524327;brian57@example.net;2926;9,33 €;6,92 €;27.299,58 €;20.247,92 €
+C8987;NA;Oman;Cárnicos;Online;Alta;8/08/2020;898784911;15/08/2020;3188611010;ronaldwilliams@example.net;9283;421,89 €;364,69 €;3.916.404,87 €;3.385.417,27 €
+C1873;NA;Cuba;Snacks;Offline;Media;18/04/2020;187358796;6/05/2020;3005292871;eric78@example.org;2486;152,58 €;97,44 €;379.313,88 €;242.235,84 €
+C1069;NA;Oman;Cereales;Offline;Crítica;23/06/2021;106946170;27/07/2021;3182569571;grobles@example.net;6603;205,70 €;117,11 €;1.358.237,10 €;773.277,33 €
+C2185;NA;Luxembourg;Material de oficina;Offline;Alta;29/04/2020;218533360;2/05/2020;3042765327;cheryl64@example.net;7733;651,21 €;524,96 €;5.035.806,93 €;4.059.515,68 €
+C1534;NA;Namibia;Material de oficina;Offline;Baja;27/07/2020;153419196;7/08/2020;3172271670;woodmarcia@example.org;9004;651,21 €;524,96 €;5.863.494,84 €;4.726.739,84 €
+C9632;NA;India;Frutas;Online;Alta;12/08/2020;963215005;21/08/2020;3172009634;xblanchard@example.net;5580;9,33 €;6,92 €;52.061,40 €;38.613,60 €
+C1698;NA;Palau;Verduras;Offline;Alta;14/09/2020;169844615;19/10/2020;3128201657;phillip54@example.com;9651;154,06 €;90,93 €;1.486.833,06 €;877.565,43 €
+C3155;NA;Serbia;Cuidado personal;Online;Alta;26/06/2021;315544354;4/08/2021;3019518665;nmccann@example.org;5441;81,73 €;56,67 €;444.692,93 €;308.341,47 €
+C4128;NA;Mauritania;Verduras;Offline;Crítica;26/07/2022;412863051;5/08/2022;3129423295;alicia71@example.com;4206;154,06 €;90,93 €;647.976,36 €;382.451,58 €
+C8946;NA;Maldives;Frutas;Offline;Alta;10/02/2021;894662034;13/02/2021;3119229684;sharon33@example.org;9232;9,33 €;6,92 €;86.134,56 €;63.885,44 €
+C4641;NA;Liberia;Cuidado personal;Offline;Crítica;31/10/2021;464115130;9/11/2021;3161150327;thanna@example.net;836;81,73 €;56,67 €;68.326,28 €;47.376,12 €
+C1447;NA;Greece;Bebida;Online;Media;4/04/2021;144708669;5/05/2021;3112510483;turnerfernando@example.com;1366;47,45 €;31,79 €;64.816,70 €;43.425,14 €
+C1302;NA;Dominica;Frutas;Offline;Baja;11/08/2020;130241477;23/08/2020;3172780036;crosbyangela@example.org;202;9,33 €;6,92 €;1.884,66 €;1.397,84 €
+C2348;NA;Vietnam;Cereales;Offline;Crítica;10/07/2021;234824883;19/07/2021;3121402226;gnavarro@example.org;8756;205,70 €;117,11 €;1.801.109,20 €;1.025.415,16 €
+C3428;NA;Sri Lanka;Cereales;Offline;Alta;24/09/2021;342882716;9/10/2021;3018893071;hallpatricia@example.com;5470;205,70 €;117,11 €;1.125.179,00 €;640.591,70 €
+C8591;NA;Portugal;Doméstico;Offline;Media;28/03/2022;859151303;6/05/2022;3129602989;mcintoshrobert@example.org;818;668,27 €;502,54 €;546.644,86 €;411.077,72 €
+C4586;NA;United States of America;Cárnicos;Offline;Crítica;26/02/2020;458679473;22/03/2020;3102497292;robersontara@example.net;2304;421,89 €;364,69 €;972.034,56 €;840.245,76 €
+C1368;NA;Jamaica;Snacks;Online;Crítica;30/07/2021;136828553;2/09/2021;3023610727;mjones@example.com;9464;152,58 €;97,44 €;1.444.017,12 €;922.172,16 €
+C9592;NA;Cyprus;Alimento infantil;Online;Alta;19/02/2020;959272372;1/03/2020;3028315999;wcurry@example.net;8867;255,28 €;159,42 €;2.263.567,76 €;1.413.577,14 €
+C9119;NA;Iran;Cereales;Offline;Media;18/04/2021;911997258;7/05/2021;3168121868;hnorman@example.org;9110;205,70 €;117,11 €;1.873.927,00 €;1.066.872,10 €
+C7513;NA;Sri Lanka;Verduras;Offline;Crítica;4/12/2020;751302039;10/12/2020;3159491515;carla97;5824;154,06 €;90,93 €;897.245,44 €;529.576,32 €
+C8537;NA;East Timor;Snacks;Online;Media;2/01/2021;853798043;5/02/2021;3118183201;emily15@example.org;6669;152,58 €;97,44 €;1.017.556,02 €;649.827,36 €
+C7664;NA;Niger;Cárnicos;Online;Crítica;29/06/2022;766409099;3/07/2022;3108323282;washingtonkristi@example.net;6338;421,89 €;364,69 €;2.673.938,82 €;2.311.405,22 €
+C5563;NA;Australia;Frutas;Online;Media;10/01/2021;556371533;9/02/2021;3155355253;fsmith@example.net;1555;9,33 €;6,92 €;14.508,15 €;10.760,60 €
+C3612;NA;Botswana;Alimento infantil;Online;Media;29/08/2022;361234176;11/09/2022;3113985956;nbrown@example.net;6075;255,28 €;159,42 €;1.550.826,00 €;968.476,50 €
+C8388;NA;Portugal;Frutas;Online;Media;27/05/2022;838858354;16/06/2022;3186504868;slara@example.com;5683;9,33 €;6,92 €;53.022,39 €;39.326,36 €
+C9174;NA;South Korea;Bebida;Offline;Alta;26/10/2022;917417895;28/10/2022;3185861772;garrettjeffrey@example.org;3197;47,45 €;31,79 €;151.697,65 €;101.632,63 €
+C9453;NA;Philippines;Cárnicos;Offline;Media;28/02/2021;945399129;29/03/2021;3182087684;carterjacob@example.org;3466;421,89 €;364,69 €;1.462.270,74 €;1.264.015,54 €
+C4416;NA;Saint Vincent and the Grenadines;Cárnicos;Offline;Baja;23/03/2022;441600883;27/03/2022;3183856998;michael73@example.org;8369;421,89 €;364,69 €;3.530.797,41 €;3.052.090,61 €
+C3451;NA;Panama;Verduras;Online;Crítica;20/08/2022;345134484;7/10/2022;3012571924;webbrose@example.com;1818;154,06 €;90,93 €;280.081,08 €;165.310,74 €
+C7654;NA;Italy;Cárnicos;Offline;Crítica;4/11/2020;765423762;18/11/2020;3139711977;patrickflores@example.net;4756;421,89 €;364,69 €;2.006.508,84 €;1.734.465,64 €
+C5322;NA;Tajikistan;Alimento infantil;Offline;Media;6/06/2021;532205045;1/07/2021;3156704089;mark60@example.com;154;255,28 €;159,42 €;39.313,12 €;24.550,68 €
+C3455;NA;Montenegro;Verduras;Online;Media;21/03/2022;345527160;28/04/2022;3015491719;christopher10@example.com;8020;154,06 €;90,93 €;1.235.561,20 €;729.258,60 €
+C5257;NA;Sao Tome and Principe;Verduras;Online;Crítica;10/06/2021;525751435;5/07/2021;3143731912;gguerra@example.net;388;154,06 €;90,93 €;59.775,28 €;35.280,84 €
+C5635;NA;Somalia;Verduras;Online;Baja;8/01/2022;563551700;24/02/2022;3042670011;jacobbullock@example.org;6326;154,06 €;90,93 €;974.583,56 €;575.223,18 €
+C4699;NA;Italy;Alimento infantil;Offline;Baja;25/07/2021;469914281;18/08/2021;3183432426;michael23@example.com;6933;255,28 €;159,42 €;1.769.856,24 €;1.105.258,86 €
+C3261;NA;Poland;Cárnicos;Online;Alta;14/05/2022;326138007;4/06/2022;3057675055;linda78@example.com;339;421,89 €;364,69 €;143.020,71 €;123.629,91 €
+C7338;NA;Ukraine;Material de oficina;Offline;Crítica;29/05/2021;733834207;9/06/2021;3051738029;michael11@example.org;6704;651,21 €;524,96 €;4.365.711,84 €;3.519.331,84 €
+C5649;NA;Cambodia;Doméstico;Online;Crítica;12/05/2020;564926707;19/05/2020;3183768459;susanfuentes@example.org;3221;668,27 €;502,54 €;2.152.497,67 €;1.618.681,34 €
+C1116;NA;Bosnia and Herzegovina;Ropa;Offline;Crítica;19/04/2021;-111651837;25/05/2021;3059743082;douglasnelson@example.org;9115;109,28 €;35,84 €;996.087,20 €;326.681,60 €
+C6365;NA;Philippines;Verduras;Online;Media;28/05/2022;636558425;8/06/2022;3116910024;nichole89@example.net;639;154,06 €;90,93 €;98.444,34 €;58.104,27 €
+C3225;NA;Japan;Snacks;Offline;Alta;9/04/2022;322507798;21/04/2022;3024445349;jonathan50@example.net;6079;152,58 €;97,44 €;927.533,82 €;592.337,76 €
+C1226;NA;Turkmenistan;Ropa;Offline;Alta;25/04/2021;122673785;29/04/2021;3009753264;taylortaylor@example.net;754;109,28 €;35,84 €;82.397,12 €;27.023,36 €
+C6105;NA;Andorra;Verduras;Offline;Media;12/05/2020;610542714;29/05/2020;3055588466;justinwolfe@example.com;2012;154,06 €;90,93 €;309.968,72 €;182.951,16 €
+C6299;NA;Kenya;Alimento infantil;Online;Baja;23/01/2022;629913413;9/02/2022;3173282628;albertlawson@example.org;4232;255,28 €;159,42 €;1.080.344,96 €;674.665,44 €
+C4448;NA;Mozambique;Ropa;Online;Alta;24/11/2020;444897210;1/01/2021;3152145847;bakerholly@example.org;3826;109,28 €;35,84 €;418.105,28 €;137.123,84 €
+C3899;NA;Solomon Islands;Snacks;Offline;Alta;3/10/2021;389917933;18/11/2021;3145203265;veronica89@example.org;4236;152,58 €;97,44 €;646.328,88 €;412.755,84 €
+C4197;NA;Democratic Republic of the Congo;Cosméticos;Online;Alta;7/05/2021;419711911;1/06/2021;3177276522;bridgesstephanie@example.net;936;437,20 €;263,33 €;409.219,20 €;246.476,88 €
+C5593;NA;Uganda;Ropa;Offline;Baja;27/01/2021;559327971;15/03/2021;3009580215;adamross@example.net;6431;109,28 €;35,84 €;702.779,68 €;230.487,04 €
+C4541;NA;Albania;Material de oficina;Online;Alta;29/09/2022;454127442;12/11/2022;3029156729;perrykim@example.net;5257;651,21 €;524,96 €;3.423.410,97 €;2.759.714,72 €
+C7197;NA;Samoa ;Cereales;Online;Crítica;1/06/2021;719784152;11/07/2021;3187842145;tara65@example.org;8981;205,70 €;117,11 €;1.847.391,70 €;1.051.764,91 €
+C6922;NA;Indonesia;Verduras;Online;Alta;16/02/2021;692284429;7/03/2021;3118709312;thomasmonica@example.org;1201;154,06 €;90,93 €;185.026,06 €;109.206,93 €
+C6779;NA;South Africa;Snacks;Offline;Baja;12/01/2022;677927100;18/01/2022;3123652374;fwest@example.org;2549;152,58 €;97,44 €;388.926,42 €;248.374,56 €
+C6033;NA;Malawi;Cereales;Online;Baja;27/10/2021;603323495;6/12/2021;3041377785;robert39@example.com;5684;205,70 €;117,11 €;1.169.198,80 €;665.653,24 €
+C4653;NA;United Kingdom;Ropa;Online;Baja;11/01/2020;465397441;23/02/2020;3119705578;jasonlewis@example.net;300;109,28 €;35,84 €;32.784,00 €;10.752,00 €
+C7813;NA;Jamaica;Alimento infantil;Online;Alta;17/04/2022;781385266;22/04/2022;3174990669;monicastanley@example.net;8119;255,28 €;159,42 €;2.072.618,32 €;1.294.330,98 €
+C3388;NA;Nepal;Material de oficina;Offline;Media;21/10/2021;338835799;26/10/2021;3005585311;millerelizabeth@example.com;7898;651,21 €;524,96 €;5.143.256,58 €;4.146.134,08 €
+C2456;NA;Mali;Alimento infantil;Online;Crítica;20/09/2020;245610368;22/10/2020;3181478767;tonya92@example.org;421;255,28 €;159,42 €;107.472,88 €;67.115,82 €
+C7798;NA;China;Alimento infantil;Online;Alta;7/03/2020;779882800;21/03/2020;3055089410;antonioblair@example.net;3506;255,28 €;159,42 €;895.011,68 €;558.926,52 €
+C9401;NA;Togo;Cuidado personal;Online;Baja;19/09/2021;940139424;2/11/2021;3138431113;anthonycarroll@example.com;7002;81,73 €;56,67 €;572.273,46 €;396.803,34 €
+C6951;NA;Solomon Islands;Doméstico;Offline;Alta;16/02/2020;695179069;16/02/2020;3125761789;qfields@example.net;7790;668,27 €;502,54 €;5.205.823,30 €;3.914.786,60 €
+C5341;NA;Central African Republic;Frutas;Offline;Crítica;12/01/2022;534113061;10/02/2022;3107346204;shannonmichael@example.com;4779;9,33 €;6,92 €;44.588,07 €;33.070,68 €
+C1163;NA;Swaziland;Cosméticos;Online;Baja;10/08/2021;116365230;20/08/2021;3017140708;kelly85@example.org;3912;437,20 €;263,33 €;1.710.326,40 €;1.030.146,96 €
+C5216;NA;United Arab Emirates;Cereales;Online;Media;28/12/2021;521671903;6/02/2022;30;lmccoy@example.com;3164;205,70 €;117,11 €;650.834,80 €;370.536,04 €
+C2000;NA;Fiji;Bebida;Offline;Baja;12/06/2022;-200081908;12/06/2022;3058031439;royheather@example.org;7538;47,45 €;31,79 €;357.678,10 €;239.633,02 €
+C8219;NA;Swaziland;Cosméticos;Offline;Crítica;19/08/2022;821956574;27/09/2022;3056182713;frostdylan@example.org;4071;437,20 €;263,33 €;1.779.841,20 €;1.072.016,43 €
+C5279;NA;Vatican City;Verduras;Offline;Alta;7/03/2021;527969729;17/04/2021;3158074933;rturner@example.com;6830;154,06 €;90,93 €;1.052.229,80 €;621.051,90 €
+;NA;Thailand;Bebida;Online;Baja;5/11/2022;679107701;7/11/2022;3126661468;matthew56@example.org;1915;47,45 €;31,79 €;90.866,75 €;60.877,85 €
+C9066;NA;Georgia;Verduras;Online;Alta;12/10/2022;906669318;24/10/2022;3125403924;fisherchristopher@example.org;2454;154,06 €;90,93 €;378.063,24 €;223.142,22 €
+C4622;NA;Guinea-Bissau;Snacks;Online;Baja;31/03/2022;462265908;19/04/2022;3133141991;oowens@example.com;3610;152,58 €;97,44 €;550.813,80 €;351.758,40 €
+C4678;NA;Estonia;Snacks;Online;Baja;28/06/2021;467821300;9/07/2021;3108762956;westronald@example.org;7573;152,58 €;97,44 €;1.155.488,34 €;737.913,12 €
+C7655;NA;Swaziland;Cosméticos;Offline;Alta;26/02/2021;765571820;7/04/2021;3044266107;chad54@example.org;8569;437,20 €;263,33 €;3.746.366,80 €;2.256.474,77 €
+C3680;NA;Trinidad and Tobago;Cosméticos;Online;Crítica;9/11/2020;368066298;24/12/2020;3148863000;benjamin05@example.com;7852;437,20 €;263,33 €;3.432.894,40 €;2.067.667,16 €
+C6081;NA;Ghana;Doméstico;Online;Media;12/08/2020;608166062;9/09/2020;3017474469;edwardcraig@example.com;8707;668,27 €;502,54 €;5.818.626,89 €;4.375.615,78 €
+C1890;NA;Djibouti;Ropa;Online;Alta;10/04/2022;189044940;12/05/2022;3154002513;karentaylor@example.net;1454;109,28 €;35,84 €;158.893,12 €;52.111,36 €
+C1341;NA;New Zealand;Cereales;Offline;Crítica;15/05/2022;134189260;24/05/2022;3172255428;stewartyvonne@example.org;8439;205,70 €;117,11 €;1.735.902,30 €;988.291,29 €
+C6373;NA;Syria;Cuidado personal;Offline;Baja;17/02/2022;637397849;21/02/2022;3116471050;qlyons@example.com;9043;81,73 €;56,67 €;739.084,39 €;512.466,81 €
+C6127;NA;Albania;Ropa;Online;Alta;26/04/2020;612782037;19/05/2020;3148663284;rgarcia@example.com;4677;109,28 €;35,84 €;511.102,56 €;167.623,68 €
+C8447;NA;Taiwan;Material de oficina;Offline;Crítica;24/05/2020;844765651;1/06/2020;3136056753;stephanie40@example.org;3783;651,21 €;524,96 €;2.463.527,43 €;1.985.923,68 €
+C8380;NA;Ethiopia;Bebida;Offline;Media;2/07/2020;838085019;21/07/2020;3172761519;jenniferhart@example.org;6836;47,45 €;31,79 €;324.368,20 €;217.316,44 €
+C1677;NA;United Kingdom;Snacks;Offline;Media;11/08/2020;167788970;11/08/2020;3054507414;patriciathompson@example.net;1340;152,58 €;97,44 €;204.457,20 €;130.569,60 €
+C7292;NA;Cape Verde;Material de oficina;Offline;Baja;5/02/2021;729238831;16/02/2021;3185388265;mendezjennifer@example.com;6830;651,21 €;524,96 €;4.447.764,30 €;3.585.476,80 €
+C8881;NA;Tanzania;Alimento infantil;Online;Media;24/04/2021;888108432;13/06/2021;3187218380;brandonharrison@example.org;9876;255,28 €;159,42 €;2.521.145,28 €;1.574.431,92 €
+C4303;NA;Trinidad and Tobago;Snacks;Online;Alta;1/01/2021;430384099;27/01/2021;3107876383;adrian99@example.net;9074;152,58 €;97,44 €;1.384.510,92 €;884.170,56 €
+C1123;NA;Togo;Cereales;Offline;Alta;1/10/2021;112364661;9/11/2021;3171118190;robert24@example.net;55;205,70 €;117,11 €;11.313,50 €;6.441,05 €
+C3106;NA;Montenegro;Doméstico;Online;Alta;7/09/2022;310661447;8/09/2022;3009774154;nwilliams@example.org;480;668,27 €;502,54 €;320.769,60 €;241.219,20 €
+C5721;NA;Russia;Ropa;Offline;Media;23/11/2021;572198283;6/12/2021;3055734757;ulewis@example.com;5042;109,28 €;35,84 €;550.989,76 €;180.705,28 €
+C9642;NA;Nepal;Cereales;Offline;Media;29/09/2020;964211499;7/11/2020;3124759420;elizabethlang@example.com;464;205,70 €;117,11 €;95.444,80 €;54.339,04 €
+C7242;NA;Kenya;Doméstico;Online;Alta;4/06/2022;724249923;3/07/2022;3137713792;wucody@example.org;501;668,27 €;502,54 €;334.803,27 €;251.772,54 €
+C5101;NA;Zimbabwe;Alimento infantil;Online;Crítica;11/12/2021;510174882;12/12/2021;3001641856;bakermelissa@example.com;940;255,28 €;159,42 €;239.963,20 €;149.854,80 €
+C1501;NA;Turkey;Bebida;Offline;Alta;15/11/2021;150160205;22/11/2021;3016548841;vlee@example.net;4596;47,45 €;31,79 €;218.080,20 €;146.106,84 €
+C8926;NA;Portugal;Bebida;Online;Media;27/04/2022;892692220;11/05/2022;3154213558;zunigaisabella;6320;47,45 €;31,79 €;299.884,00 €;200.912,80 €
+C4565;NA;Costa Rica;Doméstico;Online;Media;11/05/2022;456569755;9/06/2022;3144117591;villaanthony@example.net;7991;668,27 €;502,54 €;5.340.145,57 €;4.015.797,14 €
+C6809;NA;Canada;Material de oficina;Online;Media;23/06/2021;680904138;11/07/2021;3174152562;barrettmargaret@example.com;3520;651,21 €;524,96 €;2.292.259,20 €;1.847.859,20 €
+C7751;NA;Trinidad and Tobago;Doméstico;Online;Media;25/12/2020;775119197;2/02/2021;3003433642;vpowell@example.net;3850;668,27 €;502,54 €;2.572.839,50 €;1.934.779,00 €
+C4689;NA;Iran;Cárnicos;Online;Baja;7/08/2022;468951261;19/08/2022;3161714778;gsmith@example.com;1954;421,89 €;364,69 €;824.373,06 €;712.604,26 €
+C4624;NA;Burundi;Material de oficina;Online;Baja;16/04/2021;462449157;31/05/2021;3044959781;mosborn@example.net;7837;651,21 €;524,96 €;5.103.532,77 €;4.114.111,52 €
+C1759;NA;Cameroon;Cosméticos;Offline;Alta;3/01/2021;175974214;13/01/2021;3057476959;brookslisa@example.com;3535;437,20 €;263,33 €;1.545.502,00 €;930.871,55 €
+C9002;NA;Maldives;Cosméticos;Offline;Baja;24/10/2021;900200259;10/11/2021;3153804761;feliciaramsey@example.net;8116;437,20 €;263,33 €;3.548.315,20 €;2.137.186,28 €
+C8461;NA;Nicaragua;Cereales;Offline;Crítica;25/04/2021;846113622;3/06/2021;3136643696;ochavez@example.net;2678;205,70 €;117,11 €;550.864,60 €;313.620,58 €
+C9950;NA;Ukraine;Alimento infantil;Offline;Alta;22/10/2021;995013129;27/11/2021;3166447610;cody82@example.org;5351;255,28 €;159,42 €;1.366.003,28 €;853.056,42 €
+C1485;NA;Madagascar;Cuidado personal;Online;Crítica;9/04/2020;148510110;14/05/2020;3107686109;susan92@example.com;6297;81,73 €;56,67 €;514.653,81 €;356.850,99 €
+C7785;NA;Australia;Ropa;Online;Media;27/03/2021;778528392;14/05/2021;3131425980;sallen@example.com;2707;109,28 €;35,84 €;295.820,96 €;97.018,88 €
+C4773;NA;Somalia;Bebida;Online;Media;22/01/2021;477304303;23/01/2021;3144977500;ycole@example.net;3805;47,45 €;31,79 €;180.547,25 €;120.960,95 €
+C5073;NA;San Marino;Snacks;Offline;Alta;13/10/2020;507386672;22/10/2020;3006875423;joshuadunn@example.com;5846;152,58 €;97,44 €;891.982,68 €;569.634,24 €
+C8516;NA;Turkey;Snacks;Offline;Crítica;10/11/2021;851636826;10/11/2021;3181665687;isparks@example.org;7117;152,58 €;97,44 €;1.085.911,86 €;693.480,48 €
+C6632;NA;Grenada;Cárnicos;Online;Alta;4/11/2021;663228595;15/12/2021;3112556609;stephaniemoon@example.net;2934;421,89 €;364,69 €;1.237.825,26 €;1.070.000,46 €
+C5156;NA;Lithuania;Cereales;Offline;Baja;25/07/2021;515648305;3/08/2021;3048101883;marypowell@example.com;647;205,70 €;117,11 €;133.087,90 €;75.770,17 €
+C1526;NA;Papua New Guinea;Bebida;Online;Alta;23/10/2020;152694785;16/11/2020;3048956512;rogersdavid@example.org;4635;47,45 €;31,79 €;219.930,75 €;147.346,65 €
+C7384;NA;Serbia;Cereales;Online;Alta;23/08/2022;738479363;7/09/2022;3188146431;ktaylor@example.org;1309;205,70 €;117,11 €;269.261,30 €;153.296,99 €
+C8074;NA;Ukraine;Snacks;Offline;Media;5/07/2020;807425868;7/07/2020;3001687851;katherine15@example.com;4112;152,58 €;97,44 €;627.408,96 €;400.673,28 €
+C3142;NA;Greenland;Bebida;Offline;Crítica;24/07/2022;314270627;12/08/2022;3152085859;josevaughn@example.net;8517;47,45 €;31,79 €;404.131,65 €;270.755,43 €
+C1840;NA;Lithuania;Doméstico;Offline;Baja;15/08/2021;184062469;20/09/2021;3159176306;joshua42@example.net;7030;668,27 €;502,54 €;4.697.938,10 €;3.532.856,20 €
+C9621;NA;South Sudan;Cuidado personal;Offline;Baja;10/05/2022;962162721;15/06/2022;3107572201;oerickson@example.com;4185;81,73 €;56,67 €;342.040,05 €;237.163,95 €
+C5642;NA;Maldives;Ropa;Online;Crítica;7/09/2022;564245212;19/10/2022;3117041719;danielmiddleton@example.net;1552;109,28 €;35,84 €;169.602,56 €;55.623,68 €
+C1262;NA;Kazakhstan;Doméstico;Offline;Media;3/12/2020;-126296269;12/01/2021;3019773946;mortonbrian@example.com;2728;668,27 €;502,54 €;1.823.040,56 €;1.370.929,12 €
+C8546;NA;Kuwait;Cosméticos;Online;Baja;2/02/2020;854614722;5/02/2020;3187217843;angel02@example.org;8343;437,20 €;263,33 €;3.647.559,60 €;2.196.962,19 €
+C8758;NA;Rwanda;Cuidado personal;Offline;Alta;23/09/2020;875811898;13/10/2020;3048127569;shane81@example.org;1058;81,73 €;56,67 €;86.470,34 €;59.956,86 €
+C1868;NA;Cameroon;Cuidado personal;Offline;Crítica;18/05/2022;186811625;3/06/2022;3168838766;brandifry@example.com;566;81,73 €;56,67 €;46.259,18 €;32.075,22 €
+C2048;NA;Czech Republic;Cárnicos;Offline;Crítica;6/02/2022;204850232;6/03/2022;3115272124;jason24@example.org;8591;421,89 €;364,69 €;3.624.456,99 €;3.133.051,79 €
+C6174;NA;Equatorial Guinea;Doméstico;Offline;Crítica;28/08/2021;617476546;3/10/2021;3104114767;hjones@example.net;3887;668,27 €;502,54 €;2.597.565,49 €;1.953.372,98 €
+C7325;NA;Liberia;Frutas;Online;Crítica;9/05/2020;732551896;5/06/2020;3158917510;berrydustin@example.org;7240;9,33 €;6,92 €;67.549,20 €;50.100,80 €
+C8282;NA;The Gambia;Cuidado personal;Online;Alta;8/03/2022;828250110;10/04/2022;3175138350;cjones@example.com;6468;81,73 €;56,67 €;528.629,64 €;366.541,56 €
+C8030;NA;Liberia;Cuidado personal;Online;Media;8/02/2020;803057515;22/03/2020;3146404996;joseyoung@example.org;1419;81,73 €;56,67 €;115.974,87 €;80.414,73 €
+C6257;NA;Monaco;Material de oficina;Offline;Media;7/05/2020;625772941;15/06/2020;3012387885;julie48@example.com;8974;651,21 €;524,96 €;5.843.958,54 €;4.710.991,04 €
+C7855;NA;Thailand;Snacks;Offline;Alta;17/12/2020;785507714;31/12/2020;3132898808;bennettjesse@example.org;8043;152,58 €;97,44 €;1.227.200,94 €;783.709,92 €
+C9416;NA;Cape Verde;Bebida;Offline;Crítica;1/11/2021;941685664;21/12/2021;3112210381;marshvanessa@example.com;4569;47,45 €;31,79 €;216.799,05 €;145.248,51 €
+C3740;NA;Rwanda;Frutas;Offline;Media;22/05/2020;374043118;2/07/2020;3049499255;marcus91@example.net;6526;9,33 €;6,92 €;60.887,58 €;45.159,92 €
+C2326;NA;Chad;Cuidado personal;Offline;Media;10/08/2021;232628905;1/09/2021;3135084186;edwardruiz@example.net;8917;81,73 €;56,67 €;728.786,41 €;505.326,39 €
+C3878;NA;Turkey;Cuidado personal;Online;Baja;15/04/2022;387804353;23/05/2022;3008659594;larsenmatthew@example.com;8781;81,73 €;56,67 €;717.671,13 €;497.619,27 €
+C7802;NA;Tanzania;Ropa;Online;Crítica;23/01/2021;780243289;17/02/2021;3047197998;steven19@example.org;183;109,28 €;35,84 €;19.998,24 €;6.558,72 €
+C9709;NA;Togo;Cuidado personal;Online;Media;8/09/2022;970932042;9/10/2022;3019226067;rhonda89@example.net;9222;81,73 €;56,67 €;753.714,06 €;522.610,74 €
+C5911;NA;Marshall Islands;Cárnicos;Offline;Alta;23/04/2022;591169440;4/06/2022;3157138169;darlenefreeman@example.net;9029;421,89 €;364,69 €;3.809.244,81 €;3.292.786,01 €
+C6925;NA;Cuba;Doméstico;Online;Baja;14/03/2021;692566812;21/03/2021;3101046738;debbie81@example.org;4765;668,27 €;502,54 €;3.184.306,55 €;2.394.603,10 €
+C5970;NA;Guinea-Bissau;Material de oficina;Online;Baja;16/06/2022;597047984;2/07/2022;3174138956;jillgraham@example.net;8621;651,21 €;524,96 €;5.614.081,41 €;4.525.680,16 €
+C1468;NA;Georgia;Bebida;Online;Alta;3/01/2021;146849286;23/01/2021;3059954523;flynnmelissa@example.org;4822;47,45 €;31,79 €;228.803,90 €;153.291,38 €
+C1545;NA;The Bahamas;Frutas;Offline;Alta;9/03/2022;154519546;15/03/2022;3012764866;carloswright@example.org;4622;9,33 €;6,92 €;43.123,26 €;31.984,24 €
+C1529;NA;Ukraine;Frutas;Offline;Crítica;16/04/2020;-152920091;17/05/2020;3139504624;tylerharris@example.com;1308;9,33 €;6,92 €;12.203,64 €;9.051,36 €
+C6452;NA;Djibouti;Cereales;Online;Crítica;13/01/2020;645224750;14/02/2020;3016123081;matthewpace@example.com;5197;205,70 €;117,11 €;1.069.022,90 €;608.620,67 €
+C8549;NA;Honduras;Material de oficina;Offline;Crítica;20/10/2020;854919850;5/11/2020;3053156203;melissa47@example.net;8637;651,21 €;524,96 €;5.624.500,77 €;4.534.079,52 €
+C9758;NA;Palau;Cereales;Online;Crítica;19/12/2020;975804221;13/01/2021;3188;taylorjennifer@example.net;1008;205,70 €;117,11 €;207.345,60 €;118.046,88 €
+C8219;NA;Portugal;Doméstico;Offline;Baja;25/02/2022;821989190;11/03/2022;3048735714;laura34@example.com;3723;668,27 €;502,54 €;2.487.969,21 €;1.870.956,42 €
+C2778;NA;Iraq;Alimento infantil;Offline;Baja;5/02/2022;277898585;6/03/2022;3044248467;carol88@example.com;5222;255,28 €;159,42 €;1.333.072,16 €;832.491,24 €
+C6482;NA;Philippines;Verduras;Offline;Baja;21/10/2021;648268735;17/11/2021;3003380088;danielmcconnell@example.net;5979;154,06 €;90,93 €;921.124,74 €;543.670,47 €
+C6081;NA;Barbados;Frutas;Offline;Crítica;31/03/2021;608148467;3/04/2021;3006366046;cdaniels@example.net;3501;9,33 €;6,92 €;32.664,33 €;24.226,92 €
+C2528;NA;Mozambique;Cereales;Online;Baja;19/10/2020;252899110;5/11/2020;3169383357;garzabrian@example.org;7321;205,70 €;117,11 €;1.505.929,70 €;857.362,31 €
+C6481;NA;Vatican City;Frutas;Online;Alta;1/09/2022;648194491;17/09/2022;3139716147;lance10@example.org;4009;9,33 €;6,92 €;37.403,97 €;27.742,28 €
+C6800;NA;Kuwait;Snacks;Offline;Alta;20/11/2020;680020940;1/12/2020;3026715660;noahmorgan@example.org;2163;152,58 €;97,44 €;330.030,54 €;210.762,72 €
+C2046;NA;Gabon;Alimento infantil;Offline;Crítica;3/10/2022;204677283;3/10/2022;3003592163;hbooth@example.net;7411;255,28 €;159,42 €;1.891.880,08 €;1.181.461,62 €
+;NA;Brunei;Ropa;Online;Media;5/09/2021;498774850;22/10/2021;3158102265;smithemily@example.com;7417;109,28 €;35,84 €;810.529,76 €;265.825,28 €
+C2092;NA;Iran;Frutas;Online;Alta;22/06/2021;209237468;22/06/2021;3135146642;willislee@example.com;6871;9,33 €;6,92 €;64.106,43 €;47.547,32 €
+C3033;NA;Czech Republic;Cosméticos;Offline;Crítica;22/08/2020;303301465;16/09/2020;3179823991;brendagonzales@example.net;2498;437,20 €;263,33 €;1.092.125,60 €;657.798,34 €
+C9185;NA;Nauru;Cárnicos;Offline;Alta;14/05/2022;918515670;7/06/2022;3002924410;droth@example.net;8053;421,89 €;364,69 €;3.397.480,17 €;2.936.848,57 €
+;NA;Monaco;Snacks;Online;Baja;1/09/2021;912741410;11/09/2021;3023202250;cherylperry@example.org;9321;152,58 €;97,44 €;1.422.198,18 €;908.238,24 €
+C1141;NA;Vatican City;Cereales;Offline;Baja;9/02/2021;114152514;21/03/2021;3182790955;ggreen@example.org;9121;205,70 €;117,11 €;1.876.189,70 €;1.068.160,31 €
+C6712;NA;Swaziland;Cuidado personal;Online;Baja;18/10/2020;671235311;15/11/2020;3123015407;kcombs@example.com;2300;81,73 €;56,67 €;187.979,00 €;130.341,00 €
+C3027;NA;Barbados;Alimento infantil;Online;Media;2/09/2022;302788627;3/10/2022;3147026446;freemanlisa@example.com;738;255,28 €;159,42 €;188.396,64 €;117.651,96 €
+C8479;NA;Slovakia;Cuidado personal;Online;Media;29/06/2020;847923791;16/07/2020;3048490198;jasoncunningham@example.org;8347;81,73 €;56,67 €;682.200,31 €;473.024,49 €
+C6160;NA;Tuvalu;Alimento infantil;Online;Alta;20/04/2021;616064631;1/06/2021;3151214932;dicksonjoshua@example.com;6070;255,28 €;159,42 €;1.549.549,60 €;967.679,40 €
+;NA;Austria;Frutas;Offline;Media;1/02/2021;236947476;28/02/2021;3117478444;rrice@example.com;6879;9,33 €;6,92 €;64.181,07 €;47.602,68 €
+C4106;NA;Tonga;Doméstico;Online;Alta;16/07/2020;410621154;15/08/2020;3176360726;lewisamber@example.net;779;668,27 €;502,54 €;520.582,33 €;391.478,66 €
+C5574;NA;Dominica;Frutas;Online;Baja;1/10/2020;557446992;24/10/2020;3151230258;aharris@example.net;9807;9,33 €;6,92 €;91.499,31 €;67.864,44 €
+C1680;NA;Samoa ;Cosméticos;Offline;Alta;13/10/2021;168098819;28/10/2021;3154117616;rpowell@example.net;3031;437,20 €;263,33 €;1.325.153,20 €;798.153,23 €
+C1535;NA;Kiribati;Verduras;Offline;Alta;30/03/2021;153562963;29/04/2021;3105698022;zrussell@example.net;1548;154,06 €;90,93 €;238.484,88 €;140.759,64 €
+C5951;NA;Panama;Ropa;Offline;Baja;5/06/2021;595138251;4/07/2021;3179527397;vsanders@example.net;3489;109,28 €;35,84 €;381.277,92 €;125.045,76 €
+C2944;NA;Uzbekistan;Alimento infantil;Online;Baja;4/03/2022;294436013;11/04/2022;3155034332;levi10@example.org;9014;255,28 €;159,42 €;2.301.093,92 €;1.437.011,88 €
+C8233;NA;Swaziland;Alimento infantil;Online;Crítica;16/04/2022;823380076;3/05/2022;3128674622;rcummings@example.com;5317;255,28 €;159,42 €;1.357.323,76 €;847.636,14 €
+C6742;NA;Saudi Arabia;Frutas;Online;Alta;31/12/2020;674206769;15/02/2021;3028017425;cole36@example.org;1620;9,33 €;6,92 €;15.114,60 €;11.210,40 €
+C2094;NA;Zambia;Material de oficina;Offline;Alta;15/03/2022;209464919;20/04/2022;3029444884;staceydean@example.com;4179;651,21 €;524,96 €;2.721.406,59 €;2.193.807,84 €
+C3120;NA;Greenland;Alimento infantil;Online;Alta;17/08/2021;312015855;3/09/2021;3108054215;seth01@example.net;1280;255,28 €;159,42 €;326.758,40 €;204.057,60 €
+C1350;NA;Turkmenistan;Cárnicos;Offline;Baja;21/07/2022;135033404;26/07/2022;3144949802;jeremiah19@example.org;8240;421,89 €;364,69 €;3.476.373,60 €;3.005.045,60 €
+C2520;NA;El Salvador;Alimento infantil;Offline;Media;1/02/2020;252003896;2/03/2020;3167901983;wardheather@example.net;2408;255,28 €;159,42 €;614.714,24 €;383.883,36 €
+C4067;NA;Pakistan;Alimento infantil;Offline;Alta;6/08/2022;406726157;13/08/2022;3057574976;ahowe@example.com;8163;255,28 €;159,42 €;2.083.850,64 €;1.301.345,46 €
+C8633;NA;Libya;Cuidado personal;Offline;Media;15/09/2021;863311517;6/10/2021;3047134546;lisawalsh@example.org;1917;81,73 €;56,67 €;156.676,41 €;108.636,39 €
+C1561;NA;Taiwan;Bebida;Offline;Crítica;20/04/2022;156183803;28/05/2022;3023230250;jamesjames@example.org;7113;47,45 €;31,79 €;337.511,85 €;226.122,27 €
+C9400;NA;Macedonia;Bebida;Offline;Baja;3/02/2021;940079343;17/03/2021;3179035521;frymatthew@example.org;9223;47,45 €;31,79 €;437.631,35 €;293.199,17 €
+C5400;NA;Solomon Islands;Doméstico;Offline;Alta;7/05/2022;540046966;9/05/2022;3184796014;youngtroy@example.com;753;668,27 €;502,54 €;503.207,31 €;378.412,62 €
+C4014;NA;Mexico;Bebida;Offline;Media;22/02/2022;401447999;27/02/2022;3107851843;danaporter@example.org;6239;47,45 €;31,79 €;296.040,55 €;198.337,81 €
+C2399;NA;Somalia;Cuidado personal;Offline;Alta;8/04/2021;239956271;30/04/2021;3043503405;jessicawillis@example.net;7248;81,73 €;56,67 €;592.379,04 €;410.744,16 €
+C2915;NA;Taiwan;Frutas;Online;Media;23/11/2020;291558110;1/01/2021;3144724468;timothyramirez@example.com;7379;9,33 €;6,92 €;68.846,07 €;51.062,68 €
+C8625;NA;Cuba;Doméstico;Online;Crítica;7/03/2021;862552344;5/04/2021;3157963831;christinemiller@example.com;7261;668,27 €;502,54 €;4.852.308,47 €;3.648.942,94 €
+C9795;NA;Federated States of Micronesia;Frutas;Offline;Crítica;3/09/2022;979550302;3/10/2022;3017125636;christina40;9557;9,33 €;6,92 €;89.166,81 €;66.134,44 €
+C6394;NA;Australia;Doméstico;Offline;Alta;17/01/2022;-639475810;3/02/2022;3052480751;kelleymonica@example.com;3958;668,27 €;502,54 €;2.645.012,66 €;1.989.053,32 €
+C3595;NA;Myanmar;Cereales;Offline;Alta;31/01/2022;359565198;1/03/2022;3133422900;bflynn@example.com;2187;205,70 €;117,11 €;449.865,90 €;256.119,57 €
+C7273;NA;Montenegro;Cereales;Online;Baja;9/09/2021;727367293;23/10/2021;3043198884;nicoleryan@example.com;3001;205,70 €;117,11 €;617.305,70 €;351.447,11 €
+C1507;NA;Nigeria;Ropa;Offline;Media;2/03/2020;150743424;2/03/2020;3146980691;kimparker@example.org;7184;109,28 €;35,84 €;785.067,52 €;257.474,56 €
+C7078;NA;The Bahamas;Verduras;Online;Alta;4/07/2021;707867419;2/08/2021;3001475893;rogersmarissa@example.net;2555;154,06 €;90,93 €;393.623,30 €;232.326,15 €
+C4972;NA;Ethiopia;Snacks;Offline;Alta;13/07/2021;497225606;2/08/2021;3114909661;sarah75@example.com;8961;152,58 €;97,44 €;1.367.269,38 €;873.159,84 €
+C3876;NA;Nauru;Verduras;Offline;Alta;30/09/2020;387616813;5/10/2020;3049873815;mholmes@example.org;3283;154,06 €;90,93 €;505.778,98 €;298.523,19 €
+C8681;NA;Haiti;Doméstico;Online;Baja;27/01/2020;868152368;23/02/2020;3052469020;lori08@example.net;4433;668,27 €;502,54 €;2.962.440,91 €;2.227.759,82 €
+C6982;NA;Antigua and Barbuda ;Snacks;Online;Alta;29/03/2022;698256099;14/04/2022;3114967169;tina46@example.org;8351;152,58 €;97,44 €;1.274.195,58 €;813.721,44 €
+C9576;NA;Slovenia;Cárnicos;Online;Baja;29/10/2021;957664334;18/11/2021;3135125782;anthony80@example.com;3013;421,89 €;364,69 €;1.271.154,57 €;1.098.810,97 €
+C9964;NA;Greenland;Material de oficina;Online;Baja;12/12/2020;996425902;2/01/2021;3152897792;jamescross@example.com;3422;651,21 €;524,96 €;2.228.440,62 €;1.796.413,12 €
+C6849;NA;Burundi;Cosméticos;Offline;Crítica;13/02/2022;684902131;28/02/2022;3138357049;ryan02@example.com;6615;437,20 €;263,33 €;2.892.078,00 €;1.741.927,95 €
+C8637;NA;Czech Republic;Material de oficina;Offline;Alta;14/02/2021;863766849;24/03/2021;3121770476;mckaycaleb@example.org;6660;651,21 €;524,96 €;4.337.058,60 €;3.496.233,60 €
+C1940;NA;Equatorial Guinea;Material de oficina;Offline;Media;15/09/2022;194006383;22/10/2022;3164414048;lovejohn@example.net;9655;651,21 €;524,96 €;6.287.432,55 €;5.068.488,80 €
+C1069;NA;Dominican Republic;Ropa;Offline;Alta;7/01/2022;106919562;25/02/2022;3173917074;destiny10@example.com;8729;109,28 €;35,84 €;953.905,12 €;312.847,36 €
+C7541;NA;Poland;Cuidado personal;Online;Crítica;30/04/2020;754117715;24/05/2020;3133061299;laura14@example.org;9045;81,73 €;56,67 €;739.247,85 €;512.580,15 €
+;NA;Albania;Frutas;Offline;Crítica;27/09/2020;557524669;16/11/2020;3128404786;michaelvazquez@example.com;2794;9,33 €;6,92 €;26.068,02 €;19.334,48 €
+C2593;NA;Sudan;Snacks;Offline;Baja;13/01/2021;259376752;10/02/2021;3013503345;ythomas@example.net;4200;152,58 €;97,44 €;640.836,00 €;409.248,00 €
+C6722;NA;Canada;Cárnicos;Online;Baja;31/10/2020;672222793;17/12/2020;3056228345;gjones@example.org;4517;421,89 €;364,69 €;1.905.677,13 €;1.647.304,73 €
+C4289;NA;Czech Republic;Cereales;Online;Baja;24/02/2020;428924119;6/03/2020;3179121205;yfarley@example.org;7033;205,70 €;117,11 €;1.446.688,10 €;823.634,63 €
+C9326;NA;Madagascar;Doméstico;Offline;Crítica;30/10/2020;932654559;9/11/2020;3106500028;gerald38@example.net;2065;668,27 €;502,54 €;1.379.977,55 €;1.037.745,10 €
+C5069;NA;Estonia;Bebida;Online;Alta;10/04/2022;506900441;10/04/2022;3156443124;garciasharon@example.com;1960;47,45 €;31,79 €;93.002,00 €;62.308,40 €
+C2454;NA;Ethiopia;Ropa;Online;Media;4/11/2022;245460593;27/11/2022;3029051975;showell@example.com;6099;109,28 €;35,84 €;666.498,72 €;218.588,16 €
+C8624;NA;Republic of the Congo;Snacks;Online;Media;22/04/2021;862446343;26/05/2021;3108936474;rebecca71@example.net;5893;152,58 €;97,44 €;899.153,94 €;574.213,92 €
+C4422;NA;Croatia;Doméstico;Offline;Crítica;13/02/2021;442281520;14/03/2021;3049850450;uwhite@;9785;668,27 €;502,54 €;6.539.021,95 €;4.917.353,90 €
+C2897;NA;Switzerland;Bebida;Offline;Alta;5/06/2020;289702451;18/06/2020;3003681147;olivereric@example.net;8248;47,45 €;31,79 €;391.367,60 €;262.203,92 €
+C8797;NA;Angola;Bebida;Offline;Crítica;23/01/2022;879757964;27/02/2022;3021007646;wparrish@example.com;8787;47,45 €;31,79 €;416.943,15 €;279.338,73 €
+C5078;NA;Cambodia;Cereales;Offline;Alta;4/09/2020;507809388;5/09/2020;3056742640;matthewdunn@example.com;937;205,70 €;117,11 €;192.740,90 €;109.732,07 €
+C2395;NA;Pakistan;Doméstico;Offline;Crítica;6/05/2021;239530551;17/05/2021;3107052483;lfrancis@example.org;1268;668,27 €;502,54 €;847.366,36 €;637.220,72 €
+C7609;NA;Malawi;Alimento infantil;Online;Baja;13/12/2020;760907781;6/01/2021;3003374187;uwalker@example.net;8376;255,28 €;159,42 €;2.138.225,28 €;1.335.301,92 €
+C1282;NA;Botswana;Cereales;Offline;Baja;29/01/2021;128239905;10/03/2021;3006219831;johnsoncharles@example.com;7893;205,70 €;117,11 €;1.623.590,10 €;924.349,23 €
+C5181;NA;Saint Vincent and the Grenadines;Alimento infantil;Online;Crítica;8/11/2020;518138253;28/11/2020;3102853180;michaeldurham@example.com;7478;255,28 €;159,42 €;1.908.983,84 €;1.192.142,76 €
+C5775;NA;Kiribati;Snacks;Online;Alta;26/03/2021;577526652;10/04/2021;3103813735;jamessmith@example.com;1825;152,58 €;97,44 €;278.458,50 €;177.828,00 €
+C3736;NA;Honduras;Material de oficina;Offline;Baja;18/09/2020;373641431;28/10/2020;3029924668;portega@example.com;7657;651,21 €;524,96 €;4.986.314,97 €;4.019.618,72 €
+C9440;NA;Israel;Cárnicos;Offline;Baja;27/06/2022;944031417;12/08/2022;3145407593;nancy70@example.org;8730;421,89 €;364,69 €;3.683.099,70 €;3.183.743,70 €
+C2465;NA;Brunei;Bebida;Online;Baja;27/07/2021;246557939;14/09/2021;318;tracey07@example.com;828;47,45 €;31,79 €;39.288,60 €;26.322,12 €
+C8093;NA;Senegal;Material de oficina;Online;Baja;9/07/2020;809394824;9/07/2020;3146183602;clarkekrystal@example.com;6770;651,21 €;524,96 €;4.408.691,70 €;3.553.979,20 €
+C2810;NA;Iceland;Verduras;Offline;Alta;24/04/2022;281028401;14/05/2022;3055133663;phillipchase@example.com;1404;154,06 €;90,93 €;216.300,24 €;127.665,72 €
+C8802;NA;Haiti;Material de oficina;Offline;Baja;20/04/2020;880257499;1/05/2020;3172323432;bauereric@example.org;6610;651,21 €;524,96 €;4.304.498,10 €;3.469.985,60 €
+C8461;NA;Switzerland;Alimento infantil;Online;Media;20/07/2022;846193444;2/09/2022;3141115584;jrogers@example.org;6299;255,28 €;159,42 €;1.608.008,72 €;1.004.186,58 €
+C2882;NA;Italy;Cárnicos;Offline;Alta;18/10/2021;288260066;10/11/2021;3029011485;rellis@example.com;1414;421,89 €;364,69 €;596.552,46 €;515.671,66 €
+C7361;NA;Romania;Cereales;Online;Media;12/08/2022;736193692;1/09/2022;3131683044;mmolina@example.com;4928;205,70 €;117,11 €;1.013.689,60 €;577.118,08 €
+C1900;NA;Georgia;Cereales;Offline;Crítica;30/10/2022;190043151;13/12/2022;3164756995;tanderson@example.org;6846;205,70 €;117,11 €;1.408.222,20 €;801.735,06 €
+C7701;NA;United States of America;Cárnicos;Offline;Media;4/09/2020;770169770;18/09/2020;3117735317;keithrichardson@example.com;9205;421,89 €;364,69 €;3.883.497,45 €;3.356.971,45 €
+C1672;NA;Kiribati;Material de oficina;Offline;Crítica;7/12/2021;-167247378;18/01/2022;3144619281;zevans@example.net;1071;651,21 €;524,96 €;697.445,91 €;562.232,16 €
+C1922;NA;Bosnia and Herzegovina;Snacks;Online;Crítica;8/05/2021;192262303;8/05/2021;3046470954;erica14@example.com;3543;152,58 €;97,44 €;540.590,94 €;345.229,92 €
+C9265;NA;Mauritius ;Cuidado personal;Offline;Media;23/03/2021;926513373;23/03/2021;3172804626;billy10@example.net;4751;81,73 €;56,67 €;388.299,23 €;269.239,17 €
+C2716;NA;Greenland;Cárnicos;Online;Media;23/05/2021;271611917;9/06/2021;3057209601;rebeccabowen@example.com;4857;421,89 €;364,69 €;2.049.119,73 €;1.771.299,33 €
+C6994;NA;Zimbabwe;Material de oficina;Online;Crítica;31/08/2020;699481761;14/09/2020;3044285223;beth98@example.com;1052;651,21 €;524,96 €;685.072,92 €;552.257,92 €
+C7023;NA;Belgium;Ropa;Offline;Media;12/02/2021;702359235;1/03/2021;3115542231;sonyabass@example.net;2560;109,28 €;35,84 €;279.756,80 €;91.750,40 €
+C6427;NA;Luxembourg;Verduras;Online;Media;9/12/2020;642793166;19/01/2021;3045809646;ashleyryan@example.net;5637;154,06 €;90,93 €;868.436,22 €;512.572,41 €
+C5036;NA;Sudan;Material de oficina;Online;Baja;28/07/2021;503644883;9/08/2021;3168886080;amanda32@example.net;8568;651,21 €;524,96 €;5.579.567,28 €;4.497.857,28 €
+C3380;NA;Cote d'Ivoire;Cuidado personal;Online;Alta;31/07/2020;338088214;18/09/2020;3184757612;longanthony@example.net;6670;81,73 €;56,67 €;545.139,10 €;377.988,90 €
+C7196;NA;Rwanda;Cereales;Offline;Media;24/08/2021;719609487;21/09/2021;3144595664;ljackson;7293;205,70 €;117,11 €;1.500.170,10 €;854.083,23 €
+C4920;NA;Mexico;Verduras;Online;Media;14/09/2021;492007529;4/10/2021;3124597039;william63@example.net;4816;154,06 €;90,93 €;741.952,96 €;437.918,88 €
+C8193;NA;Tuvalu;Verduras;Offline;Crítica;12/12/2020;819393670;16/12/2020;3004605918;sharris@example.net;5651;154,06 €;90,93 €;870.593,06 €;513.845,43 €
+C2361;NA;Guinea-Bissau;Frutas;Offline;Crítica;31/05/2021;236191737;1/06/2021;3147114533;duranamber@example.net;3239;9,33 €;6,92 €;30.219,87 €;22.413,88 €
+C4971;NA;Greece;Cereales;Online;Crítica;31/08/2022;497138059;12/10/2022;3004966077;zmartinez@example.com;3054;205,70 €;117,11 €;628.207,80 €;357.653,94 €
+C7272;NA;Haiti;Bebida;Online;Baja;23/05/2020;727281463;11/07/2020;3185225025;sjones@example.com;7601;47,45 €;31,79 €;360.667,45 €;241.635,79 €
+C5719;NA;Yemen;Cárnicos;Online;Media;11/02/2022;571983277;14/02/2022;3109753843;gbonilla@example.com;1417;421,89 €;364,69 €;597.818,13 €;516.765,73 €
+C6469;NA;Russia;Cuidado personal;Offline;Baja;13/01/2020;646917331;13/02/2020;3168943186;ncampos@example.net;6069;81,73 €;56,67 €;496.019,37 €;343.930,23 €
+C2880;NA;Tunisia ;Alimento infantil;Offline;Media;18/01/2021;288069951;3/02/2021;3115085798;dharris@example.net;5155;255,28 €;159,42 €;1.315.968,40 €;821.810,10 €
+C7017;NA;India;Verduras;Online;Media;14/06/2022;701739966;16/07/2022;3056443006;frenchdaniel@example.org;9305;154,06 €;90,93 €;1.433.528,30 €;846.103,65 €
+C9145;NA;Taiwan;Cereales;Online;Alta;9/12/2021;914538705;26/12/2021;3178957128;marcusjones@example.org;1181;205,70 €;117,11 €;242.931,70 €;138.306,91 €
+C9233;NA;Morocco;Snacks;Offline;Alta;23/11/2021;923389995;9/01/2022;3153513933;ilong@example.net;474;152,58 €;97,44 €;72.322,92 €;46.186,56 €
+C3455;NA;Zimbabwe;Bebida;Online;Media;1/04/2022;345530164;9/04/2022;3042521186;jenniferdillon@example.org;8909;47,45 €;31,79 €;422.732,05 €;283.217,11 €
+C6685;NA;Lebanon;Ropa;Online;Baja;25/11/2021;668508040;25/12/2021;3041307580;wilsoncarrie@example.com;5240;109,28 €;35,84 €;572.627,20 €;187.801,60 €
+C3001;NA;Federated States of Micronesia;Material de oficina;Offline;Alta;27/02/2020;300184953;29/02/2020;3114140671;esparzaamanda@example.com;253;651,21 €;524,96 €;164.756,13 €;132.814,88 €
+C4187;NA;Macedonia;Frutas;Online;Baja;3/01/2021;418734729;6/01/2021;3179803651;hernandezleah@example.com;1766;9,33 €;6,92 €;16.476,78 €;12.220,72 €
+C9226;NA;Ghana;Cosméticos;Online;Media;11/04/2020;922643697;7/05/2020;3108649511;lisarangel@example.net;9628;437,20 €;263,33 €;4.209.361,60 €;2.535.341,24 €
+;NA;Greenland;Material de oficina;Offline;Alta;30/04/2021;880710685;19/06/2021;3147778454;tricia84@example.net;718;651,21 €;524,96 €;467.568,78 €;376.921,28 €
+C7820;NA;Bahrain;Doméstico;Online;Baja;20/03/2022;782047021;6/04/2022;3008398657;kempkathryn@example.net;3947;668,27 €;502,54 €;2.637.661,69 €;1.983.525,38 €
+C2860;NA;Serbia;Alimento infantil;Offline;Crítica;29/10/2022;286076533;10/11/2022;3151916801;andrew48@example.com;5258;255,28 €;159,42 €;1.342.262,24 €;838.230,36 €
+C4725;NA;Lebanon;Alimento infantil;Offline;Alta;1/08/2020;472535550;29/08/2020;3044273683;jennifer24@example.net;2625;255,28 €;159,42 €;670.110,00 €;418.477,50 €
+C6914;NA;Monaco;Cárnicos;Online;Alta;19/06/2020;691472899;7/08/2020;3164715517;nguyenrebecca@example.com;1052;421,89 €;364,69 €;443.828,28 €;383.653,88 €
+C8132;NA;Iran;Alimento infantil;Online;Alta;18/02/2022;813249909;10/03/2022;3041929074;keith43@example.com;7575;255,28 €;159,42 €;1.933.746,00 €;1.207.606,50 €
+C7785;NA;Mauritius ;Frutas;Online;Media;12/05/2021;778540408;9/06/2021;3018333342;robert53@example.com;6263;9,33 €;6,92 €;58.433,79 €;43.339,96 €
+C1483;NA;Saint Kitts and Nevis ;Cárnicos;Online;Crítica;17/01/2020;148330724;7/02/2020;3164583454;jamessmith;3212;421,89 €;364,69 €;1.355.110,68 €;1.171.384,28 €
+C3539;NA;Bulgaria;Frutas;Online;Baja;27/11/2021;353919684;1/01/2022;3103534907;katie35@example.com;1554;9,33 €;6,92 €;14.498,82 €;10.753,68 €
+C6469;NA;Italy;Ropa;Offline;Media;1/07/2022;646918618;19/07/2022;3168263981;soliskristi@example.com;6450;109,28 €;35,84 €;704.856,00 €;231.168,00 €
+C3492;NA;Namibia;Verduras;Offline;Baja;23/01/2022;349251353;3/02/2022;3001064439;destinystone@example.net;91;154,06 €;90,93 €;14.019,46 €;8.274,63 €
+C2031;NA;San Marino;Bebida;Online;Media;31/03/2021;203154218;13/04/2021;3104879150;emily65@example.org;6702;47,45 €;31,79 €;318.009,90 €;213.056,58 €
+C1211;NA;The Bahamas;Bebida;Offline;Baja;8/07/2022;121176040;23/07/2022;3173870996;darrenburton@example.net;7538;47,45 €;31,79 €;357.678,10 €;239.633,02 €
+C5361;NA;Lebanon;Alimento infantil;Online;Baja;7/03/2020;536178147;27/03/2020;3106173566;xware@example.net;5884;255,28 €;159,42 €;1.502.067,52 €;938.027,28 €
+C1513;NA;Australia;Verduras;Online;Alta;21/10/2021;151334369;7/11/2021;3138698102;marksimmons@example.org;2058;154,06 €;90,93 €;317.055,48 €;187.133,94 €
+C8901;NA;Tajikistan;Cuidado personal;Online;Baja;23/01/2021;890131032;5/02/2021;3163;desiree25@example.com;8408;81,73 €;56,67 €;687.185,84 €;476.481,36 €
+C2463;NA;El Salvador;Doméstico;Online;Alta;14/01/2022;246366965;5/03/2022;3041862867;kimberlyharding@example.com;4315;668,27 €;502,54 €;2.883.585,05 €;2.168.460,10 €
+C7341;NA;Indonesia;Cereales;Online;Baja;21/08/2020;734153497;22/09/2020;3138527598;david78@example.net;1189;205,70 €;117,11 €;244.577,30 €;139.243,79 €
+C4379;NA;Sweden;Cuidado personal;Offline;Media;27/04/2020;437914454;2/05/2020;3129773252;zacharypowell@example.org;7473;81,73 €;56,67 €;610.768,29 €;423.494,91 €
+C6623;NA;Tonga;Doméstico;Offline;Alta;1/02/2022;662386167;1/03/2022;;melvinbowers@example.net;3641;668,27 €;502,54 €;2.433.171,07 €;1.829.748,14 €
+C9826;NA;Mozambique;Ropa;Online;Media;12/03/2020;982617461;25/04/2020;3015098026;deborahmcgee@example.com;7198;109,28 €;35,84 €;786.597,44 €;257.976,32 €
+C5939;NA;Andorra;Cosméticos;Online;Crítica;25/09/2020;593969666;8/10/2020;3055644618;xsimpson@example.net;7678;437,20 €;263,33 €;3.356.821,60 €;2.021.847,74 €
+C5621;NA;Solomon Islands;Verduras;Online;Alta;13/03/2020;562116611;16/04/2020;3146316296;edward52@example.org;1651;154,06 €;90,93 €;254.353,06 €;150.125,43 €
+C6730;NA;Romania;Verduras;Offline;Media;11/03/2021;673044621;26/03/2021;;nstephens@example.org;7715;154,06 €;90,93 €;1.188.572,90 €;701.524,95 €
+C7830;NA;Saint Vincent and the Grenadines;Material de oficina;Offline;Alta;10/06/2022;783052527;17/06/2022;3001480125;danielortega@example.net;1499;651,21 €;524,96 €;976.163,79 €;786.915,04 €
+C3687;NA;France;Cárnicos;Offline;Baja;17/03/2020;368751657;7/04/2020;3105325851;rrios@example.org;664;421,89 €;364,69 €;280.134,96 €;242.154,16 €
+C7770;NA;The Gambia;Doméstico;Offline;Baja;4/03/2021;777065837;12/03/2021;3004248294;iwallace@example.com;9904;668,27 €;502,54 €;6.618.546,08 €;4.977.156,16 €
+C2752;NA;Samoa ;Snacks;Offline;Baja;19/12/2020;275231397;21/01/2021;3016521975;james50@example.org;5941;152,58 €;97,44 €;906.477,78 €;578.891,04 €
+C8007;NA;Serbia;Ropa;Offline;Media;15/10/2022;800797164;1/12/2022;3177234144;tracypeterson@example.net;2531;109,28 €;35,84 €;276.587,68 €;90.711,04 €
+C3116;NA;Saint Vincent and the Grenadines;Cosméticos;Online;Alta;25/08/2021;311624467;8/09/2021;3102819457;aliciaanderson@example.com;5460;437,20 €;263,33 €;2.387.112,00 €;1.437.781,80 €
+C4358;NA;Syria;Bebida;Offline;Baja;11/02/2020;435887134;21/03/2020;3134742960;williamsjohn@example.net;7544;47,45 €;31,79 €;357.962,80 €;239.823,76 €
+C6220;NA;Australia;Verduras;Offline;Alta;22/02/2021;622071492;3/04/2021;3041297509;xfoster@example.org;3633;154,06 €;90,93 €;559.699,98 €;330.348,69 €
+C3889;NA;Cote d'Ivoire;Cosméticos;Offline;Media;20/12/2020;388976371;9/01/2021;3174104503;joshua81@example.net;5607;437,20 €;263,33 €;2.451.380,40 €;1.476.491,31 €
+C6757;NA;Dominican Republic;Cuidado personal;Online;Crítica;5/12/2021;675713098;23/01/2022;3148260885;twilson@example.com;7376;81,73 €;56,67 €;602.840,48 €;417.997,92 €
+C6917;NA;Rwanda;Frutas;Online;Media;21/06/2022;691705501;24/07/2022;3117666653;smithsydney@example.com;9884;9,33 €;6,92 €;92.217,72 €;68.397,28 €
+C1666;NA;Chad;Cosméticos;Online;Media;17/06/2021;166689908;29/07/2021;3143926971;hansenannette@example.com;6103;437,20 €;263,33 €;2.668.231,60 €;1.607.102,99 €
+C7007;NA;Kenya;Doméstico;Offline;Alta;9/06/2022;700715148;14/07/2022;3116841393;lindseylori@example.com;6039;668,27 €;502,54 €;4.035.682,53 €;3.034.839,06 €
+C8141;NA;Belize;Bebida;Online;Media;11/10/2020;814142549;14/11/2020;3008531957;penny27@example.org;1727;47,45 €;31,79 €;81.946,15 €;54.901,33 €
+C8976;NA;Palau;Snacks;Offline;Crítica;6/04/2022;897645938;23/05/2022;3044413925;jacobszachary@example.org;2236;152,58 €;97,44 €;341.168,88 €;217.875,84 €
+C9622;NA;Equatorial Guinea;Material de oficina;Offline;Alta;21/08/2021;962211644;9/10/2021;3132552469;vmartinez@example.com;8663;651,21 €;524,96 €;5.641.432,23 €;4.547.728,48 €
+C1891;NA;Kyrgyzstan;Doméstico;Offline;Baja;14/03/2021;189138495;14/03/2021;3186479078;petersonthomas@example.com;9139;668,27 €;502,54 €;6.107.319,53 €;4.592.713,06 €
+C9800;NA;Bangladesh;Frutas;Online;Baja;15/10/2020;980037820;10/11/2020;3163302808;barronbeth@example.com;3824;9,33 €;6,92 €;35.677,92 €;26.462,08 €
+C4068;NA;Bhutan;Alimento infantil;Online;Alta;28/01/2022;406833446;9/03/2022;3008915862;garciajeffrey@example.net;9912;255,28 €;159,42 €;2.530.335,36 €;1.580.171,04 €
+C5617;NA;Macedonia;Cárnicos;Offline;Baja;1/06/2021;561761701;18/06/2021;3155230006;kenneth55@example.com;6626;421,89 €;364,69 €;2.795.443,14 €;2.416.435,94 €
+C9073;NA;Samoa ;Verduras;Offline;Crítica;18/09/2022;907371413;11/10/2022;3181221915;ehenderson@example.com;220;154,06 €;90,93 €;33.893,20 €;20.004,60 €
+C5265;NA;Austria;Bebida;Online;Media;11/09/2021;526523911;16/10/2021;3138636723;stacycrawford@example.net;8981;47,45 €;31,79 €;426.148,45 €;285.505,99 €
+C3723;NA;Italy;Bebida;Online;Alta;24/08/2021;372393023;12/09/2021;3155186076;ashleynicholson@example.net;8226;47,45 €;31,79 €;390.323,70 €;261.504,54 €
+C1184;NA;Bahrain;Material de oficina;Offline;Media;11/07/2020;118465077;16/07/2020;3019937449;donna70@example.org;5304;651,21 €;524,96 €;3.454.017,84 €;2.784.387,84 €
+C4085;NA;Australia;Snacks;Offline;Crítica;26/12/2020;408538901;5/01/2021;3044144817;omurray;4594;152,58 €;97,44 €;700.952,52 €;447.639,36 €
+C6067;NA;Nigeria;Cosméticos;Online;Baja;15/05/2020;606725823;31/05/2020;3128162997;dfrench@example.net;2509;437,20 €;263,33 €;1.096.934,80 €;660.694,97 €
+C1474;NA;Spain;Ropa;Offline;Crítica;13/09/2020;147449672;26/10/2020;;meghan32@example.org;2489;109,28 €;35,84 €;271.997,92 €;89.205,76 €
+;NA;Hungary;Cárnicos;Online;Media;22/07/2021;785446774;11/08/2021;3002547020;ccox@example.com;10;421,89 €;364,69 €;4.218,90 €;3.646,90 €
+C7457;NA;Bosnia and Herzegovina;Verduras;Offline;Baja;22/06/2021;745765960;14/07/2021;3013824930;carterdavid@example.net;7575;154,06 €;90,93 €;1.167.004,50 €;688.794,75 €
+C5737;NA;South Korea;Cosméticos;Online;Crítica;5/04/2022;573768556;5/05/2022;12;ashley47@example.com;9721;437,20 €;263,33 €;4.250.021,20 €;2.559.830,93 €
+C8851;NA;The Gambia;Snacks;Offline;Baja;2/11/2021;885128390;20/11/2021;3016260224;xmaynard@example.com;8015;152,58 €;97,44 €;1.222.928,70 €;780.981,60 €
+C1158;NA;Norway;Bebida;Online;Baja;19/05/2021;115831792;9/06/2021;45;dhall@example.net;6056;47,45 €;31,79 €;287.357,20 €;192.520,24 €
+C3721;NA;Mexico;Frutas;Offline;Media;16/01/2021;372177588;30/01/2021;12345;hernandezandrew@example.org;4474;9,33 €;6,92 €;41.742,42 €;30.960,08 €
+C6807;NA;France;Cosméticos;Offline;Baja;20/05/2021;680777108;22/06/2021;3158087333;robert89@example.net;5930;437,20 €;263,33 €;2.592.596,00 €;1.561.546,90 €
+C1385;NA;Belize;Frutas;Offline;Alta;3/12/2021;138554179;6/12/2021;3043064795;lawsonsusan;115;9,33 €;6,92 €;1.072,95 €;795,80 €
+C1627;NA;Malawi;Bebida;Online;Alta;4/08/2022;162745130;19/08/2022;3183423221;donnarollins@example.org;8755;47,45 €;31,79 €;415.424,75 €;278.321,45 €
+C4408;NA;India;Cuidado personal;Offline;Crítica;17/04/2022;-440898787;1/06/2022;3142736793;rickythomas;604;81,73 €;56,67 €;49.364,92 €;34.228,68 €
+C2808;NA;Tajikistan;Frutas;Online;Media;29/04/2020;280876481;31/05/2020;3047261519;monroealexander@example.net;6447;9,33 €;6,92 €;60.150,51 €;44.613,24 €
+C8608;NA;Finland;Verduras;Online;Baja;9/09/2020;860852038;15/09/2020;3124093669;evanparker@example.net;4103;154,06 €;90,93 €;632.108,18 €;373.085,79 €
+C2793;NA;Rwanda;Ropa;Offline;Crítica;22/01/2022;279311788;1/02/2022;3142444469;dgray@example.net;3420;109,28 €;35,84 €;373.737,60 €;122.572,80 €
